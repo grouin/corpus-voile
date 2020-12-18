@@ -1,0 +1,12 @@
+T1	voilier 238 245	IMOCA60
+T2	equipage 51 57	Charal
+T3	personne 59 71	JeremieBeyou
+T4	categorie 93 102	monocoque
+T5	taille 106 115	18 mètres
+T6	personne 183 195	ChrismarSail
+T7	vitesse 125 133	25 nœuds
+T8	technique 247 251	foil
+T9	fonction 34 42	mediaman
+T10	fonction 156 167	photographe
+T11	fonction 174 181	skipper
+R1	skipper Arg1:T3 Arg2:T2	

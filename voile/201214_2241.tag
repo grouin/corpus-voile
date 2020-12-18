@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. Hors course, @<personne>samanthadavies</personne>  est repartie de <lieu>Cape Town</lieu> pour boucler son <type>tour du monde</type> #<course>VG2020</course> #<course>VendeeGlobe2020</course> @<equipage>initiativecoeur</equipage>

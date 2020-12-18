@@ -1,0 +1,6 @@
+T1	bateau 30 43	Charles Marie
+T2	lieu 76 83	Chausey
+T3	categorie 21 29	gréement
+T4	incident 44 56	hélitreuillé
+R1	localisation Arg1:T4 Arg2:T2	
+R2	localisation Arg1:T1 Arg2:T2	

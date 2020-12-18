@@ -1,0 +1,1 @@
+#exclusif @<personne>borisherrmann</personne> explique comment @<personne>GretaThunberg</personne> vivra à bord de son <bateau>Malizia</bateau> #<lieu>NewYork</lieu> #<equipage>teammalizia</equipage> http://bit.ly/2OScmwV 

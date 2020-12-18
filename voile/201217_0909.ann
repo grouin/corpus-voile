@@ -1,0 +1,8 @@
+T1	course 0 12	Vendée Globe
+T2	incident 14 24	Voie d’eau
+T3	personne 41 53	ThomasRuyant
+T4	lieu 66 75	Pacifique
+T5	personne 77 92	YannickBestaven
+T6	course 122 128	VG2020
+T7	vitesse 110 118	20 nœuds
+R1	localisation Arg1:T5 Arg2:T4	

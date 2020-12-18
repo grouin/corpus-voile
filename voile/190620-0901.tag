@@ -1,0 +1,1 @@
+Les six équipages de @<course>SailGP</course> vont affoler les compteurs à <lieu>New York</lieu> ces <date>21 et 22 juin</date>. Avant cette nouvelle confrontation, pénétrez au cœur du team @<equipage>SailGPFRA</equipage> , des briefings, des entraînements et des <type>régates</type> avec cette vidéo http://bit.ly/2XtHJki 

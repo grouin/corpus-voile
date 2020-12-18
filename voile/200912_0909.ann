@@ -1,0 +1,4 @@
+T1	equipage 47 65	Campagne de France
+T2	course 7 18	Défi Azimut
+T3	personne 69 83	Miranda Merron
+R1	skipper Arg1:T3 Arg2:T1	

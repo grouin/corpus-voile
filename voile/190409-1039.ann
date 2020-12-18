@@ -1,0 +1,6 @@
+T1	categorie 26 34	trimaran
+T2	personne 39 53	francoisgabart
+T3	equipage 57 69	SkipperMacif
+T4	voilier 86 94	Diam24OD
+T5	organisation 71 84	trimaranMACIF
+R1	skipper Arg1:T2 Arg2:T3	

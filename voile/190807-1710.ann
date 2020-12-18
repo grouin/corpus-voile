@@ -1,0 +1,9 @@
+T1	etape 35 49	première étape
+T2	personne 0 14	Xavier Macaire
+T3	lieu 26 31	Gijon
+T4	course 56 71	Dournenez-Gijon
+T5	course 73 87	dzcoursesgijon
+T6	rang 15 23	remporte
+R1	classement Arg1:T2 Arg2:T6	
+R2	localisation Arg1:T6 Arg2:T3	
+R3	localisation Arg1:T2 Arg2:T3	

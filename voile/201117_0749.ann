@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	personne 14 26	Alex Thomson
+T3	personne 72 78	Ruyant
+T4	rang 84 92	2e place
+R1	classement Arg1:T3 Arg2:T4	
+T5	lieu 59 70	pot au noir
+#1	AnnotatorNotes T5	zone de convergence intertropicale entre hémisphères nord et sud

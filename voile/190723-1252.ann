@@ -1,0 +1,9 @@
+T1	voilier 181 186	Ultim
+T2	equipage 97 107	GitanaTeam
+T3	personne 30 39	Yann Riou
+T4	categorie 62 66	Maxi
+T5	bateau 67 87	Edmond de Rothschild
+T6	lieu 140 153	Sud irlandais
+T7	course 163 179	RolexFastnetRace
+T8	fonction 21 29	mediaman
+R1	localisation Arg1:T2 Arg2:T6	

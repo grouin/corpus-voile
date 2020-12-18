@@ -1,0 +1,11 @@
+T1	course 0 12	Vendée Globe
+T2	meteo 18 25	rafales
+T3	vitesse 28 36	55 nœuds
+T4	date 37 44	ce soir
+T5	rang 49 55	leader
+T6	personne 56 69	Charlie Dalin
+T7	meteo 89 96	tempête
+T8	course 98 104	VG2020
+T9	equipage 106 117	ApiviaVoile
+R1	classement Arg1:T6 Arg2:T5	
+R2	skipper Arg1:T6 Arg2:T9	

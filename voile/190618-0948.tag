@@ -1,0 +1,1 @@
+Amende et suspension de permis pour des <fonction>plaisanciers</fonction> qui n'avaient pas respecté les zones d'exclusion sur le plan d'eau au départ de la dernière <course>Route du Rhum</course>. @<course>routedurhum</course> http://bit.ly/rhum31GNU40 

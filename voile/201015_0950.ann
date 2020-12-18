@@ -1,0 +1,5 @@
+T1	lieu 8 14	Europe
+T2	lieu 109 115	Manche
+T3	date 135 140	lundi
+T4	incident 154 197	bombardés de fusées éclairantes, de pierres
+R1	localisation Arg1:T4 Arg2:T2	

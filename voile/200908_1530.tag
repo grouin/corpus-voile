@@ -1,0 +1,1 @@
+Hors-série 59 : Paré à cuisiner ! Découvrez et achetez ce hors-série : http://tinyurl.com/y5zrxmjl Faites bonne chère avec les récits de <fonction>marins</fonction> et + de 50 recettes à réaliser au port, au mouillage ou en mer ! Et retrouvez les conseils et astuces de la communauté voile !

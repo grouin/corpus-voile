@@ -1,0 +1,1 @@
+Près de 1200 participants venus des quatre coins du monde ont participé <date>ce week-end</date> au @<evenement>defiwind</evenement>, le plus gros <evenement>rassemblement mondial</evenement> de #<pratique>windsurf</pratique>. Revivez l'événement en vidéo http://bit.ly/2JT8eJK 

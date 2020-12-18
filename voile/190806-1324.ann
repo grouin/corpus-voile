@@ -1,0 +1,7 @@
+T1	course 169 180	VendeeGlobe
+T2	personne 38 50	CharlieDalin
+T3	course 147 154	ImocaGS
+T4	equipage 156 167	ApiviaVoile
+T5	technique 101 108	cockpit
+T6	technique 116 121	foils
+R1	skipper Arg1:T2 Arg2:T4	

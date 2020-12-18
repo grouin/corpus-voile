@@ -1,0 +1,7 @@
+T1	organisation 78 85	FFVoile
+T2	organisation 87 97	FFVoileEvt
+T3	personne 0 21	Pierre-Antoine Morvan
+T4	rang 22 30	triomphe
+T5	personne 68 76	pamorvan
+T6	course 35 65	Internationaux de match-racing
+R1	classement Arg1:T3 Arg2:T4	

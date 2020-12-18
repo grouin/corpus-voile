@@ -1,0 +1,1 @@
+Coucher de soleil aérien sur l’<voilier>IMOCA</voilier> <equipage>Arkéa-Paprec</equipage> @<voilier>ImocaGS</voilier> @<personne>SebastienSimon_</personne> @<organisation>cmarkea</organisation> @<organisation>Paprec_Group</organisation> http://bit.ly/2YIKdw9 

@@ -1,0 +1,1 @@
+Premières <type>régates</type> d'<lieu>Enoshima</lieu> : Florilège en images commentées par <personne>D.Ravon</personne> #roadtotokyo2020 #olympic #<lieu>enoshima</lieu> @<evenement>jeuxolympiques</evenement>   http://bit.ly/2YVG74t 

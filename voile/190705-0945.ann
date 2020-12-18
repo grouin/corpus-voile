@@ -1,0 +1,7 @@
+T1	lieu 17 26	lac Léman
+T2	course 36 44	Bol d’Or
+T3	course 78 92	BoldOrMirabaud
+T4	lieu 94 102	lacleman
+T5	meteo 8 13	orage
+R1	localisation Arg1:T5 Arg2:T1	
+T6	meteo 67 74	tempête

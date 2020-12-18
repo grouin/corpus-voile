@@ -1,0 +1,12 @@
+T1	personne 28 42	Kito de Pavant
+T2	personne 46 56	Alex Pella
+T3	course 1 15	DefiAtlantique
+T4	equipage 17 27	MadeinMidi
+T5	equipage 91 103	Made_in_Midi
+T6	personne 105 118	apellavalette
+T7	rang 71 77	podium
+R1	classement Arg1:T2 Arg2:T7	
+R2	classement Arg1:T1 Arg2:T7	
+R4	classement Arg1:T4 Arg2:T7	
+R3	skipper Arg1:T1 Arg2:T4	
+R5	skipper Arg1:T2 Arg2:T4	

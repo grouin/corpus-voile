@@ -1,0 +1,1 @@
+Retour sur un <course>Mondial 470</course> impérial à @<lieu>enoshima_info</lieu> @<equipage>470objectifOR</equipage> @<course>470Sailing</course> @<equipage>470france_org</equipage> <voilier>470</voilier> http://bit.ly/2yRg2UI 

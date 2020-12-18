@@ -1,0 +1,1 @@
+Après l’<lieu>Australie</lieu> notre <fonction>envoyé spécial</fonction> @<personne>FAVREAUPHOTOS</personne> a repris l’avion, direction la #<lieu>Californie</lieu> cette fois, pour le deuxième acte du @<course>SailGP</course>. Reportage \"inside\" à <lieu>San Francisco</lieu> avec @<equipage>SailGPFRA</equipage> à <date>la veille</date> de la compétition http://bit.ly/2Vb8l9v 

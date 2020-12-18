@@ -1,0 +1,1 @@
+<personne>Jean-Luc Van Den Heede</personne> : « J’essaie de retrouver une vie normale » @<personne>SkypperVDH</personne> @<organisation>ggr2018official</organisation> #<course>goldengloberace</course> #<course>GGR</course> @<evenement>AssisesNautisme</evenement> http://bit.ly/2OPk1Zg 

@@ -1,0 +1,1 @@
+Les Françaises font <rang>2e</rang> et <rang>3e</rang> aux <course>championnats du monde de match racing</course>. @<personne>paulineCourtois</personne>  @<course>worldmrt</course>  https://bit.ly/2Z0swbj 

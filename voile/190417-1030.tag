@@ -1,0 +1,1 @@
+Vidéo. Grimpez dans le <technique>mât</technique> d'un #<categorie>trimaran</categorie> lancé <vitesse>à pleine vitesse</vitesse> \n@<voilier>Diam24OD</voilier> @<organisation>ENVSN56</organisation> @<equipage>Poujoulat_Stamm</equipage> #<voilier>diam24</voilier> http://bit.ly/2ImoRNj 

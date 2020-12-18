@@ -1,0 +1,8 @@
+T1	personne 15 30	Kevin Escoffier
+T2	personne 63 75	CharlieDalin
+T3	lieu 92 114	cap de Bonne-Espérance
+T4	lieu 133 145	océan Indien
+T5	course 161 167	VG2020
+T6	vitesse 151 159	40 nœuds
+R1	localisation Arg1:T2 Arg2:T3	
+R2	localisation Arg1:T2 Arg2:T4	

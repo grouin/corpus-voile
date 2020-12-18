@@ -1,0 +1,1 @@
+Indiscrétion. Nous avons demandé à <personne>Yann Penfornis</personne>, <fonction>directeur</fonction> du chantier <lieu>vannetais</lieu> <organisation>Multiplast</organisation> de commenter la nouvelle <technique>casquette</technique> du futur <equipage>Hugo Boss</equipage> d'@<course>ATRacing99</course> @<voilier>ImocaGS</voilier> http://bit.ly/2y2ZLvw 

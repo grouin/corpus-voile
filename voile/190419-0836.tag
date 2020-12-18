@@ -1,0 +1,1 @@
+VIDÉO. A l'occasion du @<course>spiOF</course> venez <pratique>volez</pratique> avec nous à bord des @<voilier>ETF_26</voilier> grâce à notre caméra embarquée. Ça dépote ! @<personne>JeanPierre_Dick</personne> http://bit.ly/2KMs4Yp 

@@ -1,0 +1,8 @@
+T2	personne 0 14	Thomas Coville
+T4	voilier 78 83	Ultim
+T5	equipage 52 64	Sodebo_Voile
+T6	voilier 66 76	Ultim32_23
+T7	course 41 50	ArMenRace
+R1	skipper Arg1:T2 Arg2:T5	
+T1	rang 15 23	triomphe
+R2	classement Arg1:T2 Arg2:T1	

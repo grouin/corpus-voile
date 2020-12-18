@@ -1,0 +1,1 @@
+Vidéo. Navigation à bord de l'<voilier>IMOCA</voilier> <equipage>Charal</equipage> avec @<personne>JeremieBeyou</personne> et @<personne>ChrismarSail</personne> en route pour la #<course>RolexFastnetRace</course>. Ça va fort !  http://bit.ly/2OurCQo 

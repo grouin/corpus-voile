@@ -1,0 +1,5 @@
+T1	course 7 19	Vendée Globe
+T2	equipage 46 49	PRB
+T3	personne 53 68	Kevin Escoffier
+T5	incident 78 100	collision avec un OFNI
+R1	skipper Arg1:T3 Arg2:T2	

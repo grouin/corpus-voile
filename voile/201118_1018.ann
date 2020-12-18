@@ -1,0 +1,14 @@
+T1	course 0 12	Vendée Globe
+T2	lieu 45 53	équateur
+T3	personne 55 62	Thomson
+T4	personne 64 70	Ruyant
+T5	personne 72 78	Le Cam
+T6	rang 87 99	trio de tête
+T7	course 101 107	VG2020
+T8	course 109 120	VendeeGlobe
+R1	classement Arg1:T5 Arg2:T6	
+R2	classement Arg1:T4 Arg2:T6	
+R3	classement Arg1:T3 Arg2:T6	
+R4	localisation Arg1:T3 Arg2:T2	
+R5	localisation Arg1:T4 Arg2:T2	
+R6	localisation Arg1:T5 Arg2:T2	

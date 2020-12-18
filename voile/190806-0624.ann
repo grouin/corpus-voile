@@ -1,0 +1,5 @@
+T1	equipage 11 24	Hugobossdjess
+T2	personne 27 39	Alex Thomson
+T3	course 41 51	ATRacing99
+T4	fonction 68 84	architecte naval
+R1	skipper Arg1:T2 Arg2:T1	

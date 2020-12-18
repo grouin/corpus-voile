@@ -1,0 +1,1 @@
+Moisson de <rang>médailles</rang> marseillaises pour le <equipage>Team France</equipage>. @<organisation>FFVoile</organisation> @<organisation>FFVoileEvt</organisation> @<lieu>marseille</lieu> https://bit.ly/2IrLmxV 

@@ -1,0 +1,11 @@
+T1	categorie 28 36	trimaran
+T2	personne 0 16	Sébastien Rogues
+T3	personne 49 61	Armel Tripon
+T4	course 89 102	Route du Rhum
+T5	course 121 128	Fastnet
+T6	course 135 156	transat Jacques Vabre
+T7	course 206 218	TransatJV_fr
+T8	personne 195 204	sebrogues
+T9	course 181 192	Grands Prix
+T10	rang 68 76	remporté
+R1	classement Arg1:T3 Arg2:T10	

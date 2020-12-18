@@ -1,0 +1,10 @@
+T1	lieu 8 17	Australie
+T2	personne 40 53	FAVREAUPHOTOS
+T3	lieu 86 96	Californie
+T4	course 135 141	SailGP
+T5	lieu 166 179	San Francisco
+T6	equipage 186 195	SailGPFRA
+T7	date 198 207	la veille
+T8	fonction 24 38	envoyé spécial
+R1	localisation Arg1:T2 Arg2:T3	
+R2	localisation Arg1:T6 Arg2:T5	

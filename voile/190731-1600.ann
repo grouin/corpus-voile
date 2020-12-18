@@ -1,0 +1,7 @@
+T1	equipage 36 42	Charal
+T2	personne 66 78	ChrismarSail
+T3	personne 49 61	JeremieBeyou
+T4	voilier 30 35	IMOCA
+T5	course 97 113	RolexFastnetRace
+R1	skipper Arg1:T3 Arg2:T1	
+R2	skipper Arg1:T2 Arg2:T1	

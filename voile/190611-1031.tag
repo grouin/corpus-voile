@@ -1,0 +1,1 @@
+Les 5 <fonction>membres d’équipage</fonction> du voilier <bateau>Lozour</bateau> ont été <incident>hélitreuillés</incident> dans la soirée du <date>jeudi 6 juin</date> à 85 milles au nord-ouest de <lieu>la Corogne</lieu>. Les secours <lieu>espagnols</lieu> ont filmé cette intervention très impressionnante #sauvetage http://bit.ly/2Ws14Oh 

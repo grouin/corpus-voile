@@ -1,0 +1,6 @@
+T1	organisation 226 241	ClasseFigaroben
+T2	course 117 132	LaSolitaire_50e
+T3	personne 81 94	yoannrichomme
+T4	rang 95 112	leader au général
+T5	voilier 243 250	Figaro3
+R1	classement Arg1:T3 Arg2:T4	

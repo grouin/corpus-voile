@@ -1,0 +1,1 @@
+Le nouveau <voilier>First 24</voilier> fait une rentrée remarquée au <course>Spi Ouest-France</course> @<course>spiOF</course> @<voilier>first24in</voilier> @<organisation>SNTrinite</organisation> #<course>SpiOF</course> http://bit.ly/2ULGH2x 

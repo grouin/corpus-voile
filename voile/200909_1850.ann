@@ -1,0 +1,5 @@
+T1	bateau 34 46	Cigare Rouge
+T2	course 84 87	Spi
+T3	personne 67 70	VDH
+T4	personne 0 13	Van Den Heede
+R1	skipper Arg1:T4 Arg2:T1	

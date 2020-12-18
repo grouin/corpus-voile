@@ -1,0 +1,1 @@
+#parution Le nouveau #magazine <organisation>Voiles et Voiliers</organisation> est en #kiosque : retrouvez le #sommaire !  @<course>LaSolitaire_50e</course> #croisière  @<lieu>Marseille</lieu> http://bit.ly/2SbTsPC 

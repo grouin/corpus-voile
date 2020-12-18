@@ -1,0 +1,1 @@
+Record d'audience pulvérisé pour le site de <organisation>Voiles et Voiliers</organisation> ! Vous êtes de plus en plus nombreux à consulter notre site, à nous suivre sur les réseaux sociaux et à vous abonner à notre newsletter. Cette récompense de notre travail nous honore et nous oblige. Merci à tous !

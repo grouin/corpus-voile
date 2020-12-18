@@ -1,0 +1,1 @@
+\"Il est décidément béni, ce 41' <course>Spi Ouest-France</course> !\", selon <personne>Didier Ravon</personne>. @<course>spiOF</course> @<organisation>SNTrinite</organisation> #<course>spi</course> #<course>spiOF</course> #<voilier>ETF26</voilier> http://bit.ly/2IJBn8Q 

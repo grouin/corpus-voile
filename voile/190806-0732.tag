@@ -1,0 +1,1 @@
+En images, découvrez le nouvel <voilier>IMOCA</voilier> <equipage>Hugo Boss</equipage> d' @<personne>AlexThomson99</personne> et les choix décryptés par un <fonction>architecte</fonction> @<voilier>ImocaGS</voilier> @<course>VendeeGlobe</course> http://bit.ly/2T6CNNX 

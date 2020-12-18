@@ -1,0 +1,3 @@
+T1	incident 31 42	en détresse
+T2	lieu 69 79	Fort-Mahon
+R1	localisation Arg1:T1 Arg2:T2	

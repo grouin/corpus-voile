@@ -1,0 +1,1 @@
+<course>Coupe du monde de voile</course>. Le <pratique>kite</pratique> s’invite à #<lieu>Marseille</lieu> et son « dieu » s’appelle @<personne>nicolasparlier</personne> #<pratique>kitesurf</pratique> #<pratique>kiteboarding</pratique> @worldsailing  #<pratique>kiteboard</pratique> http://bit.ly/2ZfyCAX 

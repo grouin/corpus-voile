@@ -1,0 +1,1 @@
+Même si les <type>régates</type> de <date>demain</date> sont annulées, on s'est dit que ce serait sympa de vous faire patienter jusqu'à <date>dimanche</date> avec ce diaporama photos http://bit.ly/2KoaSWJ \n@<course>SailGP</course> @<equipage>SailGPFRA</equipage> @<equipage>SailGPGBR</equipage>

@@ -1,0 +1,5 @@
+T1	lieu 17 26	lac Léman
+T2	course 89 103	BoldOrMirabaud
+T3	lieu 105 111	Geneve
+T4	meteo 8 13	orage
+R1	localisation Arg1:T4 Arg2:T1	

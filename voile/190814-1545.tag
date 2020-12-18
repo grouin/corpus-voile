@@ -1,0 +1,1 @@
+<evenement>Traversée</evenement> de @<personne>GretaThunberg</personne> L’avis de @<personne>loickpeyron</personne> d’<personne>Eugène Riguidel</personne> et de @<personne>SkypperVDH</personne> #<equipage>teammalizia</equipage> @<personne>borisherrmann</personne> #<personne>gretathunberg</personne> http://bit.ly/2Mgs5nn 

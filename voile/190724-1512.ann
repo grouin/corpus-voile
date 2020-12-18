@@ -1,0 +1,6 @@
+T1	lieu 38 45	Cap Cod
+T2	lieu 50 60	Etats-Unis
+T3	date 61 66	mardi
+T5	pratique 132 144	au mouillage
+T6	meteo 21 28	tornade
+R1	localisation Arg1:T6 Arg2:T1	

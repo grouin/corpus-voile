@@ -1,0 +1,1 @@
+Vidéo. Ils sont fous - et très talentueux - les <fonction>skippers</fonction> de la @<course>MiniTransat2019</course> ! Regardez comment l’un d’entre eux, <personne>Lauris Noslier</personne>, escalade son <technique>mât</technique> en solitaire… @<categorie>ClasseMini</categorie>

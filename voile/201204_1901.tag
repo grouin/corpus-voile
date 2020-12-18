@@ -1,0 +1,1 @@
+VIDÉO. <course>Vendée Globe</course> : @<personne>JeanLecam</personne> interviewe @<personne>KevinEscoffier</personne> à bord de <bateau>Yes We Cam</bateau> #<course>VG2020</course> #<course>VendeeGlobe2020</course>

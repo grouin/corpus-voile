@@ -1,0 +1,4 @@
+T1	equipage 75 90	Corum-L’Épargne
+T2	personne 14 28	Nicolas Lunven
+T3	course 0 12	Vendée Globe
+R1	skipper Arg1:T2 Arg2:T1	

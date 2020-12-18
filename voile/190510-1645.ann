@@ -1,0 +1,11 @@
+T1	date 71 79	24 avril
+T2	lieu 120 128	Bouveret
+T3	lieu 130 136	Suisse
+T4	lieu 151 156	Léman
+T5	bateau 0 13	La Demoiselle
+T6	technique 37 51	voiles latines
+T7	categorie 15 34	bateau traditionnel
+T8	meteo 95 107	coup de vent
+R1	localisation Arg1:T8 Arg2:T2	
+R2	localisation Arg1:T8 Arg2:T3	
+T9	incident 190 198	naufrage

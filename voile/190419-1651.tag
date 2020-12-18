@@ -1,0 +1,1 @@
+Avis de coups de <meteo>soleil</meteo> en cours sur le 41' <course>Spi Ouest France</course> @<course>spiOF</course> @spindriftracing @<organisation>SNTrinite</organisation> #<course>SpiOF</course> http://bit.ly/2ZmqL5O 

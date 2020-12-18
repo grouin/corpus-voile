@@ -1,0 +1,9 @@
+T1	course 94 100	SailGP
+T2	equipage 83 92	SailGPFRA
+T3	course 29 36	Sail GP
+T4	course 69 81	worldsailing
+T5	equipage 113 122	SailGPUSA
+T6	equipage 102 111	SailGPGBR
+T7	lieu 61 67	Solent
+T8	incident 0 9	Chavirage
+R1	localisation Arg1:T8 Arg2:T7	

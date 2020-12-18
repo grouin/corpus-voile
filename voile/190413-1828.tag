@@ -1,0 +1,1 @@
+Les <voilier>Class40</voilier> du <course>Défi Atlantique</course> arrivent <date>cette nuit</date> à <lieu>La Rochelle</lieu>, dans un <rang>mouchoir de poche</rang> @<voilier>class40</voilier> @<course>DAtlantique</course> @<equipage>tibcoRDR</equipage> #<voilier>class40</voilier>  http://bit.ly/2Z9CHaR 

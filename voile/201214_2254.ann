@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	technique 24 28	foil
+T3	rang 37 43	leader
+T4	personne 45 57	CharlieDalin
+T5	course 59 65	VG2020
+T6	course 67 82	VendeeGlobe2020
+R1	classement Arg1:T4 Arg2:T3	

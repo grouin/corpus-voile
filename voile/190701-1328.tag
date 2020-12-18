@@ -1,0 +1,1 @@
+Trois <fonction>navigateurs</fonction> sauvés de nuit au large de #<lieu>Noirmoutier</lieu> #Sauvetage @<organisation>SauveteursenMer</organisation> #<organisation>SNSM</organisation> http://bit.ly/30aeP6P 

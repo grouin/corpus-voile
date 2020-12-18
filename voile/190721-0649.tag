@@ -1,0 +1,1 @@
+Le <fonction>skipper</fonction>-volant, @<personne>francoisgabart</personne>, dans ses œuvres en  <voilier>Flying Phantom</voilier> sur le <lieu>lac de Garde</lieu> @<equipage>SkipperMacif</equipage> @<organisation>GroupeMacif</organisation> @<voilier>PhantomInt</voilier> http://bit.ly/2Y4qp1H 

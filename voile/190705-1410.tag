@@ -1,0 +1,1 @@
+<course>Figaro</course>. La fiabilité des bateaux transforme la <course>Douarnenez-Horta</course> en <course>Douarnenez-Gijon</course> @<organisation>BENETEAU_France</organisation> #<voilier>Figaro3</voilier> @<organisation>DzHorta</organisation> http://bit.ly/32a00Tt 

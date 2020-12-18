@@ -1,0 +1,6 @@
+T1	categorie 60 69	catamaran
+T2	lieu 99 106	Bahamas
+T3	incident 79 84	coule
+T4	meteo 42 49	Ouragan
+R1	localisation Arg1:T4 Arg2:T2	
+R2	localisation Arg1:T3 Arg2:T2	

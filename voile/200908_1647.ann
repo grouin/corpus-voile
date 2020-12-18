@@ -1,0 +1,5 @@
+T1	personne 24 40	Armel Le Cléac’h
+T3	course 0 22	La Solitaire du Figaro
+T7	etape 66 80	deuxième étape
+T8	rang 41 49	remporte
+R1	classement Arg1:T1 Arg2:T8	

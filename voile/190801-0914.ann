@@ -1,0 +1,7 @@
+T1	voilier 31 36	IMOCA
+T2	equipage 37 49	Arkéa-Paprec
+T3	voilier 51 58	ImocaGS
+T4	personne 60 75	SebastienSimon_
+T5	organisation 77 84	cmarkea
+T6	organisation 86 98	Paprec_Group
+R1	skipper Arg1:T4 Arg2:T2	

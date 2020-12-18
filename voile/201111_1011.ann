@@ -1,0 +1,6 @@
+T1	course 0 12	Vendée Globe
+T2	personne 14 27	Jérémie Beyou
+T3	incident 30 44	heurté un OFNI
+T4	technique 49 55	safran
+T5	equipage 59 65	Charal
+R1	skipper Arg1:T2 Arg2:T5	

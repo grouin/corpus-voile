@@ -1,0 +1,1 @@
+#Video @<course>GC32RacingTour</course> Adrénaline à bord des <categorie>bateaux volants</categorie>, avec l’élite mondiale de la voile @<organisation>GC32Racing</organisation> @<organisation>GC32Class</organisation> http://bit.ly/2XgAzf5 

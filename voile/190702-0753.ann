@@ -1,0 +1,5 @@
+T1	personne 0 5	Clara
+T2	personne 10 25	Christiandumard
+T3	lieu 69 90	Passage du Nord-Ouest
+R1	localisation Arg1:T1 Arg2:T3	
+R2	localisation Arg1:T2 Arg2:T3	

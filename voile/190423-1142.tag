@@ -1,0 +1,1 @@
+#<pratique>Windsurf</pratique> @<personne>pierremortefon</personne> et @<personne>DelphineCOUSIN</personne> <rang>vainqueur</rang>s à <lieu>Marignane</lieu> <type>en slalom</type> @<course>pwaworldtour</course> http://bit.ly/2W14gRN 

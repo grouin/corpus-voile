@@ -1,0 +1,6 @@
+T1	lieu 66 72	Dieppe
+T3	course 0 19	Solitaire du Figaro
+T4	personne 21 36	Élodie Bonafous
+T2	incident 78 96	dégager son hélice
+R1	localisation Arg1:T2 Arg2:T1	
+R2	localisation Arg1:T4 Arg2:T1	

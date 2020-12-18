@@ -1,0 +1,1 @@
+C’est parti aux <lieu>Sables d’Olonne</lieu>, pour deux jours de débats et tables-rondes entre professionnels du nautisme et de la plaisance @<evenement>AssisesNautisme</evenement> http://bit.ly/2KcGAsj 

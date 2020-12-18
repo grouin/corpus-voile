@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. <equipage>Arkéa Paprec</equipage> <incident>heurte un OFNI</incident>, des dégâts sur le <technique>foil tribord</technique> @<personne>SebastienSimon_</personne> #<course>VG2020</course> #<course>VendeeGlobe2020</course>

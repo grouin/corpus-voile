@@ -1,0 +1,1 @@
+<course>America’s Cup</course>. Toutes premières <type>régates</type> des <categorie>monocoques</categorie> volants, les <voilier>AC75</voilier> à <technique>foils</technique>, à <lieu>Auckland</lieu> ! @<course>americascup</course>

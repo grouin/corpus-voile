@@ -1,0 +1,1 @@
+Triste spectacle aux <lieu>Baléares</lieu> : un <categorie>catamaran</categorie> de croisière d’une compagnie de charter d’<lieu>Ibiza</lieu> a été <incident>ravagé par les flammes</incident> en quelques minutes <date>ce jeudi</date>. Pus d'infos ici : http://bit.ly/2ZUOfz7  #naufrage

@@ -1,0 +1,11 @@
+T1	personne 9 21	nicotroussel
+T2	date 33 38	jeudi
+T3	lieu 41 46	Paris
+T4	taille 57 65	60 pieds
+T5	voilier 67 74	ImocaGS
+T7	personne 132 149	Juan Kouyoumdjian
+T8	personne 171 181	desjoyeaux
+T11	fonction 105 115	architecte
+R1	localisation Arg1:T1 Arg2:T3	
+T12	equipage 75 90	Corum L’Épargne
+R2	skipper Arg1:T1 Arg2:T12	

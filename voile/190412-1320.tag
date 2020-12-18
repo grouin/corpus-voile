@@ -1,0 +1,1 @@
+Ce gigantesque #<categorie>yacht</categorie> de <taille>90 mètres</taille> utilisera seulement ses <technique>voiles</technique> #<voilier>SY300</voilier> #<categorie>megayacht</categorie> http://bit.ly/2GmN1Ff 

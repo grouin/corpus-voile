@@ -1,0 +1,1 @@
+L'aîné des <bateau>Pen Duick</bateau> repart en mer.@<organisation>PenDuickSAS</organisation> @<organisation>Lgrandlarge</organisation> @<course>brest_2020</course> #<organisation>chantierduGuip</organisation> //bit.ly/2JXPub0

@@ -1,0 +1,1 @@
+VIDÉO. <course>Vendée Globe</course>. <personne>Kevin Escoffier</personne> raconte son <incident>naufrage</incident> : « L’<technique>étrave</technique> du bateau s’est repliée » #<course>VG2020</course>

@@ -1,0 +1,1 @@
+Pour son dernier numéro de <date>printemps</date>, Le @<organisation>ChasseMaree</organisation> fait la part belle à deux événements phares des semaines à venir, l’ @<evenement>ArmadaRouen</evenement>, qui fête cette année son 30e anniversaire, et le retour sur l’eau de <bateau>Pen Duick</bateau> d’<personne>Eric Tabarly</personne> http://bit.ly/2Q5TzLH 

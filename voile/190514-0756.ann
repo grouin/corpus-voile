@@ -1,0 +1,10 @@
+T1	equipage 64 76	SkipperMacif
+T2	course 95 110	LaSolitaire_50e
+T3	course 27 41	SoloConcarneau
+T4	equipage 78 92	VoileBanquePop
+T5	bateau 5 11	Chacal
+T6	personne 50 62	martinlepape
+T7	personne 112 126	ArmelLeCléac'h
+R1	skipper Arg1:T7 Arg2:T4	
+R2	skipper Arg1:T6 Arg2:T1	
+T8	rang 14 22	remporte

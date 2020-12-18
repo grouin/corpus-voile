@@ -1,0 +1,1 @@
+<evenement>Salon International du #Multicoque</evenement> Nouveautés, sorties à venir, essai, infos pratiques... sont à decouvrir dans notre supplément gratuit @<lieu>lagrandemotte</lieu> http://bit.ly/2VXN3IQ 

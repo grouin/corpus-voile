@@ -1,0 +1,12 @@
+T1	rang 45 54	vainqueur
+T2	lieu 58 67	Marignane
+T3	personne 11 25	pierremortefon
+T4	personne 30 44	DelphineCOUSIN
+T5	course 79 91	pwaworldtour
+T6	type 68 77	en slalom
+T7	pratique 1 9	Windsurf
+R1	classement Arg1:T4 Arg2:T1	
+R2	classement Arg1:T3 Arg2:T1	
+R3	localisation Arg1:T1 Arg2:T2	
+R4	localisation Arg1:T4 Arg2:T2	
+R5	localisation Arg1:T3 Arg2:T2	

@@ -1,0 +1,3 @@
+T1	meteo 21 42	flux d’Ouest instable
+T2	lieu 46 59	baie de Seine
+R1	localisation Arg1:T1 Arg2:T2	

@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. <personne>Kevin Escoffier</personne> dans un <categorie>radeau de survie</categorie>, <personne>Jean Le Cam</personne> sur place pour le sauvetage <personne>Boris Herrmann</personne>, <personne>Yannick Bestaven</personne> et <personne>Sébastien Simon</personne> se détournent également pour porter assistance. #<course>VG2020</course>

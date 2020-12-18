@@ -1,0 +1,1 @@
+VIDÉO. <course>Vendée Globe</course> : <personne>Jean Le Cam</personne>, <rang>3e</rang> de la course à 61 ans, fout le bazar selon <personne>Roland Jourdain</personne> #<course>VG2020</course> #<course>VendeeGlobe2020</course>

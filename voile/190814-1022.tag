@@ -1,0 +1,1 @@
+#video <personne>Thomas Coville</personne> : « Notre progression sur <equipage>Sodebo</equipage> est fulgurante » @<equipage>Sodebo_Voile</equipage> #<equipage>SodeboUltim3</equipage> @<course>Batlantiques</course>       \nhttp://bit.ly/2YO7fT7 

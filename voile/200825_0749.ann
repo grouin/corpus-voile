@@ -1,0 +1,5 @@
+T1	voilier 0 7	Class40
+T2	personne 38 50	Ian Lipinski
+T3	course 9 35	Tour des Îles britanniques
+T4	rang 63 69	record
+R1	classement Arg1:T2 Arg2:T4	

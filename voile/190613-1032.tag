@@ -1,0 +1,1 @@
+Une nouvelle course pourrait bien voir le jour dans le calendrier des <voilier>Class40</voilier> : la <course>GLOBE 40</course>, tour du monde <type>en double avec escales</type>. Toutes les infos sont ici :  http://bit.ly/2wQr9fw  @<organisation>AssoClass40</organisation>

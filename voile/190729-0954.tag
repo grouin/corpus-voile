@@ -1,0 +1,1 @@
+Vidéo. @<personne>YBourgnon</personne> et son fils <personne>Mathis</personne> ont battu <date>ce week-end</date> le #<rang>record</rang> de distance parcourue en 24 heures à bord d’un <categorie>catamaran</categorie> de sport de <taille>6 mètres</taille> http://bit.ly/2ymszPS 

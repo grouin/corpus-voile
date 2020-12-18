@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. @<personne>ThomasRuyant</personne> tente une option osée, @<personne>YannickBestaven</personne> est freiné, @<personne>CharlieDalin</personne> reprend la <rang>deuxième place</rang> #<course>VG2020</course>

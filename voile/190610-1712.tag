@@ -1,0 +1,1 @@
+<personne>Le Cléac'h</personne>, <personne>Lagravière</personne> et <personne>Richomme</personne> <rang>aux commandes</rang> de la <etape>deuxième étape</etape> de @<course>LaSolitaire_50e</course> https://bit.ly/2Wyt1cr 

@@ -1,0 +1,6 @@
+T1	organisation 27 34	FFVoile
+T2	organisation 36 46	FFVoileEvt
+T3	lieu 48 57	marseille
+T4	evenement 59 68	JO2024_fr
+T5	rang 8 17	médailles
+R1	localisation Arg1:T5 Arg2:T3	

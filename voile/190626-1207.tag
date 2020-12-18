@@ -1,0 +1,1 @@
+C'est fait ! @<personne>yoannrichomme</personne> <rang>gagne</rang> la @<course>LaSolitaire_50e</course> devant @<personne>GildasMahe</personne> et @<personne>_AnthoMarchand</personne> ! on fait le point #<course>SolitaireURGO</course> http://bit.ly/2Ncko2M 

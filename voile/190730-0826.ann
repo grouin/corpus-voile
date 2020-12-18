@@ -1,0 +1,7 @@
+T1	lieu 49 66	golfe de Gascogne
+T2	organisation 79 94	BrittanyFerries
+T3	organisation 96 111	MarineNationale
+T4	organisation 113 122	CrossEtel
+T5	categorie 16 23	voilier
+T6	incident 34 40	évacué
+R1	localisation Arg1:T6 Arg2:T1	

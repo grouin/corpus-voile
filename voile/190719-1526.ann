@@ -1,0 +1,11 @@
+T1	personne 23 37	Kito de Pavant
+T2	equipage 240 252	Made_in_Midi
+T3	course 214 225	VendeeGlobe
+T4	course 227 238	VendeeGlobe
+T5	taille 11 19	60 pieds
+T6	lieu 55 77	côte est de Madagascar
+T7	lieu 183 199	Nouvelle-Zélande
+T8	lieu 206 211	Chili
+T9	fonction 134 141	skipper
+R1	skipper Arg1:T1 Arg2:T2	
+R2	localisation Arg1:T2 Arg2:T6	

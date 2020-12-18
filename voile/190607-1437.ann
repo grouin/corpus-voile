@@ -1,0 +1,7 @@
+T1	organisation 76 80	SNSM
+T2	lieu 86 99	SablesdOlonne
+T3	organisation 129 144	SauveteursenMer
+T4	organisation 101 116	SauveteursenMer
+T6	incident 25 43	3 sauveteurs morts
+R1	localisation Arg1:T6 Arg2:T2	
+T5	incident 52 74	naufrage d’une vedette

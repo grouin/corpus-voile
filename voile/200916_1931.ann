@@ -1,0 +1,9 @@
+T1	personne 44 55	Fred Duthil
+T3	course 0 22	La Solitaire du Figaro
+T4	lieu 67 80	Saint-Nazaire
+T7	rang 24 32	Victoire
+T2	rang 56 64	s’impose
+R1	classement Arg1:T1 Arg2:T7	
+R2	classement Arg1:T1 Arg2:T2	
+R3	localisation Arg1:T2 Arg2:T4	
+R4	localisation Arg1:T1 Arg2:T4	

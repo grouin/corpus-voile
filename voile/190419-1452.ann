@@ -1,0 +1,8 @@
+T1	course 69 74	spiOF
+T2	lieu 19 37	la Trinité-sur-Mer
+T3	personne 94 108	Thomas Coville
+T4	voilier 153 160	Ultim 3
+T5	equipage 146 152	Sodebo
+T6	equipage 209 221	Sodebo_Voile
+R1	localisation Arg1:T3 Arg2:T2	
+R2	skipper Arg1:T3 Arg2:T5	

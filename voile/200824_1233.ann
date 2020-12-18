@@ -1,0 +1,5 @@
+T1	personne 21 36	Géry Trentesaux
+T2	voilier 68 73	Imoca
+T3	personne 77 90	Thomas Ruyant
+T4	course 7 19	Vendée Globe
+R1	skipper Arg1:T3 Arg2:T2	

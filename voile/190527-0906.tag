@@ -1,0 +1,1 @@
+#VIDEO <equipage>Gitana 17</equipage>. Tout comprendre de la reconstruction du <categorie>maxi-trimaran</categorie> (3/3) @<equipage>GitanaTeam</equipage> @<voilier>Ultim32_23</voilier> #<voilier>Ultim</voilier> http://bit.ly/2JHoQ7g 

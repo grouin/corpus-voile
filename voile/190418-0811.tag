@@ -1,0 +1,1 @@
+Sponsoring. <organisation>L’Occitane en Provence</organisation> investit avec <personne>Matthieu Vincent</personne> et @<personne>ArmelTriponSkip</personne> @<voilier>IMOCA60</voilier> @<course>VendeeGlobe</course> @<categorie>ClasseMini</categorie> @<course>MiniTransat2019</course> @<organisation>LOccitane_FR</organisation> http://bit.ly/2DjJ5mp 

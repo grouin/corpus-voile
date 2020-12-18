@@ -1,0 +1,1 @@
+Interview. En attendant la <pratique>mise à l’eau</pratique> de son <voilier>Ultim</voilier> @<equipage>TeamActualeader</equipage> le <date>13 mai</date> prochain, @<personne>yvesleblevec</personne> participe tout <date>ce week-end</date> au @<course>spiOF</course>.  \nhttp://bit.ly/2IyyGHM 

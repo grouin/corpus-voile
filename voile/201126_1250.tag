@@ -1,0 +1,1 @@
+VIDÉO. <course>Vendée Globe</course>. <personne>Isabelle Joschke</personne> montre les réparations du <technique>balcon arrière</technique> de son bateau <equipage>MACSF</equipage> #<course>VG2020</course> #<course>VendeeGlobe</course>

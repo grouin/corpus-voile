@@ -1,0 +1,6 @@
+T2	equipage 70 76	Sodebo
+T3	personne 0 14	Thomas Coville
+T4	voilier 37 42	Ultim
+T6	equipage 44 56	Sodebo_Voile
+T7	voilier 58 68	Ultim32_23
+R1	skipper Arg1:T3 Arg2:T6	

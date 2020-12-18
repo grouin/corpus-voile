@@ -1,0 +1,4 @@
+T1	personne 0 13	Jérémie Beyou
+T2	date 26 34	vendredi
+T3	lieu 57 72	Sables-d'Olonne
+R1	localisation Arg1:T1 Arg2:T3	

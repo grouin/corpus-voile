@@ -1,0 +1,7 @@
+T1	course 7 28	Les Sables-Les Açores
+T2	personne 49 61	Léo Debiesse
+T5	lieu 32 47	baie de Morlaix
+T6	voilier 89 95	séries
+T3	rang 62 70	s’impose
+R1	classement Arg1:T2 Arg2:T3	
+R2	localisation Arg1:T3 Arg2:T5	

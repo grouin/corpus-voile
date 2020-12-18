@@ -1,0 +1,1 @@
+<date>Du 5 au 7 avril</date>, c’est bien la <course>Massilia Cup</course> qui a véritablement lancé la saison de <type>régates en habitable</type> à <lieu>Marseille</lieu> avec 105 équipages participants. Le debrief par @<personne>didier_ravon</personne> @<organisation>CNTLMarseille</organisation> http://bit.ly/2I7xvPx 

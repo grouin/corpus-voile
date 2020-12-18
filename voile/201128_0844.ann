@@ -1,0 +1,4 @@
+T1	personne 0 13	Charlie Dalin
+T2	lieu 28 43	Bonne-Espérance
+T3	personne 45 57	Alex Thomson
+R1	localisation Arg1:T1 Arg2:T2	

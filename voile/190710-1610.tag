@@ -1,0 +1,1 @@
+En attendant la livraison de son nouveau bateau pour le @<course>VendeeGlobe</course>, @<personne>SebastienSimon_</personne> n’en finit plus de naviguer. Et parfois de voler. Et voici ce que ça donne… #<technique>foil</technique> http://bit.ly/2LbKZes 

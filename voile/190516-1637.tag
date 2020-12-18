@@ -1,0 +1,1 @@
+Sauvé in extremis après le passage de l' #<meteo>Ouragan</meteo> #IRMA le #<categorie>catamaran</categorie> restauré <incident>coule</incident> au large des #<lieu>Bahamas</lieu> http://bit.ly/2w3R6Ii 

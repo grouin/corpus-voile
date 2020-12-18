@@ -1,0 +1,1 @@
+<personne>Yves Le Blevec</personne> va naviguer dans la cour des grands. @<voilier>Ultim32_23</voilier> @<personne>yvesleblevec</personne> @<categorie>ClasseMini</categorie> #<voilier>Ultim</voilier> http://bit.ly/2LKsnn3 

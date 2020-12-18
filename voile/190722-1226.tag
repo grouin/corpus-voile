@@ -1,0 +1,1 @@
+<personne>Norbert Sedlacek</personne> retente un <course>tour du monde</course> <type>en solo</type> via le <lieu>passage du Nord-Ouest</lieu> puis deux fois le <lieu>Horn</lieu> sur son <taille>60 pieds</taille> en fibres de roche volcanique.@<organisation>antArcticLab</organisation> @<lieu>lessables</lieu>  //bit.ly/2Z4FQs3

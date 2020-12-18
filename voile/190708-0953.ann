@@ -1,0 +1,7 @@
+T1	organisation 22 41	Columbia Yacht Club
+T2	lieu 45 51	Boston
+T3	taille 73 81	40 pieds
+T4	incident 109 117	foudroyé
+R1	localisation Arg1:T4 Arg2:T2	
+T5	meteo 183 188	orage
+R2	localisation Arg1:T5 Arg2:T2	

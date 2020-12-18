@@ -1,0 +1,6 @@
+T1	lieu 48 53	Brest
+T2	organisation 64 79	MarineNationale
+T3	categorie 28 35	voilier
+T4	incident 14 24	évacuation
+R1	localisation Arg1:T4 Arg2:T1	
+T5	meteo 81 88	tempete

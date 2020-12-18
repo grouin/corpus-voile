@@ -1,0 +1,11 @@
+T1	organisation 237 252	ClasseFigaroben
+T2	rang 30 39	vainqueur
+T3	course 43 55	Vendée Globe
+T4	personne 144 157	AchilleNebout
+T5	course 187 195	SoloMCoQ
+T6	personne 203 219	Armel Le Cléac’h
+T7	equipage 221 235	VoileBanquePop
+T8	categorie 85 94	figariste
+T9	rang 131 139	victoire
+R1	classement Arg1:T4 Arg2:T9	
+R2	skipper Arg1:T6 Arg2:T7	

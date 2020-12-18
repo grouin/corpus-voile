@@ -1,0 +1,8 @@
+T1	course 11 26	LaSolitaire_50e
+T2	course 54 67	SolitaireURGO
+T3	personne 69 84	corentindouguet
+T4	personne 131 143	hardy_adrien
+T5	personne 148 158	desjoyeaux
+T6	rang 122 129	leaders
+R1	classement Arg1:T4 Arg2:T6	
+R2	classement Arg1:T5 Arg2:T6	

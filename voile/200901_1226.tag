@@ -1,0 +1,1 @@
+VIDÉO. L’<fonction>ex-Président</fonction> <personne>François Hollande</personne> embarque en <categorie>trimaran</categorie> <voilier>Multi50</voilier>... et <incident>se blesse</incident> en débarquant

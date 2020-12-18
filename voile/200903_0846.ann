@@ -1,0 +1,5 @@
+T2	course 0 22	La Solitaire du Figaro
+T5	personne 24 38	Xavier Macaire
+T6	etape 61 76	première manche
+T7	rang 45 54	vainqueur
+R1	classement Arg1:T5 Arg2:T7	

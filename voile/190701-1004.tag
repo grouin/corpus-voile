@@ -1,0 +1,1 @@
+<personne>Franck Cammas</personne> manque le <rang>podium</rang> pour éviter <incident>un homme à la mer</incident> : « Frustrant ! » @<course>GC32RacingTour</course> @<organisation>GC32Class</organisation> @<organisation>GC32Racing</organisation>  http://bit.ly/2RLUf9E 

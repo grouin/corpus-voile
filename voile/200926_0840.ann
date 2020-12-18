@@ -1,0 +1,6 @@
+T1	lieu 16 23	Lorient
+T2	lieu 44 62	la Trinité-sur-Mer
+T3	incident 24 40	bloquent le port
+R1	localisation Arg1:T3 Arg2:T2	
+T4	fonction 4 12	pêcheurs
+T5	course 128 133	SpiOF

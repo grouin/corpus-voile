@@ -1,0 +1,6 @@
+T1	course 7 28	Les Sables-Les Açores
+T4	personne 50 67	Tanguy Bouroullec
+T5	lieu 32 47	baie de Morlaix
+T2	rang 79 91	carton plein
+R1	classement Arg1:T4 Arg2:T2	
+R2	localisation Arg1:T2 Arg2:T5	

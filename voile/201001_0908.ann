@@ -1,0 +1,6 @@
+T1	equipage 15 27	Arkea-Paprec
+T2	personne 31 46	Sébastien Simon
+T3	date 48 56	mercredi
+T4	meteo 73 78	brise
+T5	meteo 101 108	tempête
+R1	skipper Arg1:T2 Arg2:T1	

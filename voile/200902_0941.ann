@@ -1,0 +1,8 @@
+T1	lieu 37 44	Fastnet
+T2	course 3 12	Solitaire
+T3	personne 60 70	Le Cléac’h
+T5	personne 91 97	Tripon
+T6	personne 14 28	Xavier Macaire
+T7	rang 45 52	en tête
+R1	classement Arg1:T6 Arg2:T7	
+R2	localisation Arg1:T6 Arg2:T1	

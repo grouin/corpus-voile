@@ -1,0 +1,11 @@
+T1	course 137 152	LaSolitaire_50e
+T2	personne 0 9	Tom Dolan
+T3	personne 13 31	Tanguy Le Turquais
+T4	lieu 53 78	pointe nord-est d’Aurigny
+T5	date 79 87	ce lundi
+T6	etape 121 129	3e étape
+T7	equipage 189 198	Quéguiner
+T8	fonction 178 185	skipper
+T9	incident 40 47	échoués
+R1	localisation Arg1:T9 Arg2:T4	
+R2	skipper Arg1:T2 Arg2:T7	

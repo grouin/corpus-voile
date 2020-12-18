@@ -1,0 +1,5 @@
+T1	lieu 57 62	Grèce
+T2	meteo 10 17	Cyclone
+T3	incident 65 84	70 bateaux détruits
+R1	localisation Arg1:T2 Arg2:T1	
+R2	localisation Arg1:T3 Arg2:T1	

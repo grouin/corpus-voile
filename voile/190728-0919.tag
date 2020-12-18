@@ -1,0 +1,1 @@
+Suprématie française pour les <etape>finales</etape> des <course>Internationaux de match-racing</course> @<organisation>FFVoile</organisation>  @<organisation>FFVoileEvt</organisation> http://bit.ly/2LM18aX 

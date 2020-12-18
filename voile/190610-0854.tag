@@ -1,0 +1,1 @@
+<personne>Gautier</personne> et <personne>Schwartz</personne> abandonnent dans la <etape>deuxième étape</etape> de @<course>LaSolitaire_50e</course>  @<organisation>ClasseFigaroben</organisation> http://bit.ly/2I696IL 

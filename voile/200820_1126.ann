@@ -1,0 +1,7 @@
+T1	bateau 21 30	Azawakh V
+T2	lieu 88 99	La Rochelle
+T3	incident 67 75	démâtage
+R1	localisation Arg1:T3 Arg2:T2	
+T4	fonction 9 15	marins
+R2	skipper Arg1:T4 Arg2:T1	
+R3	localisation Arg1:T1 Arg2:T2	

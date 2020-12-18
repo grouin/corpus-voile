@@ -1,0 +1,9 @@
+T1	lieu 54 63	lac Léman
+T2	date 39 45	samedi
+T3	lieu 161 167	suisse
+T4	incident 4 38	plaisancière a été retrouvée noyée
+R1	localisation Arg1:T4 Arg2:T1	
+T5	meteo 79 84	orage
+R2	localisation Arg1:T5 Arg2:T1	
+T6	incident 113 121	naufrage
+R3	localisation Arg1:T6 Arg2:T1	

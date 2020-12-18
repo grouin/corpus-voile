@@ -1,0 +1,6 @@
+T1	organisation 0 13	Actual Leader
+T2	personne 44 59	François Gabart
+T3	equipage 35 40	Macif
+T4	voilier 29 34	Ultim
+T5	personne 65 79	Yves Le Blevec
+R1	skipper Arg1:T2 Arg2:T3	

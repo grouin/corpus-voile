@@ -1,0 +1,4 @@
+T2	date 29 34	mardi
+T3	lieu 49 62	rade de Brest
+T1	incident 78 86	déminage
+R1	localisation Arg1:T1 Arg2:T3	

@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	incident 14 36	Rencontre avec un OFNI
+T3	personne 42 54	Maxime Sorel
+T4	equipage 59 72	V & B Mayenne
+R1	skipper Arg1:T3 Arg2:T4	
+T5	course 95 101	VG2020
+T6	course 103 114	VendeeGlobe

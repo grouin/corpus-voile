@@ -1,0 +1,1 @@
+C'est parti pour  <personne>Xavier Macaire</personne> et 15 chasseurs à ses basques sur l'<etape>étape retour</etape> de la <course>Douarnenez-Gijon</course> @<course>dzcoursesgijon</course> @<personne>MacaireXavier</personne>  http://bit.ly/2yMykqi 

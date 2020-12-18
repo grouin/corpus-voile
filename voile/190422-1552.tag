@@ -1,0 +1,1 @@
+Vidéo. Une <technique>voile épaisse</technique> sur un <voilier>mini 6.50</voilier>. Ses <fonction>concepteurs</fonction> nous expliquent son fonctionnement et son utilisation @<categorie>ClasseMini</categorie> @AllPurposefr http://bit.ly/2GzL7kt 

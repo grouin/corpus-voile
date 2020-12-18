@@ -1,0 +1,1 @@
+Pourquoi les <voilier>Mini 6.50</voilier> à étraves rondes sont-ils aussi véloces ? La réponse avec <personne>Axel Tréhin</personne>, <rang>2e</rang> de la <course>Mini-Transat</course> <date>2019</date>.

@@ -1,0 +1,3 @@
+T1	meteo 25 32	tempête
+T2	lieu 75 87	Méditerranée
+R1	localisation Arg1:T1 Arg2:T2	

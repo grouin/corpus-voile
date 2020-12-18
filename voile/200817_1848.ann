@@ -1,0 +1,5 @@
+T2	lieu 45 60	côte Atlantique
+T3	date 27 32	mardi
+T1	meteo 0 13	Coups de vent
+R1	localisation Arg1:T1 Arg2:T2	
+T4	pratique 68 78	mouillages

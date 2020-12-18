@@ -1,0 +1,5 @@
+T1	lieu 71 79	Bretagne
+T2	lieu 114 122	penmarch
+T3	incident 3 22	plaisancier disparu
+R1	localisation Arg1:T3 Arg2:T1	
+R2	localisation Arg1:T3 Arg2:T2	

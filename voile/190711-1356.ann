@@ -1,0 +1,5 @@
+T1	lieu 54 63	Australie
+T2	categorie 27 36	catamaran
+T3	incident 12 20	naufrage
+T4	incident 66 92	trois morts, deux rescapés
+R1	localisation Arg1:T4 Arg2:T1	

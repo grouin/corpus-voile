@@ -1,0 +1,9 @@
+T1	personne 0 19	Aymeric Chappellier
+T2	lieu 44 55	La Rochelle
+T3	course 59 74	Défi Atlantique
+T4	course 76 87	DAtlantique
+T5	course 102 116	DefiAtlantique
+T6	organisation 89 100	AssoClass40
+T7	rang 20 28	remporte
+R1	classement Arg1:T1 Arg2:T7	
+R2	localisation Arg1:T1 Arg2:T2	

@@ -1,0 +1,1 @@
+<course>SailGP</course> de <lieu>New-York</lieu> : <rang>première place</rang> pour les Japonais, les Français <rang>cinquièmes</rang> @<equipage>SailGPFRA</equipage> @<course>SailGP</course> @<lieu>NewYorkCityFR</lieu> http://bit.ly/2X1rGWZ 

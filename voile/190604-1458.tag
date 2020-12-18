@@ -1,0 +1,1 @@
+#Sauvetage réussi du « <bateau>My Song</bateau> », <incident>tombé</incident> pendant un <pratique>convoyage</pratique> #<bateau>mysong</bateau> #<voilier>baltic30</voilier> #<categorie>superyacht</categorie> http://bit.ly/2wB4lR9 

@@ -1,0 +1,1 @@
+#VIDEO @<course>GC32RacingTour</course> : <type>Régates</type> à <vitesse>50 nœuds</vitesse> au <lieu>Portugal</lieu> pour <personne>Cammas</personne> et les stars de la Coupe ! @<course>GC32Racing</course> http://bit.ly/2J74bXq 

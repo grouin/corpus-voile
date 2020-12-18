@@ -1,0 +1,1 @@
+Record de l’<lieu>Atlantique</lieu>. @<personne>AlanRoura</personne> est parti, @<personne>gwenolegahinet</personne> explique la fenêtre #météo #<organisation>LaFabriqueSailingTeam</organisation> http://bit.ly/2xN8JwV 

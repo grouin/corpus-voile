@@ -1,0 +1,9 @@
+T1	course 88 94	SailGP
+T2	equipage 77 86	SailGPFRA
+T3	voilier 40 43	F50
+T4	course 56 63	Sail GP
+T5	lieu 67 75	New York
+T6	lieu 96 107	newyorkcity
+T7	rang 0 14	Premier podium
+R1	localisation Arg1:T2 Arg2:T5	
+R2	classement Arg1:T2 Arg2:T7	

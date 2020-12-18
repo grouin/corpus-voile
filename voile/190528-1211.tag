@@ -1,0 +1,1 @@
+#VIDEO @<course>LaSolitaire_50e</course> : 47 <fonction>skippers</fonction> à pied d’œuvre à #<lieu>Nantes</lieu> … où on investit sur le maritime #<course>SolitaireURGO</course> @<lieu>NantesMetropole</lieu> http://bit.ly/2Qw4aPX 

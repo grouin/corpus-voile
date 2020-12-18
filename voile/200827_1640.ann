@@ -1,0 +1,5 @@
+T1	lieu 86 93	Lorient
+T2	bateau 19 23	Tara
+T3	categorie 10 18	goélette
+T4	pratique 71 80	convoyage
+R1	localisation Arg1:T2 Arg2:T1	

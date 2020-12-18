@@ -1,0 +1,8 @@
+T1	equipage 48 54	Sodebo
+T3	personne 7 21	Thomas Coville
+T4	equipage 87 99	SodeboUltim3
+T5	equipage 73 85	Sodebo_Voile
+T2	course 101 113	Batlantiques
+R1	skipper Arg1:T3 Arg2:T1	
+R2	skipper Arg1:T3 Arg2:T5	
+R3	skipper Arg1:T3 Arg2:T4	

@@ -1,0 +1,9 @@
+T1	organisation 72 87	ClasseFigaroben
+T2	course 55 70	LaSolitaire_50e
+T3	personne 0 6	Loison
+T4	lieu 24 33	Wolf Rock
+T5	rang 14 21	en tête
+T6	etape 42 50	4e étape
+R1	classement Arg1:T3 Arg2:T5	
+R2	localisation Arg1:T5 Arg2:T4	
+R3	localisation Arg1:T3 Arg2:T4	

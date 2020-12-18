@@ -1,0 +1,7 @@
+T1	course 116 127	VendeeGlobe
+T2	voilier 31 36	IMOCA
+T3	equipage 37 46	Hugo Boss
+T4	personne 51 64	AlexThomson99
+T5	voilier 107 114	ImocaGS
+T6	fonction 95 105	architecte
+R1	skipper Arg1:T4 Arg2:T3	

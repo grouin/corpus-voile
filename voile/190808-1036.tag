@@ -1,0 +1,1 @@
+Le \"rocher perdu\" (<lieu>Fastnet</lieu>) fait son festival en images. Retrouvez les meilleures photos de la 48e édition ici http://bit.ly/2yJqaPd  @<course>RORCRacing</course> #<course>RolexFastnetRace</course>

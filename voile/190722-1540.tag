@@ -1,0 +1,1 @@
+C'est fini pour les <voilier>Ikone 6,50 et 7,50</voilier> ! La finance a eu raison de ces deux <categorie>day-boats</categorie> fabriqués à <lieu>Concarneau</lieu>. @<lieu>villeconcarneau</lieu> http://bit.ly/2GoAOzb 

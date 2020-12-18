@@ -1,0 +1,1 @@
+<personne>Marc Guillemot</personne> qui a dû se résoudre à ne pas prendre le départ de la @<course>routedurhum</course> n’exclut pas totalement de participer à la @<course>LaSolitaire_50e</course> en <date>juin</date> prochain. Même si selon lui, « c'est mal engagé...»

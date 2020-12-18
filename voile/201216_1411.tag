@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. Sauvetage de @<personne>KevinEscoffier</personne> : @<personne>YannickBestaven</personne> aura 10h15 de compensation, @<personne>JeanLecam</personne> 16h15 #<course>VG2020</course> #<course>VendeeGlobe2020</course>

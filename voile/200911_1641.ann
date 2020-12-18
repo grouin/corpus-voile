@@ -1,0 +1,3 @@
+T1	lieu 43 48	Brest
+T2	bateau 20 29	Mariquita
+R1	localisation Arg1:T2 Arg2:T1	

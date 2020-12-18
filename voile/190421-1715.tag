@@ -1,0 +1,1 @@
+Le billet d'humeurs du soir de <personne>D.Ravon</personne> au 41' <course>Spi Ouest- France</course> @<course>spiOF</course> @<organisation>SNTrinite</organisation> #<course>SpiOF</course> http://bit.ly/2vgd4Hy 

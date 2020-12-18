@@ -1,0 +1,1 @@
+Avant que les <categorie>Figaristes</categorie> ne passent le mythique rocher du <lieu>Fastnet</lieu>, l’équipe de production <organisation>Sea Events</organisation> est allée à leur rencontre au large pour rapporter ces superbes images que nous vous avons compilé en zapping @<course>LaSolitaire_50e</course> http://bit.ly/2Wj2SJp 

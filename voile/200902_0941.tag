@@ -1,0 +1,1 @@
+La <course>Solitaire</course>. <personne>Xavier Macaire</personne> vire le <lieu>Fastnet</lieu> <rang>en tête</rang> devant <personne>Le Cléac’h</personne>... sous les yeux de <personne>Tripon</personne> !

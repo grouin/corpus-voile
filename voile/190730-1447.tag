@@ -1,0 +1,1 @@
+La vidéo de l'<incident>évacuation</incident> du <categorie>voilier</categorie> au large de <lieu>Brest</lieu> par la \n@<organisation>MarineNationale</organisation> #<meteo>tempete</meteo>  http://bit.ly/2OsqZqm 

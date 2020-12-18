@@ -1,0 +1,1 @@
+#Insolite Offrez vous un #<categorie>trimaran</categorie> de @<personne>francoisgabart</personne> ! @<equipage>SkipperMacif</equipage> @<organisation>trimaranMACIF</organisation> @<voilier>Diam24OD</voilier> http://bit.ly/2D6bc8H 

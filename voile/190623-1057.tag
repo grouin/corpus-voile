@@ -1,0 +1,1 @@
+<personne>Loison</personne> arrive <rang>en tête</rang> à <lieu>Wolf Rock</lieu> dans la <etape>4e étape</etape> de @<course>LaSolitaire_50e</course> @<organisation>ClasseFigaroben</organisation> http://bit.ly/31RxeqD 

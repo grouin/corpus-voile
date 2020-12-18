@@ -1,0 +1,7 @@
+T1	course 8 22	GC32RacingTour
+T2	vitesse 35 43	50 nœuds
+T3	lieu 47 55	Portugal
+T4	personne 61 67	Cammas
+T5	course 96 106	GC32Racing
+T6	type 25 32	Régates
+R1	localisation Arg1:T4 Arg2:T3	

@@ -1,0 +1,14 @@
+T1	personne 153 167	Marc Guillemot
+T2	course 181 192	VendeeGlobe
+T3	course 205 216	VendeeGlobe
+T5	voilier 14 19	Imoca
+T6	personne 80 90	Alan Roura
+T4	lieu 114 129	Atlantique nord
+T7	date 144 148	2013
+T8	voilier 172 178	Safran
+T9	personne 194 203	AlanRoura
+T10	technique 63 68	foils
+T12	rang 102 108	record
+R1	classement Arg1:T6 Arg2:T12	
+R2	localisation Arg1:T12 Arg2:T4	
+R3	localisation Arg1:T6 Arg2:T4	

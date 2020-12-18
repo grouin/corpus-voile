@@ -1,0 +1,1 @@
+<type>En équipage</type>, <type>en double</type> ou bien <type>en solitaire</type>, il y en aura pour tous les goûts jusqu’en <date>2023</date>. L’ensemble est aussi dense qu’alléchant, on va se régaler ! Pour connaître le programme des @<voilier>Ultim32_23</voilier>, c'est par ici : http://bit.ly/2Vfh7iC 

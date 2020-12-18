@@ -1,0 +1,1 @@
+L’équipage d’un <categorie>voilier</categorie> désemparé <incident>évacué</incident> dans le <lieu>golfe de Gascogne</lieu> #sauvetage @<organisation>BrittanyFerries</organisation> @<organisation>MarineNationale</organisation> #<organisation>CrossEtel</organisation> http://bit.ly/2GzpoZq 

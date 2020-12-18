@@ -1,0 +1,1 @@
+C’est officiel, 67 <type>duos</type> prendront le départ de la 14e édition de la @<course>TransatJV_fr</course> au <lieu>Havre</lieu>, le <date>27 octobre</date>. On le sait, il n’y aura pas de <categorie>trimarans</categorie> #<voilier>Ultim</voilier>. Toutes les infos infos à lire ici http://bit.ly/2SsYSGa 

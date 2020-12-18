@@ -1,0 +1,6 @@
+T1	personne 27 44	Benjamin Schwartz
+T2	personne 13 23	Marie Riou
+T3	rang 45 63	champions d’Europe
+T4	type 67 82	course au large
+R1	classement Arg1:T2 Arg2:T3	
+R2	classement Arg1:T1 Arg2:T3	

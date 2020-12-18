@@ -1,0 +1,1 @@
+<personne>Pierre-Antoine Morvan</personne> <rang>triomphe</rang> aux <course>Internationaux de match-racing</course>  @<personne>pamorvan</personne> @<organisation>FFVoile</organisation> @<organisation>FFVoileEvt</organisation> http://bit.ly/2yuZqlL 

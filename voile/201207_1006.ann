@@ -1,0 +1,7 @@
+T1	course 0 19	Trophée Jules Verne
+T2	equipage 21 27	Sodebo
+T3	lieu 41 63	cap de Bonne-Espérance
+T4	vitesse 66 74	35 nœuds
+T5	course 115 132	TropheeJulesVerne
+T6	course 101 113	TJV_officiel
+R1	localisation Arg1:T2 Arg2:T3	

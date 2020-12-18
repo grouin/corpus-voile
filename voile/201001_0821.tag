@@ -1,0 +1,1 @@
+Avant de se mettre en stand-by, <personne>Cammas</personne> et <personne>Caudrelier</personne> racontent à <organisation>Voiles et Voiliers</organisation> leur passion pour le <course>Trophée Jules Verne</course>.

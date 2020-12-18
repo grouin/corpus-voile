@@ -1,0 +1,1 @@
+<course>VENDÉE GLOBE</course>. L’<fonction>architecte</fonction> <personne>Quentin Lucet</personne> (<organisation>VPLP</organisation>) explique comment ont évolué les <technique>foils</technique> des <voilier>IMOCA</voilier>

@@ -1,0 +1,1 @@
+Malheureusement pour l’équipage de <bateau>Morpho</bateau> – <rang>en tête</rang> des Grand Surprise avant le <meteo>coup de vent</meteo> et qui a pourtant bien géré la situation – le <pratique>mât</pratique> n’a pas supporté l'<meteo>orage</meteo> durant le @<course>BoldOrMirabaud</course>. Son <fonction>skipper</fonction> témoigne, vidéo à l’appui http://bit.ly/2Xi2S14 

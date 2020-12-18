@@ -1,0 +1,6 @@
+T1	course 22 28	SailGP
+T2	equipage 148 157	SailGPFRA
+T3	lieu 58 66	New York
+T4	date 71 84	21 et 22 juin
+T5	type 200 207	régates
+R1	localisation Arg1:T2 Arg2:T3	

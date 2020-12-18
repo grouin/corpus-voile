@@ -1,0 +1,1 @@
+Séquence nostalgie: ressortez vos vieilles planches ! @<organisation>ClubWindsurfer</organisation> @<course>grandprixdz</course> @<organisation>SRDouarnenez</organisation> @<organisation>CNMDouarnenez</organisation> #<lieu>douarnenez</lieu> //bit.ly/2Hc0qAn

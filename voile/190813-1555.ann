@@ -1,0 +1,6 @@
+T1	personne 11 24	borisherrmann
+T2	personne 43 56	GretaThunberg
+T3	bateau 77 84	Malizia
+T4	lieu 86 93	NewYork
+T5	equipage 95 106	teammalizia
+R1	skipper Arg1:T1 Arg2:T3	

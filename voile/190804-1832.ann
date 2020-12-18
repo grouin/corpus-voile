@@ -1,0 +1,12 @@
+T1	categorie 200 210	ClasseMini
+T2	lieu 118 125	Lorient
+T3	categorie 3 12	Mini 6.50
+T5	bateau 13 18	Aelig
+T6	lieu 48 56	Ouessant
+T7	personne 70 85	Stéphane Thomas
+T8	lieu 138 145	Irlande
+R1	skipper Arg1:T7 Arg2:T5	
+R2	localisation Arg1:T5 Arg2:T6	
+T4	incident 25 38	retrouvé vide
+R3	localisation Arg1:T4 Arg2:T6	
+T9	fonction 62 69	skipper

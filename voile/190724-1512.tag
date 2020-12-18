@@ -1,0 +1,1 @@
+Vidéo. Une violente #<meteo>tornade</meteo> a balayé <lieu>Cap Cod</lieu> aux <lieu>Etats-Unis</lieu> <date>mardi</date> après-midi. Un plaisancier qui se trouvait à bord de son  bateau <pratique>au mouillage</pratique> a filmé son passage http://bit.ly/2LFBTHm 

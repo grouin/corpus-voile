@@ -1,0 +1,8 @@
+T1	vitesse 71 81	23,3 nœuds
+T2	personne 13 25	Armel Tripon
+T3	course 0 11	Défi Azimut
+T4	equipage 29 51	L’Occitane en Provence
+T6	rang 52 59	gagnent
+R1	classement Arg1:T2 Arg2:T6	
+R2	skipper Arg1:T2 Arg2:T4	
+R3	classement Arg1:T4 Arg2:T6	

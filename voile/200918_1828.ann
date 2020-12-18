@@ -1,0 +1,7 @@
+T1	categorie 0 7	CLASS40
+T2	course 53 74	Normandy Channel Race
+T3	personne 29 41	Simon Koster
+T4	personne 9 25	Valentin Gautier
+T5	rang 42 49	gagnent
+R1	classement Arg1:T4 Arg2:T5	
+R2	classement Arg1:T3 Arg2:T5	

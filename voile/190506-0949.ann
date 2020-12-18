@@ -1,0 +1,10 @@
+T1	personne 73 85	Billy Besson
+T2	organisation 114 132	Voiles et Voiliers
+T3	lieu 151 164	San Francisco
+T4	lieu 194 204	Californie
+T5	personne 207 220	FAVREAUPHOTOS
+T6	course 222 228	SailGP
+T7	equipage 230 239	SailGPFRA
+T8	fonction 176 190	envoyé spécial
+R1	localisation Arg1:T5 Arg2:T4	
+R2	localisation Arg1:T7 Arg2:T3	

@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. Incroyable scenario : @<personne>ThomasRuyant</personne> <rang>passe en tête</rang>, au contact avec @<personne>YannickBestaven</personne>  et @<personne>CharlieDalin</personne> #<course>VG2020</course> #<course>VendeeGlobe</course>

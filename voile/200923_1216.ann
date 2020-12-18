@@ -1,0 +1,3 @@
+T1	personne 7 20	Marie Tabarly
+T3	voilier 25 37	Pen Duick VI
+R1	skipper Arg1:T1 Arg2:T3	

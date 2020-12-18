@@ -1,0 +1,10 @@
+T1	rang 14 22	Victoire
+T2	lieu 25 35	Douarnenez
+T3	personne 39 54	Fabio Muzzolini
+T4	personne 67 78	Hugo Picard
+T5	categorie 58 63	proto
+T6	categorie 82 87	série
+T7	course 0 11	Trophée MAP
+R1	classement Arg1:T3 Arg2:T1	
+R2	classement Arg1:T4 Arg2:T1	
+R3	localisation Arg1:T1 Arg2:T2	

@@ -1,0 +1,1 @@
+C'est la rentrée des classes pour les <categorie>Ministes</categorie> du côté de <lieu>Lorient</lieu> @<categorie>ClasseMini</categorie> @<organisation>Plastimo</organisation> #<lieu>Lorient</lieu> http://bit.ly/2v29lNH 

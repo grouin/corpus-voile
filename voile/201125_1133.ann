@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	technique 24 28	foil
+T3	personne 34 47	Thomas Ruyant
+T4	equipage 52 61	LinkedOut
+T5	course 63 69	VG2020
+T6	course 71 86	VendeeGlobe2020
+R1	skipper Arg1:T3 Arg2:T4	

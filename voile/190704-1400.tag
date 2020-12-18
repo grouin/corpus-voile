@@ -1,0 +1,1 @@
+La @<lieu>loireatlantique</lieu> versera un million d’euros à la <organisation>SNSM</organisation> et <organisation>SOS Méditerranée</organisation> @<organisation>SauveteursenMer</organisation> @<organisation>SOSMedFrance</organisation> #don http://bit.ly/2Yy20m2 

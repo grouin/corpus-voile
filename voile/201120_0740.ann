@@ -1,0 +1,10 @@
+T1	course 0 12	Vendée Globe
+T2	vitesse 24 32	26 nœuds
+T3	personne 38 53	Sébastien Simon
+T4	personne 55 62	Thomson
+T5	personne 80 88	Troussel
+T6	rang 72 78	leader
+T7	lieu 92 100	Cap-Vert
+T8	course 102 108	VG2020
+R1	classement Arg1:T4 Arg2:T6	
+R2	localisation Arg1:T5 Arg2:T7	

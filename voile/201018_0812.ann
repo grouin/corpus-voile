@@ -1,0 +1,4 @@
+T1	course 7 19	Vendée Globe
+T2	personne 21 33	Alex Thomson
+T3	equipage 88 97	Hugo Boss
+R1	skipper Arg1:T2 Arg2:T3	

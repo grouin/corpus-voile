@@ -1,0 +1,4 @@
+T1	personne 0 18	Antoine Carpentier
+T2	voilier 48 55	Class40
+T3	equipage 28 34	Redman
+R1	skipper Arg1:T1 Arg2:T3	

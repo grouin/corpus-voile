@@ -1,0 +1,1 @@
+En attendant avec <personne>Didier</personne> les images de la <etape>deuxième manche</etape>, une vidéo accrobatique de la première @<course>SailGP</course> @<equipage>SailGPFRA</equipage> http://bit.ly/2XqAeuB 

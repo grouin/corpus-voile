@@ -1,0 +1,1 @@
+Découvrez le <pratique>Wingsurf</pratique>, un nouveau concept entre le #<pratique>Windsurf</pratique> et <pratique>Kitesurf</pratique>. Un concept déjà validé par les pros. Regardez ! http://bit.ly/2HmjJWo 

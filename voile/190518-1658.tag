@@ -1,0 +1,1 @@
+Le @<course>TOURDEBELLEILE</course> vu par notre <fonction>envoyé spécial</fonction> à bord d'<equipage>Actual Leader</equipage>. @<equipage>TeamActualeader</equipage> @<personne>yvesleblevec</personne> #<equipage>Actual</equipage> //bit.ly/2EfJxms

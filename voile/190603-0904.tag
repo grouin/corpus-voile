@@ -1,0 +1,1 @@
+Suivez la @<course>LaSolitaire_50e</course> en direct ! #cartographie #<course>SolitaireURGO</course> @<personne>corentindouguet</personne> bien placé juste derrière le duo des <rang>leaders</rang> @<personne>hardy_adrien</personne> et @<personne>desjoyeaux</personne> A suivre... http://bit.ly/2XkJDQV 

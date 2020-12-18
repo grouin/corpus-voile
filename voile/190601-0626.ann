@@ -1,0 +1,5 @@
+T1	bateau 64 79	troismats_Belem
+T2	course 49 62	semaine_golfe
+T3	lieu 17 22	Golfe
+T4	evenement 33 46	grande parade
+R1	localisation Arg1:T1 Arg2:T3	

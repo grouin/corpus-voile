@@ -1,0 +1,1 @@
+Originale et ludique la @<course>tiwalteam Cup</course> organisée à <lieu>Baden</lieu>, sur les eaux du <lieu>golfe du Morbihan</lieu>. Pour <organisation>Voiles et Voiliers</organisation>, @<personne>pleclainche</personne> a participé (et <rang>gagné</rang>) à bord d’un <voilier>Tiwal 2</voilier>. Il raconte surtout une ambiance vraiment sympa http://bit.ly/2WVuMvk 

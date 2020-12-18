@@ -1,0 +1,5 @@
+T1	personne 21 33	Alex Thomson
+T2	equipage 67 76	Hugo Boss
+T4	course 7 19	VENDÉE GLOBE
+T3	technique 58 63	foils
+R1	skipper Arg1:T1 Arg2:T2	

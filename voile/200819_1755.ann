@@ -1,0 +1,6 @@
+T1	bateau 38 47	Azawakh V
+T2	voilier 29 36	Open 50
+T3	lieu 86 94	Portugal
+T4	lieu 58 68	Saint-Malo
+T5	incident 0 23	Disparition inquiétante
+R1	localisation Arg1:T1 Arg2:T4	

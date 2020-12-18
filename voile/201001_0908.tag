@@ -1,0 +1,1 @@
+Une vidéo de l'<equipage>Arkea-Paprec</equipage> de <personne>Sébastien Simon</personne>, <date>mercredi</date>, dans une bonne <meteo>brise</meteo> bretonne précédant la <meteo>tempête</meteo> Alex : Impressionnant !

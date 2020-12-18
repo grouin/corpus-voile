@@ -1,0 +1,10 @@
+T1	voilier 87 92	Ultim
+T2	voilier 108 118	Ultim32_23
+T3	equipage 19 29	GitanaTeam
+T4	personne 39 57	Charles Caudrelier
+T5	personne 60 73	Franck Cammas
+T6	equipage 77 85	Gitana17
+T7	personne 95 106	CCaudrelier
+T9	fonction 9 17	skippers
+R1	skipper Arg1:T4 Arg2:T3	
+R2	skipper Arg1:T5 Arg2:T3	

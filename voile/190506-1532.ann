@@ -1,0 +1,7 @@
+T1	lieu 110 131	golfe de Saint-Tropez
+T2	categorie 15 36	Voiliers de Tradition
+T3	equipage 175 187	Moonbeam III
+T4	type 83 89	régaté
+T5	date 90 101	ce week-end
+T6	categorie 137 145	voiliers
+R1	localisation Arg1:T3 Arg2:T1	

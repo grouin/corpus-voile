@@ -1,0 +1,1 @@
+« Le tapis roulant s’est alors mis en route, et là, c’était l’enfer » a déclaré @<personne>yoannrichomme</personne> <rang>leader au général</rang> de @<course>LaSolitaire_50e</course> . Les images de son bateau à contre-courant parlent d’elles-mêmes... http://bit.ly/2ImVFEy  @<organisation>ClasseFigaroben</organisation> #<voilier>Figaro3</voilier>

@@ -1,0 +1,1 @@
+Quand deux <voilier>Ultim</voilier> se croisent à plus de <vitesse>30 noeuds</vitesse>, c'est chaud ! La preuve en vidéo.@<organisation>trimaranMACIF</organisation> @<equipage>GitanaTeam</equipage>   http://bit.ly/2YOQS3x 

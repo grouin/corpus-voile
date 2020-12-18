@@ -1,0 +1,13 @@
+T1	categorie 202 212	ClasseMini
+T6	rang 16 25	vainqueur
+T7	personne 0 14	Yves Le Blevec
+T2	course 32 49	Mini-Transat 2007
+T4	lieu 114 120	Manche
+T5	vitesse 156 164	14 nœuds
+T8	vitesse 196 198	20
+T9	course 214 225	MiniFastnet
+T3	course 62 74	Mini-Fastnet
+T10	rang 126 133	meneurs
+R1	classement Arg1:T7 Arg2:T6	
+T11	etape 92 100	première
+T12	pratique 101 110	traversée

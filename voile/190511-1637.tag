@@ -1,0 +1,1 @@
+<course>Solo Concarneau</course>: <personne>Michel @desjoyeaux</personne>, dit \"le prof\", donne son avis.  @<course>SoloConcarneau</course> @<organisation>ClasseFigaroben</organisation> @<course>LaSolitaire_50e</course>  http://bit.ly/2W0H8WH 

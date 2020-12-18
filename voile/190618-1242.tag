@@ -1,0 +1,1 @@
+<personne>Hervé Gastinel</personne> n’est plus le <fonction>directeur général</fonction> du groupe @<organisation>BENETEAU_France</organisation>. Il est remplacé par <personne>Jérôme de Metz</personne>, <fonction>président du conseil</fonction>. Un changement qui annoncerait aussi une réorganisation du groupe. Toutes les infos ici : http://bit.ly/2FiWIDq  #industrie #nautisme

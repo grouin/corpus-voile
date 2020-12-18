@@ -1,0 +1,7 @@
+T1	course 165 171	SailGP
+T2	equipage 123 132	SailGPFRA
+T3	personne 49 65	Eloi Stichelbaut
+T4	lieu 135 143	New York
+T5	etape 152 160	3e étape
+T6	lieu 115 121	France
+R1	localisation Arg1:T2 Arg2:T4	

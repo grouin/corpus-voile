@@ -1,0 +1,7 @@
+T1	personne 67 86	Aymeric Chappellier
+T2	equipage 121 132	TeamAina151
+T3	course 1 15	DéfiAtlantique
+T4	organisation 103 118	GPOnauticevents
+T5	organisation 90 101	AssoClass40
+T6	technique 27 30	spi
+R1	skipper Arg1:T1 Arg2:T2	

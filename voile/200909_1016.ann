@@ -1,0 +1,5 @@
+T1	equipage 79 85	Charal
+T2	personne 36 49	Jérémie Beyou
+T3	personne 59 66	Thomson
+T4	course 22 34	Vendée Globe
+R1	skipper Arg1:T2 Arg2:T1	

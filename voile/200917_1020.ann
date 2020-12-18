@@ -1,0 +1,5 @@
+T1	equipage 50 63	Jean Stalaven
+T2	equipage 35 45	Jet France
+T3	lieu 83 89	Tahiti
+T4	categorie 25 34	catamaran
+R1	localisation Arg1:T2 Arg2:T3	

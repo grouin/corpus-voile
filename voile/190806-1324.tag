@@ -1,0 +1,1 @@
+La suite de notre interview vidéo de @<personne>CharlieDalin</personne> avec aujourd'hui les explications sur le choix du <technique>cockpit</technique> et des <technique>foils</technique> http://bit.ly/2KhC09S \n@<course>ImocaGS</course> @<equipage>ApiviaVoile</equipage> @<course>VendeeGlobe</course>

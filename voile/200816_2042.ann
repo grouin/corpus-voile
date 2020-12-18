@@ -1,0 +1,8 @@
+T1	lieu 48 58	Concarneau
+T2	lieu 36 42	Glénan
+T3	incident 8 31	Six voiliers s’échouent
+T4	meteo 72 77	orage
+R1	localisation Arg1:T3 Arg2:T2	
+R2	localisation Arg1:T3 Arg2:T1	
+R3	localisation Arg1:T4 Arg2:T1	
+R4	localisation Arg1:T4 Arg2:T2	

@@ -1,0 +1,8 @@
+T1	course 180 191	VendeeGlobe
+T2	voilier 27 52	IMOCA nouvelle génération
+T3	date 13 21	ce lundi
+T4	personne 67 80	Charlie Dalin
+T5	voilier 171 178	ImocaGS
+T6	equipage 54 65	ApiviaVoile
+T7	pratique 0 12	Mise à l'eau
+R1	skipper Arg1:T4 Arg2:T6	

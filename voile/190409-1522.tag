@@ -1,0 +1,1 @@
+Durant trente cinq ans @<course>spiOF</course>  a été la chasse gardée des <categorie>monocoques</categorie>. Les <categorie>multicoques</categorie> - @<voilier>Diam24OD</voilier> et les #<voilier>Multi2000</voilier>, se sont ajoutés depuis. Et désormais les <categorie>bateaux volants</categorie> avec les @<voilier>ETF_26</voilier>. https://bit.ly/2P08aaO 

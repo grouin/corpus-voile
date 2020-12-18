@@ -1,0 +1,1 @@
+INFO - #<lieu>Europe</lieu> : 2 navires de pêche britanniques ont été visés par une vingtaine de bateaux français dans la <lieu>Manche</lieu> vers 1h30 du matin <date>lundi</date>. Ils ont été <incident>bombardés de fusées éclairantes, de pierres</incident> au milieu de tensions sur les règles de capture des #pétoncles. via @News_Mena_

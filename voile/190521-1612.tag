@@ -1,0 +1,1 @@
+Bals ( de la marine) annoncés, <date>ce week-end</date>, sur @<lieu>nantesfr</lieu>. @<organisation>Déborddeloire</organisation> @<equipage>troismats_Belem</equipage> @<organisation>LHERMIONE_SHIP</organisation> //bit.ly/2VIhGBj

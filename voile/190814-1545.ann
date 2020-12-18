@@ -1,0 +1,9 @@
+T1	personne 76 86	SkypperVDH
+T2	personne 39 50	loickpeyron
+T3	personne 14 27	GretaThunberg
+T4	personne 53 68	Eugène Riguidel
+T5	equipage 88 99	teammalizia
+T6	personne 101 114	borisherrmann
+T7	personne 116 129	gretathunberg
+R1	skipper Arg1:T6 Arg2:T5	
+T8	evenement 0 9	Traversée

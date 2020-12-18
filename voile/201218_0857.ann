@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	course 121 127	VG2020
+T3	personne 15 27	ThomasRuyant
+T4	personne 52 67	YannickBestaven
+T5	personne 81 93	CharlieDalin
+T6	rang 105 119	deuxième place
+R1	classement Arg1:T5 Arg2:T6	

@@ -1,0 +1,7 @@
+T1	course 0 19	TROPHÉE JULES VERNE
+T2	categorie 24 32	trimaran
+T3	equipage 39 48	Gitana 17
+T4	personne 52 58	Cammas
+T5	personne 62 72	Caudrelier
+R1	skipper Arg1:T4 Arg2:T3	
+R2	skipper Arg1:T5 Arg2:T3	

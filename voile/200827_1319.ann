@@ -1,0 +1,6 @@
+T1	bateau 10 17	Lady MM
+T2	lieu 47 56	Sardaigne
+T3	incident 20 31	coulé à pic
+T4	incident 67 75	incendie
+R1	localisation Arg1:T3 Arg2:T2	
+R2	localisation Arg1:T4 Arg2:T2	

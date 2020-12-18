@@ -1,0 +1,1 @@
+<date>Samedi</date> - 13 h 30 - <lieu>Cowes</lieu> : Départ de la @<course>RolexFastnet Race</course>. @<course>cowes_week</course> @<course>RolexFastnet</course> #<course>RolexFastnetRace</course> http://bit.ly/2ZuJhbG 

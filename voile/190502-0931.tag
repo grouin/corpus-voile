@@ -1,0 +1,1 @@
+Vidéo. Enfournements à répétition, chavirages évités de justesse, casse... pour les <categorie>catamarans</categorie> extrêmes du circuit @<course>SailGP</course> , le <etape>deuxième acte</etape> en <lieu>baie de San Francisco</lieu> s’annonce particulièrement sauvage http://bit.ly/2DHIb3u 

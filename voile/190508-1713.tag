@@ -1,0 +1,1 @@
+Nouveau départ <date>jeudi</date> pour la <course>Mini en Mai</course> @<course>minienmai</course> @<categorie>ClasseMini</categorie> @<organisation>SNTrinite</organisation> #<course>minienmai</course> #@<categorie>ClasseMini</categorie> #<categorie>classeMini</categorie>  //bit.ly/2JtnjjZ

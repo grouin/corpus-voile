@@ -1,0 +1,8 @@
+T1	course 135 140	spiOF
+T2	personne 91 103	yvesleblevec
+T3	voilier 47 52	Ultim
+T4	equipage 54 69	TeamActualeader
+T5	date 73 79	13 mai
+T6	date 119 130	ce week-end
+T7	pratique 27 39	mise à l’eau
+R1	skipper Arg1:T2 Arg2:T4	

@@ -1,0 +1,5 @@
+T1	personne 11 24	antoinealbeau
+T2	lieu 53 62	Marignane
+T3	course 71 99	coupe du monde de slalom PWA
+T4	pratique 1 9	Windsurf
+R1	localisation Arg1:T1 Arg2:T2	

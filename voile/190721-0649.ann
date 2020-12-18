@@ -1,0 +1,9 @@
+T1	equipage 92 104	SkipperMacif
+T2	personne 20 34	francoisgabart
+T3	voilier 119 129	PhantomInt
+T4	voilier 56 70	Flying Phantom
+T5	lieu 78 90	lac de Garde
+T6	organisation 106 117	GroupeMacif
+T7	fonction 3 10	skipper
+R1	skipper Arg1:T2 Arg2:T1	
+R2	localisation Arg1:T1 Arg2:T5	

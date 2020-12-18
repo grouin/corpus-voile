@@ -1,0 +1,1 @@
+<categorie>470</categorie>. #Entretien avec #<personne>KevinPeponnet</personne> et @<personne>Jeremiemion</personne> juste avant le <course>mondial</course>, à un an des <evenement>JO</evenement> @<personne>keponnet</personne> @<evenement>jeuxolympiques</evenement> #<course>FRAsailing</course> #<course>470sailing</course> http://bit.ly/2LYhOeL 

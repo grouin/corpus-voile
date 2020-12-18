@@ -1,0 +1,9 @@
+T1	personne 36 47	CCaudrelier
+T2	equipage 70 80	GitanaTeam
+T3	personne 25 31	Cammas
+T4	course 56 68	RolexFastnet
+T5	rang 0 8	Victoire
+R1	classement Arg1:T3 Arg2:T5	
+R2	classement Arg1:T1 Arg2:T5	
+R3	skipper Arg1:T3 Arg2:T2	
+R4	skipper Arg1:T1 Arg2:T2	

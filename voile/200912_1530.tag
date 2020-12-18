@@ -1,0 +1,1 @@
+Pilote Côtier 5B - De <lieu>Quiberon</lieu> à <lieu>la Rochelle</lieu> - Nouvelle Edition. Découvrez et achetez ce guide : http://tinyurl.com/y65c9c4w Nouvelle Edition remise à jour revue par <personne>Jean-Louis Guéry</personne> - avec un complément sur les aires marines protégées pour chaque zone traversée.

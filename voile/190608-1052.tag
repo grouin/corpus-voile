@@ -1,0 +1,1 @@
+Drame des <lieu>Sables-d'Olonne</lieu> : l'hommage de <personne>VDH</personne>. @<personne>SkypperVDH</personne> @<lieu>lessables</lieu> @<lieu>VilleDesSables</lieu> @<organisation>SauveteursenMer</organisation> http://bit.ly/2XzFfh5 

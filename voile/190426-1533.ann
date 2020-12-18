@@ -1,0 +1,5 @@
+T1	personne 8 22	francoisgabart
+T2	personne 27 41	aurelienducroz
+T3	lieu 67 74	Norvège
+R1	localisation Arg1:T2 Arg2:T3	
+R2	localisation Arg1:T1 Arg2:T3	

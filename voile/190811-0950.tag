@@ -1,0 +1,1 @@
+Le <technique>GPS</technique> de <personne>Philippe Presti</personne> a passé la barre des <vitesse>57 nœuds</vitesse> en <voilier>F 5O</voilier> ! @<equipage>SailGPFRA</equipage> @<course>SailGP</course> <course>SailGP</course> https://bit.ly/31w9CXk 

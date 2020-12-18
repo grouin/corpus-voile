@@ -1,0 +1,3 @@
+T1	lieu 59 74	port de #Bastia
+T2	meteo 26 39	Trombe marine
+R1	localisation Arg1:T2 Arg2:T1	

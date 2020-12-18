@@ -1,0 +1,1 @@
+<personne>Xavier Macaire</personne> <rang>remporte</rang> à <lieu>Gijon</lieu> la <etape>première étape</etape> de la <course>Dournenez-Gijon</course> @<course>dzcoursesgijon</course>  http://bit.ly/2ZFGhcH 

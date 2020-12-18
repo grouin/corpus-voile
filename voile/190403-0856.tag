@@ -1,0 +1,1 @@
+Quels enjeux représentent le #nautisme pour une marque comme @<organisation>Decathlon</organisation> et comment attirer une clientèle plus jeune et toujours plus exigeante ? Réponse avec le <fonction>directeur</fonction> de <organisation>Tribord</organisation> http://bit.ly/2VeF21L 

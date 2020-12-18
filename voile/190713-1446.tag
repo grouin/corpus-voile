@@ -1,0 +1,1 @@
+Le point sur le @<course>tourvoile</course> à mi-parcours par <personne>D. Ravon</personne>: @<equipage>BeijafloreGroup</equipage> , #<equipage>CheminéesPoujoulat</equipage> et <equipage>Réseau Ixio</equipage> aux manettes. @<voilier>Diam24OD</voilier>   http://bit.ly/2JFkcEd 

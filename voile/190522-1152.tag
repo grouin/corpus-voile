@@ -1,0 +1,1 @@
+Diaporama de la <pratique>mise à l'eau</pratique> de l'@<voilier>Ultim32_23</voilier> @<organisation>trimaranMACIF</organisation> @<personne>francoisgabart</personne> @<organisation>GroupeMacif</organisation> //bit.ly/2YKP38u

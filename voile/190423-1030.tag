@@ -1,0 +1,1 @@
+#Video @<personne>francoisgabart</personne> <pratique>surfe</pratique> en #<categorie>SUP</categorie> <technique>foil</technique> à <lieu>La Torche</lieu> #<categorie>paddle</categorie> #<lieu>Finistere</lieu> http://bit.ly/2GBDVEE 

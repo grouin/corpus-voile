@@ -1,0 +1,9 @@
+T1	personne 8 22	francoisgabart
+T2	lieu 63 72	Finistere
+T3	lieu 44 53	La Torche
+T4	categorie 55 61	paddle
+T5	technique 37 41	foil
+T6	pratique 23 28	surfe
+R1	localisation Arg1:T1 Arg2:T3	
+R2	localisation Arg1:T1 Arg2:T2	
+T7	categorie 33 36	SUP

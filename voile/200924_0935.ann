@@ -1,0 +1,5 @@
+T1	lieu 24 30	Manche
+T2	lieu 34 45	mer du Nord
+T3	meteo 7 20	Coups de vent
+R1	localisation Arg1:T3 Arg2:T1	
+R2	localisation Arg1:T3 Arg2:T2	

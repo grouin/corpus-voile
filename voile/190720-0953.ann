@@ -1,0 +1,4 @@
+T1	equipage 0 8	Sodebo 3
+T3	equipage 86 101	Sodebo_Voile  3
+T2	personne 67 80	Renaud Banuls
+R1	skipper Arg1:T2 Arg2:T3	

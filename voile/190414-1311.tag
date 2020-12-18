@@ -1,0 +1,1 @@
+Les <voilier>protos</voilier> ont largement dominé la <course>Plastimon Lorient Mini</course>, en ouverture de saison de la classe <categorie>Mini</categorie> @<categorie>ClasseMini</categorie> @<personne>yvesleblevec</personne> @<organisation>Lgrandlarge</organisation> @<personne>MarcLOMBARD</personne> @<course>Plastimo</course>  http://bit.ly/2v4IPmQ 

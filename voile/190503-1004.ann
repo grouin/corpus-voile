@@ -1,0 +1,8 @@
+T1	personne 182 196	francoisgabart
+T2	categorie 216 229	maxi-trimaran
+T3	lieu 62 68	Carnac
+T4	date 69 82	du 2 au 4 mai
+T5	course 105 112	Eurocat
+T6	course 142 149	Eurocat
+T7	voilier 240 250	PhantomInt
+R1	skipper Arg1:T1 Arg2:T7	

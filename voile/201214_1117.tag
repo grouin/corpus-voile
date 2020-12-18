@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. Avarie importante : <technique>voiles d’avant</technique> déchirées sur le bateau de @<personne>MaximeSorel</personne> @<equipage>vandb_mayenne</equipage> #<course>VG2020</course> #<course>VendeeGlobe2020</course>

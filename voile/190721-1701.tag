@@ -1,0 +1,1 @@
+Suspens niçois : le <rang>triomphe</rang> in extremis de <bateau>Beijaflore</bateau> au @<course>tourvoile</course> <date>2019</date> : le récit et l'analyse de <personne>D. Ravon</personne>. #<course>TourVoile</course> @<organisation>FFVoile</organisation> @<lieu>VilledeNice</lieu>  http://bit.ly/2M5cplO 

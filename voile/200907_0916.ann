@@ -1,0 +1,7 @@
+T1	personne 24 40	Armel Le Cléac’h
+T3	course 0 22	La Solitaire du Figaro
+T7	rang 46 53	en tête
+T8	lieu 57 74	phare d’Eddystone
+R1	classement Arg1:T1 Arg2:T7	
+R2	localisation Arg1:T7 Arg2:T8	
+R3	localisation Arg1:T1 Arg2:T8	

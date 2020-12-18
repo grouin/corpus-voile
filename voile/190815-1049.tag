@@ -1,0 +1,1 @@
+Les Français en répétition générale à <lieu>Enoshima</lieu> pour les <evenement>JO de Tokyo</evenement> <date>2010</date> : Revue des troupes par <personne>D. Ravon</personne> @<organisation>FFVoile</organisation> @<evenement>jeuxolympiques</evenement>  http://bit.ly/2Z2TXgv 

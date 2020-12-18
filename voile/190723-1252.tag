@@ -1,0 +1,1 @@
+Vidéo. Le talentueux <fonction>mediaman</fonction> <personne>Yann Riou</personne> nous emmène à bord du <categorie>Maxi</categorie> <bateau>Edmond de Rothschild</bateau> avec le @<equipage>GitanaTeam</equipage> pendant un entraînement dans le <lieu>Sud irlandais</lieu> pour la #<course>RolexFastnetRace</course> #<voilier>Ultim</voilier> http://bit.ly/2XV5hQe 

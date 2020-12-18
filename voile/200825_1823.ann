@@ -1,0 +1,9 @@
+T1	personne 0 17	Benjamin Schwartz
+T2	course 46 66	Championnat d’Europe
+T3	voilier 70 73	L30
+T4	personne 21 31	Marie Riou
+T5	lieu 76 85	Marseille
+T6	rang 32 42	remportent
+R1	classement Arg1:T1 Arg2:T6	
+R2	classement Arg1:T4 Arg2:T6	
+R3	localisation Arg1:T6 Arg2:T5	

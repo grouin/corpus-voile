@@ -1,0 +1,8 @@
+T1	equipage 129 141	SkipperMacif
+T2	personne 66 80	francoisgabart
+T4	organisation 46 59	trimaranMACIF
+T6	voilier 156 166	Ultim32_23
+T3	personne 84 91	Gahinet
+T7	organisation 143 154	GroupeMacif
+T5	categorie 40 44	maxi
+R1	skipper Arg1:T2 Arg2:T1	

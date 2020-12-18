@@ -1,0 +1,1 @@
+Cap sur <lieu>les Açores</lieu> ! Deux nouvelles courses sur le calendrier <categorie>IRC</categorie> rejoindront l'archipel <date>l'été prochain</date>. @<lieu>LaRochelle_OT</lieu> @<evenement>GrandPavois</evenement> @<categorie>IRCrating</categorie> http://bit.ly/2Ymr0jw 

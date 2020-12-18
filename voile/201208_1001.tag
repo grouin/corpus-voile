@@ -1,0 +1,1 @@
+VIDÉO. <course>Vendée Globe</course>. @<personne>ThomasRuyant</personne> fait le dos rond dans <vitesse>45 nœuds</vitesse> de <meteo>vent</meteo> #<course>VG2020</course> #<course>VendeeGlobe2020</course>

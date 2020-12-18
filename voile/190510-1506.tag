@@ -1,0 +1,1 @@
+Pour gagner des vêtements de mer de la marque @<organisation>GillMarine</organisation>, c'est par ici avec notre jeu-concours. Rendez-vous sur notre site internet pour participer en répondant aux questions concoctées par la rédaction http://bit.ly/2PZmeSr 

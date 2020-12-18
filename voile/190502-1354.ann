@@ -1,0 +1,8 @@
+T1	lieu 42 54	océan Indien
+T2	organisation 63 81	Voiles et Voiliers
+T3	personne 146 167	Jean-Marie de Dianous
+T4	lieu 221 233	océan Indien
+T5	type 234 246	en solitaire
+T6	incident 28 34	démâté
+R1	localisation Arg1:T6 Arg2:T1	
+R2	localisation Arg1:T3 Arg2:T4	

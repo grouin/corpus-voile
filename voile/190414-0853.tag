@@ -1,0 +1,1 @@
+<personne>Aymeric Chappellier</personne> <rang>remporte</rang> haut la main à <lieu>La Rochelle</lieu> le <course>Défi Atlantique</course> @<course>DAtlantique</course> @<organisation>AssoClass40</organisation> #<course>DefiAtlantique</course>  http://bit.ly/2GaSH3D 

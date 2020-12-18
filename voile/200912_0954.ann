@@ -1,0 +1,8 @@
+T1	personne 27 44	Ambrogio Beccaria
+T2	personne 61 73	Léo Debiesse
+T4	course 0 11	Mini en Mai
+T5	categorie 77 82	Série
+T6	rang 13 21	Victoire
+T7	categorie 48 57	prototype
+R1	classement Arg1:T1 Arg2:T6	
+R2	classement Arg1:T2 Arg2:T6	

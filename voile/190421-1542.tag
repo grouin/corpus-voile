@@ -1,0 +1,1 @@
+Un <voilier>Figaro2</voilier> sérigraphié aux couleurs du <organisation>SHOM</organisation> en plein <course>Spi Ouest-France</course> ! @<course>spiOF</course> @<organisation>BENETEAU_France</organisation> #<course>spiouestfrance</course> @<organisation>SNTrinite</organisation>  http://bit.ly/2ZrWmCQ 

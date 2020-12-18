@@ -1,0 +1,6 @@
+T1	lieu 86 99	Sainte-Hélène
+T2	lieu 107 121	Atlantique Sud
+T3	personne 41 52	Mino Vittet
+T4	meteo 71 82	anticyclone
+R1	localisation Arg1:T4 Arg2:T1	
+R2	localisation Arg1:T4 Arg2:T2	

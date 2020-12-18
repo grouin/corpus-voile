@@ -1,0 +1,1 @@
+<rang>Victoire</rang> au bout de la nuit à @<course>Sables_Horta</course> pour <personne>Gerckens</personne> et <personne>Hantzperg</personne> @<lieu>lessables</lieu> @<lieu>VilleDesSables</lieu> @<organisation>AssoClass40</organisation> http://bit.ly/30cTrxF 

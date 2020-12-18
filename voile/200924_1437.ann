@@ -1,0 +1,6 @@
+T1	lieu 72 84	île d’Oléron
+T2	date 85 93	mercredi
+T3	meteo 42 55	trombe marine
+T4	meteo 57 64	tornade
+R1	localisation Arg1:T3 Arg2:T1	
+R2	localisation Arg1:T4 Arg2:T1	

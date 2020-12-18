@@ -1,0 +1,7 @@
+T1	bateau 36 42	Lozour
+T2	date 83 95	jeudi 6 juin
+T3	lieu 125 135	la Corogne
+T4	lieu 149 158	espagnols
+T5	fonction 6 24	membres d’équipage
+T6	incident 51 64	hélitreuillés
+R1	localisation Arg1:T6 Arg2:T3	

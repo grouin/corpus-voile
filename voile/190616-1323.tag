@@ -1,0 +1,1 @@
+Une <incident>plaisancière a été retrouvée noyée</incident> <date>samedi</date> dans le <lieu>lac Léman</lieu> où un violent #<meteo>orage</meteo> s’est abattu entraînant le #<incident>naufrage</incident> du bateau sur lequel elle se trouvait #<lieu>suisse</lieu>  http://bit.ly/2XKVpEB 

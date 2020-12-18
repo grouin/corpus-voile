@@ -1,0 +1,1 @@
+#VIDEO #<meteo>orage</meteo> du <lieu>lac Léman</lieu> : non le <course>Bol d’Or</course> ce n’était pas que la <meteo>tempête</meteo> ! @<course>BoldOrMirabaud</course> #<lieu>lacleman</lieu> http://bit.ly/30eOlRA 

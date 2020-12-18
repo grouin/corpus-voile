@@ -1,0 +1,12 @@
+T1	categorie 2 7	Ultim
+T2	vitesse 35 43	40 nœuds
+T3	personne 143 154	CCaudrelier
+T4	personne 182 195	Franck Cammas
+T5	equipage 96 106	GitanaTeam
+T6	equipage 8 17	Gitana 17
+T7	bateau 74 94	Edmond de Rothschild
+T8	fonction 155 165	co-skipper
+R1	skipper Arg1:T3 Arg2:T7	
+R2	skipper Arg1:T4 Arg2:T7	
+R3	skipper Arg1:T3 Arg2:T5	
+R4	skipper Arg1:T4 Arg2:T5	

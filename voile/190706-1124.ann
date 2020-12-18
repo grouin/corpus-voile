@@ -1,0 +1,12 @@
+T3	lieu 72 81	lessables
+T4	organisation 99 110	AssoClass40
+T2	course 31 43	Sables_Horta
+T5	personne 49 57	Gerckens
+T6	personne 61 70	Hantzperg
+T7	lieu 83 97	VilleDesSables
+T1	rang 0 8	Victoire
+R1	classement Arg1:T5 Arg2:T1	
+R2	classement Arg1:T6 Arg2:T1	
+R3	localisation Arg1:T1 Arg2:T3	
+R4	localisation Arg1:T6 Arg2:T3	
+R5	localisation Arg1:T5 Arg2:T3	

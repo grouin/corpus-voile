@@ -1,0 +1,10 @@
+T1	course 0 19	Trophée Jules Verne
+T2	equipage 44 56	SodeboUltim3
+T3	personne 60 74	Thomas Coville
+T4	lieu 96 106	La Réunion
+T5	equipage 108 120	Sodebo_Voile
+T6	course 122 134	TJV_officiel
+T7	course 136 145	TropheeJV
+R1	skipper Arg1:T3 Arg2:T2	
+R2	skipper Arg1:T3 Arg2:T5	
+R3	localisation Arg1:T3 Arg2:T4	

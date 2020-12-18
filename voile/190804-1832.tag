@@ -1,0 +1,1 @@
+Le <categorie>Mini 6.50</categorie> <bateau>Aelig</bateau> a été <incident>retrouvé vide</incident> à 6 km d'<lieu>Ouessant</lieu>. Son <fonction>skipper</fonction> <personne>Stéphane Thomas</personne> qui devait ramener son bateau à <lieu>Lorient</lieu> été parti d'<lieu>Irlande</lieu>. Plus d'infos : http://bit.ly/337WtW8 \n#disparition @<categorie>ClasseMini</categorie>

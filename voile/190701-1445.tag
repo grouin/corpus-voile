@@ -1,0 +1,1 @@
+#<incident>Amerrissage d’urgence</incident> : un <fonction>pêcheur</fonction> et les <fonction>sauveteurs en mer</fonction> sauvent deux passagers d’un avion ULM ! #<lieu>Vendee</lieu> http://bit.ly/2RMPRr9 

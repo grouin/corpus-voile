@@ -1,0 +1,1 @@
+Le \"<bateau>Chacal</bateau>\" <rang>remporte</rang> la @<course>SoloConcarneau</course> devant @<personne>martinlepape</personne> @<equipage>SkipperMacif</equipage> @<equipage>VoileBanquePop</equipage>  @<course>LaSolitaire_50e</course> #<personne>ArmelLeCléac'h</personne>  http://bit.ly/2W1EiRi 

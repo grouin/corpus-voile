@@ -1,0 +1,6 @@
+T1	categorie 35 44	catamaran
+T2	lieu 21 29	Baléares
+T3	lieu 87 92	Ibiza
+T4	date 142 150	ce jeudi
+T5	incident 99 121	ravagé par les flammes
+R1	localisation Arg1:T5 Arg2:T3	

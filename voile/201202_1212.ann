@@ -1,0 +1,8 @@
+T1	course 0 12	Vendée Globe
+T2	equipage 14 26	Arkéa Paprec
+T3	incident 27 41	heurte un OFNI
+T4	technique 61 73	foil tribord
+T5	personne 75 90	SebastienSimon_
+T6	course 92 98	VG2020
+T7	course 100 115	VendeeGlobe2020
+R1	skipper Arg1:T5 Arg2:T2	

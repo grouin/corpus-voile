@@ -1,0 +1,1 @@
+<evenement>Armada</evenement>. 5 choses que vous ignorez (peut-être) sur <bateau>l’Hermione</bateau> @<organisation>LHERMIONE_SHIP</organisation> @<evenement>ArmadaRouen</evenement> http://bit.ly/2X0msi8 

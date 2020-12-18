@@ -1,0 +1,1 @@
+<incident>Chavirage</incident> et enfournage : un <course>Sail GP</course> bourré d'épices dans le <lieu>Solent</lieu> @<course>worldsailing</course> @<equipage>SailGPFRA</equipage> @<course>SailGP</course> @<equipage>SailGPGBR</equipage> @<equipage>SailGPUSA</equipage>  http://bit.ly/2KsW7Cg 

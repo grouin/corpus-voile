@@ -1,0 +1,7 @@
+T1	bateau 25 39	LHERMIONE_SHIP
+T2	lieu 42 51	Rochefort
+T3	lieu 54 68	RochefortOcean
+T4	technique 10 16	radoub
+#1	AnnotatorNotes T4	cale sèche
+R1	localisation Arg1:T1 Arg2:T2	
+R2	localisation Arg1:T1 Arg2:T3	

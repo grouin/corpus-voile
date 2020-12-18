@@ -1,0 +1,1 @@
+<personne>Pierre Leboucher</personne> <rang>remporte</rang> l'<etape>étape retour</etape> de la <course>Douarnenez - Gijón</course>. <personne>Xavier Macaire</personne> <rang>premier</rang> au Général. @<course>dzcoursesgijon</course> @<equipage>KlaxoonFR</equipage>   http://bit.ly/2MknP6a 

@@ -1,0 +1,1 @@
+La @<organisation>SNTrinite</organisation> organise en <date>septembre</date> prochain une course réservée aux <type>équipages mixtes à 100 %</type>. L’occasion de s’interroger sur l’équité, la parité et la place de la femme dans la société. Avec @<personne>IsabelleJoschke</personne> et @<personne>yvesleblevec</personne> en parrains : http://bit.ly/2KgGmya  #mixité

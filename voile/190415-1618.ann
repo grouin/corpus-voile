@@ -1,0 +1,4 @@
+T1	categorie 4 13	catamaran
+T2	lieu 56 68	Méditerranée
+T3	incident 29 52	disparu mystérieusement
+R1	localisation Arg1:T3 Arg2:T2	

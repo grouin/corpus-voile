@@ -1,0 +1,1 @@
+Les <fonction>créateurs</fonction> du <voilier>JPK 10.30</voilier> et du <voilier>Sun Fast 3300</voilier> se défient sur l'eau. @<organisation>SunFast</organisation> @<organisation>EtsJeanneau</organisation> @<organisation>CatAtlantique</organisation> @<organisation>IRCrating</organisation> http://bit.ly/2Iz9YWs 

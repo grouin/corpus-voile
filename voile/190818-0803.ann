@@ -1,0 +1,5 @@
+T1	personne 9 25	Christian Dumard
+T2	personne 0 5	Clara
+T3	lieu 67 76	Spitzberg
+R1	localisation Arg1:T1 Arg2:T3	
+R2	localisation Arg1:T2 Arg2:T3	

@@ -1,0 +1,1 @@
+#<evenement>BranlebasDeRégates</evenement> à #<lieu>SaintMalo</lieu> : un cru <date>2019</date> <meteo>venteux</meteo> et réussi @<organisation>Branlebas</organisation> @<lieu>VilleSaintMalo</lieu> http://bit.ly/2KK8QQ1 

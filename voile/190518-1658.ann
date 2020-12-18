@@ -1,0 +1,9 @@
+T1	personne 89 101	yvesleblevec
+T2	equipage 72 87	TeamActualeader
+T3	course 4 18	TOURDEBELLEILE
+T4	equipage 56 69	Actual Leader
+T5	fonction 32 46	envoyé spécial
+R1	skipper Arg1:T1 Arg2:T2	
+R2	skipper Arg1:T1 Arg2:T4	
+T6	equipage 103 109	Actual
+R3	skipper Arg1:T1 Arg2:T6	

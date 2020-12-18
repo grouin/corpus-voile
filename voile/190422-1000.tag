@@ -1,0 +1,1 @@
+Cinq filles dans le vent au 41' <course>Spi Ouest-France</course>. @<course>spiOF</course> @<voilier>ENVSN56</voilier> @<organisation>SNTrinite</organisation> #<course>SpiOF</course> http://bit.ly/2KSRfZc 

@@ -1,0 +1,1 @@
+Pas d'informations supplémentaires  <date>dimanche</date> matin sur les " problèmes structurels" rencontrés par <equipage>Hugo Boss</equipage>. " <personne>Alex Thomson</personne> est en sécurité dans son bateau. Il continue la course" selon la direction de course. Il est désormais <rang>troisième</rang> derrière <personne>Th.Ruyant</personne>  et <personne>Ch.Dalin</personne>.

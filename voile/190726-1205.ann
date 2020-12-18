@@ -1,0 +1,8 @@
+T1	lieu 82 100	la Trinité-sur-Mer
+T2	personne 0 5	Clara
+T3	personne 9 25	Christian Dumard
+T4	lieu 40 49	Groenland
+T5	lieu 190 194	Nuuk
+T6	date 195 206	ce week-end
+R1	localisation Arg1:T2 Arg2:T4	
+R2	localisation Arg1:T3 Arg2:T4	

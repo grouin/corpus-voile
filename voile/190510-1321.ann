@@ -1,0 +1,6 @@
+T1	organisation 42 53	ChasseMaree
+T2	evenement 124 135	ArmadaRouen
+T3	bateau 206 215	Pen Duick
+T4	personne 218 230	Eric Tabarly
+T5	date 27 36	printemps
+R1	skipper Arg1:T4 Arg2:T3	

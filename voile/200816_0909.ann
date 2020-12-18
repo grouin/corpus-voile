@@ -1,0 +1,4 @@
+T1	lieu 67 79	Bretagne Sud
+T2	date 48 54	samedi
+T3	meteo 30 36	orages
+R1	localisation Arg1:T3 Arg2:T1	

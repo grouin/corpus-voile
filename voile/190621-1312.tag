@@ -1,0 +1,1 @@
+#<meteo>orage</meteo> du <lieu>Léman</lieu>. @<personne>ArmelTriponSkip</personne> témoigne : « On slalomait entre <incident>des dizaines de bateaux chavirés</incident>… » @<course>BoldOrMirabaud</course> http://bit.ly/2WXJguE 

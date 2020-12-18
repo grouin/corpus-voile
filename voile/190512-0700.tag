@@ -1,0 +1,1 @@
+<bateau>L'Hermione</bateau> cingle vers l' @<organisation>Ecole_navale</organisation> @<organisation>LHERMIONE_SHIP</organisation> @<course>GPEN_</course> @<lieu>BrestFr</lieu>  http://bit.ly/2VzHd4b 

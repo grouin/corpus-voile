@@ -1,0 +1,7 @@
+T1	rang 25 33	remporte
+T2	personne 8 24	Giovanni Soldini
+T3	course 37 58	Rolex Middle Sea Race
+T4	categorie 62 72	multicoque
+T5	voilier 81 98	Multi 70 Maserati
+R1	classement Arg1:T2 Arg2:T1	
+R2	skipper Arg1:T2 Arg2:T5	

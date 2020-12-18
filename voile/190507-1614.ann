@@ -1,0 +1,7 @@
+T1	voilier 25 32	IMOCA60
+T2	course 59 70	grandprixdz
+T3	personne 96 110	samanthadavies
+T4	equipage 114 129	initiativecoeur
+T5	technique 185 197	foils géants
+T6	type 4 19	runs de vitesse
+R1	skipper Arg1:T3 Arg2:T4	

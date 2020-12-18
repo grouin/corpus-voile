@@ -1,0 +1,7 @@
+T1	organisation 57 64	FFVoile
+T2	organisation 66 76	FFVoileEvt
+T3	equipage 43 54	Team France
+T4	lieu 78 87	marseille
+T6	rang 11 20	médailles
+R1	classement Arg1:T3 Arg2:T6	
+R2	localisation Arg1:T3 Arg2:T4	

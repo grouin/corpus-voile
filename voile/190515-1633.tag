@@ -1,0 +1,1 @@
+#Video <personne>Damien Seguin</personne> grimpe en haut de son <technique>mât</technique> et repart en course après réparation @<personne>sailingdamien</personne> @<course>B1000race</course> http://bit.ly/2VECP3R 

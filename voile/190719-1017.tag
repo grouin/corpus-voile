@@ -1,0 +1,1 @@
+VIDÉO. Le tout nouveau <categorie>monocoque</categorie> <equipage>Arkea-Paprec</equipage> a été enfin dévoilé, ce <date>jeudi</date> à <lieu>Port-la-Forêt</lieu>. <organisation>Voiles et Voiliers</organisation> était sur place pour filmer et interroger son <fonction>skipper</fonction>, @<personne>SebastienSimon_</personne>  http://bit.ly/30I33AQ 

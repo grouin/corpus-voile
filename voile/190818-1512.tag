@@ -1,0 +1,1 @@
+<personne>Ian Lipinski</personne> met à l'eau son nouveau  <voilier>Class40</voilier> au nez \"arrondi\", mais pas rond. @<organisation>AssoClass40</organisation> @<personne>ianlipinski</personne>  http://bit.ly/30fivEH 

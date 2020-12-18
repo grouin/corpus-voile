@@ -1,0 +1,1 @@
+La <evenement>traversée de l'Atlantique</evenement> de @<personne>GretaThunberg</personne> vraiment écologique ? Réponse de deux <fonction>constructeurs</fonction> d'<voilier>Imoca</voilier> @<voilier>ImocaGS</voilier> http://bit.ly/2K3eai5 

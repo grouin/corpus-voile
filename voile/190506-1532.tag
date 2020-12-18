@@ -1,0 +1,1 @@
+12 magnifiques <categorie>Voiliers de Tradition</categorie>, avec à leur bord plus de 80 % de femmes, ont <type>régaté</type> <date>ce week-end</date> dans le <lieu>golfe de Saint-Tropez</lieu>. Des <categorie>voiliers</categorie> de légende, comme le sublime <equipage>Moonbeam III</equipage> ont évolué en majesté pour le bonheur des yeux des spectateurs http://bit.ly/2V3tNYY 

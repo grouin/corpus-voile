@@ -1,0 +1,7 @@
+T1	categorie 79 89	ClasseMini
+T3	personne 65 77	yvesleblevec
+T5	voilier 91 96	Ultim
+T6	voilier 53 63	Ultim32_23
+T7	personne 0 14	Yves Le Blevec
+R1	skipper Arg1:T7 Arg2:T6	
+R2	skipper Arg1:T3 Arg2:T6	

@@ -1,0 +1,5 @@
+T1	equipage 56 62	Apivia
+T2	personne 22 35	Charlie Dalin
+T3	course 8 20	Vendée Globe
+R1	skipper Arg1:T2 Arg2:T1	
+T4	technique 65 80	étrave spatulée

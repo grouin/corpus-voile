@@ -1,0 +1,1 @@
+Témoignage : « Mon bateau a <incident>démâté</incident> dans l’<lieu>océan Indien</lieu> ». Dans <organisation>Voiles et Voiliers</organisation> n°579 actuellement en kiosque, nous vous relatons l’histoire de <personne>Jean-Marie de Dianous</personne> qui a dû s’y reprendre à trois fois pour traverser l’<lieu>océan Indien</lieu> <type>en solitaire</type> http://bit.ly/2Vg9Hjy 

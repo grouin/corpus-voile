@@ -1,0 +1,1 @@
+#<course>DéfiAtlantique</course> Réparer un <technique>spi</technique> en pleine course, avec l’équipage d'<personne>Aymeric Chappellier</personne>   @<organisation>AssoClass40</organisation> @<organisation>GPOnauticevents</organisation>  @<equipage>TeamAina151</equipage> http://bit.ly/2UtmQ8i 

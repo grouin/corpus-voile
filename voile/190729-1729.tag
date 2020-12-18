@@ -1,0 +1,1 @@
+<personne>Bernard Werber</personne>, <personne>Azouz Begag</personne> et (presque) <personne>Bernard Menez</personne> passent à la barre de <categorie>Mini 6.50</categorie> @<course>transgascogne</course> @<lieu>lessables -d'Olo</lieu> http://bit.ly/2ynI3mx 

@@ -1,0 +1,1 @@
+1ère édition du <evenement>Festival du film</evenement> <organisation>Voiles et Voiliers</organisation> aux <lieu>Sables d'Olonne</lieu>. http://leblogtvnews.com/2020/09/1ere-edition-du-festival-du-film-voiles-et-voiliers-aux-sables-d-olonne.html

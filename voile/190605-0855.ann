@@ -1,0 +1,8 @@
+T1	course 33 48	LaSolitaire_50e
+T2	personne 179 193	Marc Guillemot
+T3	personne 14 31	Cassandre Blandin
+T5	equipage 195 208	Klaxoon_Voile
+T6	fonction 86 93	skipper
+T7	fonction 149 158	directeur
+T8	incident 55 74	abordé par un cargo
+R1	skipper Arg1:T3 Arg2:T5	

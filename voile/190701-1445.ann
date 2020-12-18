@@ -1,0 +1,5 @@
+T1	lieu 102 108	Vendee
+T2	fonction 28 35	pêcheur
+T3	fonction 43 60	sauveteurs en mer
+T5	incident 1 22	Amerrissage d’urgence
+R1	localisation Arg1:T5 Arg2:T1	

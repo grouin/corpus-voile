@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. @<personne>KevinEscoffier</personne> <incident>déclenche sa balise de détresse</incident>, @<personne>JeanLecam</personne> se déroute #<course>VG2020</course> #<course>VendeeGlobe2020</course>

@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	personne 15 30	SebastienSimon_
+T3	equipage 33 45	Arkéa Paprec
+T4	incident 66 88	collision avec un OFNI
+T5	course 90 105	VendeeGlobe2020
+T6	course 107 113	VG2020
+R1	skipper Arg1:T2 Arg2:T3	

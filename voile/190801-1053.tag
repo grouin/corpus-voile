@@ -1,0 +1,1 @@
+Cap sur l'<lieu>Espagne</lieu>, <date>dimanche</date>, pour les 16 <categorie>figaristes</categorie> de la <course>Douarnenez - Gijón</course> @<organisation>DzHorta</organisation> @<organisation>ClasseFigaroben</organisation> http://bit.ly/31902K0 

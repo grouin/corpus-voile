@@ -1,0 +1,12 @@
+T1	personne 0 19	Aymeric Chappellier
+T2	lieu 39 44	Horta
+T3	course 69 84	Défi Atlantique
+T4	voilier 125 132	class40
+T5	rang 27 36	vainqueur
+T6	etape 51 65	première étape
+T7	course 86 97	DAtlantique
+T8	equipage 112 123	TeamAina151
+T9	organisation 99 110	AssoClass40
+R1	localisation Arg1:T5 Arg2:T2	
+R2	classement Arg1:T1 Arg2:T5	
+R3	skipper Arg1:T1 Arg2:T8	

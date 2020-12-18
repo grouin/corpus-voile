@@ -1,0 +1,1 @@
+Ça vous tente, une petite nav à bord du <categorie>maxi</categorie> @<organisation>trimaranMACIF</organisation> avec @<personne>francoisgabart</personne> et <personne>Gahinet</personne> ? C'est possible avec cette vidéo ! @<equipage>SkipperMacif</equipage> @<organisation>GroupeMacif</organisation> @<voilier>Ultim32_23</voilier> http://bit.ly/2LJ9tMk 

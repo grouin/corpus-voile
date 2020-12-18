@@ -1,0 +1,5 @@
+T1	course 0 12	Vendée Globe
+T2	technique 24 30	safran
+T3	personne 36 48	Alex Thomson
+T4	equipage 53 62	Hugo Boss
+R1	skipper Arg1:T3 Arg2:T4	

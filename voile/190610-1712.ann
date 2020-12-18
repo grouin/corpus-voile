@@ -1,0 +1,9 @@
+T1	course 74 89	LaSolitaire_50e
+T2	personne 0 10	Le Cléac'h
+T3	personne 12 22	Lagravière
+T4	personne 26 34	Richomme
+T5	etape 55 69	deuxième étape
+T6	rang 35 48	aux commandes
+R1	classement Arg1:T2 Arg2:T6	
+R2	classement Arg1:T3 Arg2:T6	
+R3	classement Arg1:T4 Arg2:T6	

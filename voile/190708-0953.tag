@@ -1,0 +1,1 @@
+Une #vidéo tournée au <organisation>Columbia Yacht Club</organisation> de <lieu>Boston</lieu> montre un voilier de <taille>40 pieds</taille> au moment précis où il est <incident>foudroyé</incident>, dans le port ! Des images spectaculaires et rarissimes. #météo #<meteo>orage</meteo> http://bit.ly/2xL2gCN 

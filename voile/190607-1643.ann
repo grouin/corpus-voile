@@ -1,0 +1,8 @@
+T1	lieu 45 54	Marseille
+T2	personne 82 96	nicolasparlier
+T3	pratique 28 32	kite
+T4	pratique 98 106	kitesurf
+T5	pratique 108 120	kiteboarding
+T6	course 0 23	Coupe du monde de voile
+T7	pratique 137 146	kiteboard
+R1	localisation Arg1:T2 Arg2:T1	

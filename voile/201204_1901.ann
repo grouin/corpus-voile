@@ -1,0 +1,7 @@
+T1	course 7 19	Vendée Globe
+T2	personne 23 32	JeanLecam
+T3	personne 45 59	KevinEscoffier
+T4	bateau 70 80	Yes We Cam
+T5	course 82 88	VG2020
+T6	course 90 105	VendeeGlobe2020
+R1	skipper Arg1:T2 Arg2:T4	

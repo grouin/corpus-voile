@@ -1,0 +1,5 @@
+T1	lieu 76 83	Fastnet
+T3	course 0 22	La Solitaire du Figaro
+T4	lieu 41 47	Scilly
+T7	personne 57 71	Xavier Macaire
+R1	localisation Arg1:T7 Arg2:T4	

@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	equipage 24 39	CORUM L’Épargne
+T3	personne 43 59	Nicolas Troussel
+T4	incident 62 68	démâté
+R1	skipper Arg1:T3 Arg2:T2	
+T5	course 70 76	VG2020
+T6	course 78 89	VendeeGlobe

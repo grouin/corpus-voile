@@ -1,0 +1,3 @@
+T1	lieu 27 42	passage du Gois
+T2	incident 64 75	meurt noyée
+R1	localisation Arg1:T2 Arg2:T1	

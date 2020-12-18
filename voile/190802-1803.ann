@@ -1,0 +1,22 @@
+T1	categorie 230 240	ClasseMini
+T2	lieu 82 89	Espagne
+T4	etape 107 121	première étape
+T5	equipage 192 214	L’Occitane en Provence
+T6	personne 174 190	Matthieu Vincent
+T7	personne 0 13	Erwan Le Mené
+T8	rang 45 52	premier
+T9	categorie 57 62	Proto
+T10	date 63 71	vendredi
+T11	lieu 74 80	Laredo
+T12	course 129 142	Transgascogne
+T3	voilier 242 249	mini650
+T13	rang 220 228	s'impose
+T14	equipage 15 32	Rousseau clôtures
+T15	date 143 147	2019
+T16	categorie 161 166	Série
+R1	classement Arg1:T7 Arg2:T8	
+R2	localisation Arg1:T8 Arg2:T11	
+R3	localisation Arg1:T7 Arg2:T11	
+R4	classement Arg1:T6 Arg2:T13	
+R5	skipper Arg1:T6 Arg2:T5	
+R6	skipper Arg1:T7 Arg2:T14	

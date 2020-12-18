@@ -1,0 +1,4 @@
+T1	lieu 71 81	Angleterre
+T2	personne 21 37	Armel Le Cléac’h
+T5	course 0 19	Solitaire du Figaro
+R1	localisation Arg1:T2 Arg2:T1	

@@ -1,0 +1,9 @@
+T1	organisation 93 111	Voiles et Voiliers
+T2	categorie 23 32	monocoque
+T3	equipage 33 45	Arkea-Paprec
+T4	date 70 75	jeudi
+T5	lieu 78 91	Port-la-Forêt
+T6	personne 168 183	SebastienSimon_
+T7	fonction 158 165	skipper
+R1	localisation Arg1:T3 Arg2:T5	
+R2	skipper Arg1:T6 Arg2:T3	
