@@ -1,0 +1,5 @@
+T1	course 0 12	Vendée Globe
+T2	personne 14 27	Charlie Dalin
+T3	personne 42 54	Louis Burton
+T4	lieu 78 94	Macquarie Island
+R1	localisation Arg1:T3 Arg2:T4	
