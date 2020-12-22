@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	personne 14 22	Bestaven
+T3	rang 32 39	en tête
+T4	lieu 48 57	Pacifique
+R1	classement Arg1:T2 Arg2:T3	
+R2	localisation Arg1:T3 Arg2:T4	
+R3	localisation Arg1:T2 Arg2:T4	
