@@ -1,0 +1,6 @@
+T1	course 42 45	Cup
+T2	lieu 48 56	Auckland
+T3	personne 59 72	Steven Robert
+T4	equipage 96 110	American Magic
+R1	skipper Arg1:T3 Arg2:T4	
+R2	localisation Arg1:T3 Arg2:T2	

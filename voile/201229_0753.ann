@@ -1,0 +1,5 @@
+T1	lieu 16 24	cap Horn
+T2	date 47 52	mardi
+T3	personne 86 102	Yannick Bestaven
+T4	rang 65 84	patron de la course
+R1	classement Arg1:T3 Arg2:T4	

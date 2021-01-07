@@ -1,0 +1,4 @@
+T1	course 7 20	America’s Cup
+T2	personne 51 68	Laurent Chatillon
+T3	equipage 86 100	American Magic
+R1	skipper Arg1:T2 Arg2:T3	

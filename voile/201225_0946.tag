@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. <personne>Dalin</personne> <rang>passe devant</rang> <personne>Bestaven</personne> au classement provisoire : les sortilèges de l’<meteo>anticyclone</meteo> #<course>VendeeGlobe</course>
