@@ -1,4 +1,6 @@
 T1	personne 24 40	Armel Le Cléac’h
 T3	course 0 22	La Solitaire du Figaro
-T7	rang 58 66	victoire
+T7	rang 58 74	victoire d’étape
 R1	classement Arg1:T1 Arg2:T7	
+T2	emotion 24 76	Armel Le Cléac’h s’envole vers la victoire d’étape !
+A1	emotion T2 Positif

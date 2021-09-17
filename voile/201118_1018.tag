@@ -1,1 +1,1 @@
-<course>Vendée Globe</course> : Les premiers en approche de l’<lieu>équateur</lieu>. <personne>Thomson</personne>, <personne>Ruyant</personne>, <personne>Le Cam</personne> dans le <rang>trio de tête</rang> #<course>VG2020</course> #<course>VendeeGlobe</course>
+<course>Vendée Globe</course> : Les premiers en approche de l’<lieu>équateur</lieu>. <personne><emotion>Thomson</personne>, <personne>Ruyant</personne>, <personne>Le Cam</personne> dans le <rang>trio de tête</rang></emotion> #<course>VG2020</course> #<course>VendeeGlobe</course>

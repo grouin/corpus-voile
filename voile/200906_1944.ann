@@ -3,3 +3,5 @@ T3	course 58 77	Grand Prix de Brest
 T4	voilier 0 7	Multi50
 T5	rang 44 54	vainqueurs
 R1	classement Arg1:T1 Arg2:T5	
+T2	emotion 9 77	Arthur Le Vaillant et son équipage vainqueurs du Grand Prix de Brest
+A1	emotion T2 Positif

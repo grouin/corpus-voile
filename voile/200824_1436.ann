@@ -1,2 +1,5 @@
 T1	vitesse 9 17	21 nœuds
 T2	bateau 28 40	Sea Eagle II
+T3	categorie 56 63	voilier
+T4	emotion 7 85	À 21 nœuds à bord du Sea Eagle II, le plus grand voilier en aluminium au monde
+A1	emotion T4 Positif

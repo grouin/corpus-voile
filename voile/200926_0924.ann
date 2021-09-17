@@ -1,2 +1,4 @@
 T1	voilier 12 17	Imoca
 T2	personne 42 48	Wagner
+T3	emotion 7 99	Cinq Imoca jouant les Walkyries de Wagner, cela donne des chevauchées forcément fantastiques
+A1	emotion T3 Positif

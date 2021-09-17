@@ -1,2 +1,4 @@
 T1	course 24 36	Vendée Globe
 T2	personne 40 52	Alex Thomson
+T3	emotion 0 78	Coup de tonnerre sur le Vendée Globe :  Alex Thomson abandonne officiellement.
+A1	emotion T3 Negatif

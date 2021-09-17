@@ -1,1 +1,3 @@
 T1	organisation 10 18	Bénéteau
+T2	emotion 10 44	Bénéteau vend son usine américaine
+A1	emotion T2 Neutre

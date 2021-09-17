@@ -2,5 +2,7 @@ T1	taille 19 28	48 mètres
 T2	bateau 29 36	Lady MM
 T3	lieu 89 98	Sardaigne
 T4	categorie 10 15	yacht
-T5	incident 65 73	incendie
+T5	incident 37 73	complètement détruit par un incendie
 R1	localisation Arg1:T5 Arg2:T3	
+T6	emotion 7 73	Le yacht de 48 mètres Lady MM complètement détruit par un incendie
+A1	emotion T6 Negatif

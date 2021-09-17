@@ -1,1 +1,1 @@
-<course>Vendée Globe</course> : le départ est maintenu le <date>8 novembre</date> mais à huis clos, sans aucun public
+<course>Vendée Globe</course> : <emotion>le départ est maintenu le <date>8 novembre</date></emotion> mais <emotion>à huis clos, sans aucun public</emotion>

@@ -5,3 +5,5 @@ T4	incident 66 88	collision avec un OFNI
 T5	course 90 105	VendeeGlobe2020
 T6	course 107 113	VG2020
 R1	skipper Arg1:T2 Arg2:T3	
+T7	emotion 14 88	@SebastienSimon_  (Arkéa Paprec) abandonne après sa collision avec un OFNI
+A1	emotion T7 Negatif

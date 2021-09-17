@@ -6,3 +6,5 @@ T5	personne 77 92	YannickBestaven
 T6	course 122 128	VG2020
 T7	vitesse 110 118	20 nœuds
 R1	localisation Arg1:T5 Arg2:T4	
+T8	emotion 14 53	Voie d’eau maîtrisée pour @ThomasRuyant
+A1	emotion T8 Positif

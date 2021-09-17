@@ -1,1 +1,1 @@
-<course>Vendée Globe</course> : <personne>Sébastien Destremau</personne> pourrait être interdit de départ, il explique pourquoi
+<course>Vendée Globe</course> : <emotion><personne>Sébastien Destremau</personne> pourrait être interdit de départ</emotion>, il explique pourquoi

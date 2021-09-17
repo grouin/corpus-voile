@@ -1,1 +1,1 @@
-Toutes les manœuvres de votre voilier. Découvrez et achetez ce livre : http://tinyurl.com/y59xlme9 Toutes les manœuvres de votre bateau en 300 illustrations et textes de <personne>Francois Chevalier</personne>. Nouvelle Edition remise à jour !
+Toutes les <pratique>manœuvres</pratique> de votre voilier. Découvrez et achetez ce livre : http://tinyurl.com/y59xlme9 Toutes les <pratique>manœuvres</pratique> de votre bateau en 300 illustrations et textes de <personne>Francois Chevalier</personne>. Nouvelle Edition remise à jour !

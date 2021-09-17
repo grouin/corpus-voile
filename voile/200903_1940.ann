@@ -2,3 +2,5 @@ T1	personne 15 27	Armel Tripon
 T2	equipage 31 53	L’Occitane en Provence
 T4	course 0 12	Vendée Globe
 R1	skipper Arg1:T1 Arg2:T2	
+T3	emotion 15 65	Armel Tripon et L’Occitane en Provence qualifiés !
+A1	emotion T3 Positif

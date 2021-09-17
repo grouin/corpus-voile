@@ -7,3 +7,5 @@ T6	rang 32 42	remportent
 R1	classement Arg1:T1 Arg2:T6	
 R2	classement Arg1:T4 Arg2:T6	
 R3	localisation Arg1:T6 Arg2:T5	
+T7	emotion 0 85	Benjamin Schwartz et Marie Riou remportent le Championnat d’Europe de L30 à Marseille
+A1	emotion T7 Positif

@@ -6,3 +6,5 @@ R1	localisation Arg1:T3 Arg2:T2
 R2	localisation Arg1:T3 Arg2:T1	
 R3	localisation Arg1:T4 Arg2:T1	
 R4	localisation Arg1:T4 Arg2:T2	
+T5	emotion 8 77	Six voiliers s’échouent aux Glénan et à Concarneau à cause de l’orage
+A1	emotion T5 Negatif

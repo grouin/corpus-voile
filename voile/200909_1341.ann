@@ -1,1 +1,3 @@
 T1	organisation 0 8	Bénéteau
+T2	emotion 0 94	Bénéteau réduit ses capacités de production et annonce des centaines de suppressions de postes
+A1	emotion T2 Negatif

@@ -1,3 +1,5 @@
 T1	course 0 19	Trophée Jules Verne
 T2	equipage 54 60	Sodebo
 T3	vitesse 71 79	34 nœuds
+T4	emotion 21 92	Plus de 400 milles d’avance pour Sodebo, flashé à 34 nœuds de moyenne !
+A1	emotion T4 Positif

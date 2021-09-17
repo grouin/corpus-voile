@@ -3,3 +3,7 @@ T2	voilier 61 68	Multi50
 T3	categorie 52 60	trimaran
 T4	incident 75 84	se blesse
 T5	fonction 9 21	ex-Président
+T6	emotion 75 98	se blesse en débarquant
+A1	emotion T6 Negatif
+T7	emotion 22 68	François Hollande embarque en trimaran Multi50
+A2	emotion T7 Positif

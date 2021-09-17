@@ -1,3 +1,8 @@
 T1	course 0 12	Vendée Globe
 T2	personne 14 30	Kojiro Shiraishi
 T3	technique 44 55	grand-voile
+T4	incident 33 40	déchiré
+T5	emotion 14 55	Kojiro Shiraishi a déchiré sa grand-voile
+A1	emotion T5 Negatif
+T6	emotion 62 80	il reste en course
+A2	emotion T6 Positif

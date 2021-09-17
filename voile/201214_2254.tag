@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. Avarie de <technique>foil</technique> pour le <rang>leader</rang> @<personne>CharlieDalin</personne> #<course>VG2020</course> #<course>VendeeGlobe2020</course>
+<course>Vendée Globe</course>. <emotion><incident>Avarie</incident> de <technique>foil</technique> pour le <rang>leader</rang> @<personne>CharlieDalin</personne></emotion> #<course>VG2020</course> #<course>VendeeGlobe2020</course>

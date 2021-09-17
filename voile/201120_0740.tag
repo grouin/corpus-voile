@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. Pointes à <vitesse>26 nœuds</vitesse> pour <personne>Sébastien Simon</personne>, <personne>Thomson</personne> toujours <rang>leader</rang>, <personne>Troussel</personne> au <lieu>Cap-Vert</lieu> #<course>VG2020</course>
+<course>Vendée Globe</course>. <emotion>Pointes à <vitesse>26 nœuds</vitesse> pour <personne>Sébastien Simon</personne></emotion>, <personne><emotion>Thomson</personne> toujours <rang>leader</emotion></rang>, <emotion><personne>Troussel</personne> au <lieu>Cap-Vert</lieu></emotion> #<course>VG2020</course>

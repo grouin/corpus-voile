@@ -1,3 +1,5 @@
 T3	course 0 19	Solitaire du Figaro
 T4	personne 21 35	Xavier Macaire
 T5	course 65 74	Solitaire
+T1	emotion 40 95	J’ai l’impression que la Solitaire ne veut pas de moi !
+A1	emotion T1 Negatif

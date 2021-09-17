@@ -5,3 +5,5 @@ R1	localisation Arg1:T3 Arg2:T2
 T4	fonction 9 15	marins
 R2	skipper Arg1:T4 Arg2:T1	
 R3	localisation Arg1:T1 Arg2:T2	
+T5	emotion 0 55	Les deux marins de l’Azawakh V récupérés sains et saufs
+A1	emotion T5 Positif

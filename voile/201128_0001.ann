@@ -3,3 +3,6 @@ T2	technique 24 30	safran
 T3	personne 36 48	Alex Thomson
 T4	equipage 53 62	Hugo Boss
 R1	skipper Arg1:T3 Arg2:T4	
+T5	incident 14 20	Avarie
+T6	emotion 14 62	Avarie de safran pour Alex Thomson sur Hugo Boss
+A1	emotion T6 Negatif

@@ -1,2 +1,6 @@
 T1	personne 0 15	Aurélien Ducroz
 T2	course 73 86	Route du Rhum
+T3	distinction 21 44	champion de ski extrême
+R1	attribut Arg1:T1 Arg2:T3	
+T4	emotion 0 88	Aurélien Ducroz : le champion de ski extrême construit un bateau pour la Route du Rhum !
+A1	emotion T4 Positif

@@ -4,3 +4,5 @@ T3	incident 30 44	heurté un OFNI
 T4	technique 49 55	safran
 T5	equipage 59 65	Charal
 R1	skipper Arg1:T2 Arg2:T5	
+T6	emotion 14 79	Jérémie Beyou a heurté un OFNI, un safran de Charal est endommagé
+A1	emotion T6 Negatif

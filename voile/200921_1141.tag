@@ -1,1 +1,1 @@
-Chantier. <organisation>Bénéteau</organisation> vend son usine américaine
+Chantier. <organisation><emotion>Bénéteau</emotion> vend son usine américaine</organisation>

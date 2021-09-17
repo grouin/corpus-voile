@@ -2,3 +2,5 @@ T1	bateau 66 81	Abeille Liberté
 T2	organisation 88 92	SNSM
 T3	categorie 55 65	remorqueur
 T4	incident 22 40	bateau à la dérive
+T5	emotion 0 92	Quatre occupants d’un bateau à la dérive sauvés par le remorqueur Abeille Liberté et la SNSM
+A1	emotion T5 Positif

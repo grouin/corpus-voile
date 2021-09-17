@@ -1,2 +1,4 @@
 T1	meteo 24 37	tempête Bella
 T2	fonction 70 87	sauveteurs en mer
+T3	emotion 0 88	Ils voulaient défier la tempête Bella... et font risquer leur vie aux sauveteurs en mer.
+A1	emotion T3 Negatif

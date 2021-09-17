@@ -1,3 +1,6 @@
 T1	personne 7 20	Marie Tabarly
 T3	voilier 25 37	Pen Duick VI
 R1	skipper Arg1:T1 Arg2:T3	
+T2	emotion 42 83	Un bateau, c’est un microcosme d’humanité
+A1	emotion T2 Uncertain
+#1	AnnotatorNotes T2	Il y a du positif et du négatif dans cette remarque

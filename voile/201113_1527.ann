@@ -1,3 +1,6 @@
 T1	course 0 12	Vendée Globe
 T2	personne 14 26	Alex Thomson
 T3	meteo 54 61	tempête
+T4	emotion 14 63	Alex Thomson fonce vers le centre de la tempête !
+A1	emotion T4 Uncertain
+#1	AnnotatorNotes T4	casse-cou (positif) mais vers le danger (négatif)

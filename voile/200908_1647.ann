@@ -3,3 +3,5 @@ T3	course 0 22	La Solitaire du Figaro
 T7	etape 66 80	deuxième étape
 T8	rang 41 49	remporte
 R1	classement Arg1:T1 Arg2:T8	
+T2	emotion 24 80	Armel Le Cléac’h remporte haut la main la deuxième étape
+A1	emotion T2 Positif

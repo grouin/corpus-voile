@@ -1,1 +1,1 @@
-<course>La Solitaire du Figaro</course>. Les favoris en stand-by au <lieu>passage de Dieppe</lieu>
+<course>La Solitaire du Figaro</course>. Les <distinction>favoris</distinction> en stand-by au <lieu>passage de Dieppe</lieu>

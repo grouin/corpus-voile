@@ -5,3 +5,6 @@ T4	personne 45 57	CharlieDalin
 T5	course 59 65	VG2020
 T6	course 67 82	VendeeGlobe2020
 R1	classement Arg1:T4 Arg2:T3	
+T7	incident 14 20	Avarie
+T8	emotion 14 57	Avarie de foil pour le leader @CharlieDalin
+A1	emotion T8 Negatif

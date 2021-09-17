@@ -1,2 +1,4 @@
 T1	personne 18 34	Nicolas Troussel
 T2	fonction 0 8	Skippers
+T3	emotion 39 96	En mer, je tolère le gluten. Pas à terre ! Bizarre, non ?
+A1	emotion T3 Uncertain

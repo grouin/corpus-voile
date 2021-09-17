@@ -9,3 +9,5 @@ T8	course 98 104	VG2020
 T9	equipage 106 117	ApiviaVoile
 R1	classement Arg1:T6 Arg2:T5	
 R2	skipper Arg1:T6 Arg2:T9	
+T10	emotion 46 96	le leader Charlie Dalin dans le gros de la tempête
+A1	emotion T10 Negatif

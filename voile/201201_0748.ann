@@ -3,3 +3,5 @@ T2	personne 21 36	Kevin Escoffier
 T3	incident 49 57	naufrage
 T4	course 98 104	VG2020
 T5	technique 64 70	étrave
+T6	emotion 62 94	L’étrave du bateau s’est repliée
+A1	emotion T6 Negatif

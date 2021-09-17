@@ -1,3 +1,5 @@
 T1	date 31 35	2020
 T2	lieu 24 30	Cannes
 T3	evenement 3 20	Yachting Festival
+T4	emotion 0 46	Le Yachting Festival de Cannes 2020 est annulé
+A1	emotion T4 Negatif

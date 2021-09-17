@@ -1,3 +1,7 @@
 T1	incident 31 42	en détresse
 T2	lieu 69 79	Fort-Mahon
 R1	localisation Arg1:T1 Arg2:T2	
+T3	fonction 5 17	plaisanciers
+T4	technique 43 56	hélitreuillés
+T5	emotion 0 42	Deux plaisanciers d’un voilier en détresse
+A1	emotion T5 Negatif

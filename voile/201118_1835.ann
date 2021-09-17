@@ -2,3 +2,5 @@ T1	course 7 19	Vendée Globe
 T2	personne 21 33	Louis Burton
 T3	lieu 42 53	pot au noir
 R1	localisation Arg1:T2 Arg2:T3	
+T4	emotion 58 75	C’est la guerre !
+A1	emotion T4 Negatif

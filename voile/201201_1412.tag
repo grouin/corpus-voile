@@ -1,1 +1,1 @@
-Et pendant que <personne>Kevin Escoffier</personne> était en train d'être secouru, @<personne>CharlieDalin</personne> franchissait le <lieu>cap de Bonne-Espérance</lieu>, accueilli dans l'<lieu>océan Indien</lieu> avec <vitesse>40 nœuds</vitesse> #<course>VG2020</course>
+Et pendant que <personne>Kevin Escoffier</personne> était en train d'être secouru, <emotion>@<personne>CharlieDalin</personne> franchissait le <lieu>cap de Bonne-Espérance</lieu></emotion>, accueilli dans l'<lieu>océan Indien</lieu> avec <vitesse>40 nœuds</vitesse> #<course>VG2020</course>

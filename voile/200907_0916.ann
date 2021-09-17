@@ -5,3 +5,5 @@ T8	lieu 57 74	phare d’Eddystone
 R1	classement Arg1:T1 Arg2:T7	
 R2	localisation Arg1:T7 Arg2:T8	
 R3	localisation Arg1:T1 Arg2:T8	
+T2	emotion 24 74	Armel Le Cléac’h vire en tête le phare d’Eddystone
+A1	emotion T2 Positif

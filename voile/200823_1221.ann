@@ -1,2 +1,4 @@
 T1	voilier 67 75	Multi 50
 T3	lieu 91 111	baie de Saint-Brieuc
+T2	emotion 63 113	les Multi 50 se régalent en baie de Saint-Brieuc !
+A1	emotion T2 Positif

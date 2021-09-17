@@ -3,3 +3,5 @@ T2	course 109 121	Vendée Globe
 T3	rang 98 105	en tête
 T4	technique 75 78	mât
 R1	classement Arg1:T1 Arg2:T3	
+T5	emotion 0 122	Il est fort ! Deux fois de suite, Thomas Ruyant vient de monter en tête de mât... tout en restant en tête du Vendée Globe.
+A1	emotion T5 Positif

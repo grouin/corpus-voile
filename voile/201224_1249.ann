@@ -2,3 +2,5 @@ T1	course 7 19	Vendée Globe
 T2	personne 21 28	Dutreux
 T3	personne 30 36	Le Cam
 T4	personne 40 48	Herrmann
+T5	emotion 66 88	tout près des baleines
+A1	emotion T5 Positif

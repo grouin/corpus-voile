@@ -1,2 +1,4 @@
 T1	personne 0 10	Alan Roura
 T2	technique 36 52	vérins de quille
+T3	emotion 0 52	Alan Roura de nouveau trahi par ses vérins de quille
+A1	emotion T3 Negatif

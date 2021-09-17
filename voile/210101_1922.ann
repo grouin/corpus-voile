@@ -3,3 +3,5 @@ T2	date 42 48	samedi
 T3	lieu 68 76	cap Horn
 T4	personne 80 96	Yannick Bestaven
 T5	personne 100 113	Charlie Dalin
+T6	emotion 0 114	Grosse cartouche annoncée sur zone demain samedi pour le passage du cap Horn de Yannick Bestaven et Charlie Dalin.
+A1	emotion T6 Negatif

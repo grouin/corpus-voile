@@ -1,1 +1,1 @@
-VIDÉO. DOCUMENT EXCEPTIONNEL : Embarqué 32 jours en course à bord d’un <categorie>trimaran</categorie> géant !
+VIDÉO. DOCUMENT EXCEPTIONNEL : Embarqué <duree>32 jours</duree> en course à bord d’un <categorie>trimaran géant</categorie> !

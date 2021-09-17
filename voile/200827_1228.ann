@@ -5,3 +5,5 @@ T6	voilier 89 95	séries
 T3	rang 62 70	s’impose
 R1	classement Arg1:T2 Arg2:T3	
 R2	localisation Arg1:T3 Arg2:T5	
+T4	emotion 49 97	Léo Debiesse s’impose au final chez les séries !
+A1	emotion T4 Positif

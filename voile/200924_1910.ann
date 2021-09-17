@@ -6,3 +6,5 @@ T5	incident 40 54	heurte un OFNI
 R1	localisation Arg1:T5 Arg2:T4	
 R2	skipper Arg1:T3 Arg2:T2	
 R3	localisation Arg1:T3 Arg2:T4	
+T6	emotion 14 54	Le PRB de Kevin Escoffier heurte un OFNI
+A1	emotion T6 Negatif

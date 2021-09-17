@@ -1,3 +1,5 @@
 T1	course 0 13	Sydney Hobart
 T2	date 89 93	1945
 T3	incident 18 26	Covid-19
+T4	emotion 15 95	Le Covid-19 entraîne l’annulation de cette classique, une première depuis 1945 !
+A1	emotion T4 Negatif

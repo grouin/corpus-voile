@@ -6,3 +6,6 @@ R2	skipper Arg1:T1 Arg2:T3
 T4	fonction 23 33	remplaçant
 T5	organisation 97 100	PSG
 T6	fonction 65 71	joueur
+T7	emotion 56 100	comme un joueur sur le banc de touche du PSG
+A1	emotion T7 Uncertain
+#1	AnnotatorNotes T7	déception (négatif) ou espérance (positif)

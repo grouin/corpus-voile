@@ -3,3 +3,5 @@ T2	bateau 91 96	Tanio
 T3	date 73 86	il y a 40 ans
 T4	categorie 57 66	pétrolier
 T5	incident 67 72	coulé
+T6	emotion 18 86	Comment la Marine française colmate un pétrolier coulé il y a 40 ans
+A1	emotion T6 Uncertain

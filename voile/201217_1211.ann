@@ -3,3 +3,9 @@ T2	course 86 97	VendeeGlobe
 T3	course 99 105	VG2020
 T4	personne 43 55	ThomasRuyant
 T5	incident 14 24	Voie d’eau
+T6	technique 68 74	trappe
+T7	emotion 14 55	Voie d’eau sur le bateau de @ThomasRuyant
+A1	emotion T7 Negatif
+T8	emotion 58 84	juste une trappe ouverte !
+A2	emotion T8 Positif
+#1	AnnotatorNotes T8	embêtant mais pas de réparation à prévoir

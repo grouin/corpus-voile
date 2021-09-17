@@ -1,2 +1,5 @@
 T1	personne 21 32	Didac Costa
 T2	course 7 19	Vendée Globe
+T3	duree 58 82	pendant les 2 000 milles
+T4	emotion 21 99	Didac Costa escorté par les dauphins pendant les 2 000 milles de sa « qualif »
+A1	emotion T4 Positif

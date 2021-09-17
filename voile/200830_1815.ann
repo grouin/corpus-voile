@@ -2,3 +2,5 @@ T1	lieu 23 29	Cannes
 T2	evenement 4 19	Régates Royales
 T3	lieu 72 84	la Croisette
 T4	date 50 59	septembre
+T5	emotion 0 85	Les Régates Royales de Cannes auront bien lieu en septembre au large de la Croisette.
+A1	emotion T5 Positif

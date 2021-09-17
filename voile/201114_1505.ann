@@ -2,3 +2,5 @@ T1	course 0 12	Vendée Globe
 T2	personne 14 27	Jérémie Beyou
 T3	lieu 40 55	Sables-d'Olonne
 R1	localisation Arg1:T2 Arg2:T3	
+T4	emotion 60 91	Si on peut réparer, on repart !
+A1	emotion T4 Positif

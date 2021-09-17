@@ -1,2 +1,5 @@
 T1	lieu 32 50	Golden Gate Bridge
 T2	lieu 54 67	San Francisco
+T3	categorie 7 15	Kitesurf
+T4	emotion 7 67	Kitesurf extrême sous le Golden Gate Bridge de San Francisco
+A1	emotion T4 Positif

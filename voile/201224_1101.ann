@@ -2,3 +2,5 @@ T1	course 7 20	America’s Cup
 T2	personne 51 68	Laurent Chatillon
 T3	equipage 86 100	American Magic
 R1	skipper Arg1:T2 Arg2:T3	
+T4	emotion 51 100	Laurent Chatillon, maître du vol d’American Magic
+A1	emotion T4 Positif

@@ -1,1 +1,4 @@
 T1	personne 10 22	Sarah Hauser
+T2	categorie 0 8	Windsurf
+T3	emotion 10 94	Sarah Hauser surfe une vague de plus de 10 mètres et entre dans le livre des records
+A1	emotion T3 Positif

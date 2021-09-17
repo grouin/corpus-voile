@@ -1,1 +1,1 @@
-<course>Mini en Mai</course>. <rang>Victoire</rang> pour <personne>Ambrogio Beccaria</personne> en <categorie>prototype</categorie> et <personne>Léo Debiesse</personne> en <categorie>Série</categorie>.
+<course>Mini en Mai</course>. <rang><emotion>Victoire</rang> pour <personne>Ambrogio Beccaria</personne> en <categorie>prototype</categorie> et <personne>Léo Debiesse</personne> en <categorie>Série</categorie></emotion>.

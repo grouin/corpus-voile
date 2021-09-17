@@ -5,3 +5,5 @@ T4	incident 62 68	démâté
 R1	skipper Arg1:T3 Arg2:T2	
 T5	course 70 76	VG2020
 T6	course 78 89	VendeeGlobe
+T7	emotion 14 68	Le bateau CORUM L’Épargne de Nicolas Troussel a démâté
+A1	emotion T7 Negatif

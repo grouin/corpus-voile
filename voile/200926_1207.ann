@@ -1,3 +1,4 @@
 T1	lieu 15 22	Ajaccio
 T2	incident 0 5	Drame
 R1	localisation Arg1:T2 Arg2:T1	
+T3	pratique 60 69	sauvetage

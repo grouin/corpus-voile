@@ -5,3 +5,5 @@ T4	lieu 48 57	Pacifique
 R1	classement Arg1:T2 Arg2:T3	
 R2	localisation Arg1:T3 Arg2:T4	
 R3	localisation Arg1:T2 Arg2:T4	
+T5	emotion 14 57	Bestaven toujours en tête dans le Pacifique
+A1	emotion T5 Positif

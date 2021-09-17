@@ -1,2 +1,5 @@
 T1	personne 0 13	Jérémie Beyou
 T2	meteo 52 56	vent
+T3	vitesse 40 48	40 nœuds
+T4	emotion 60 84	C'est chaud quand même !
+A1	emotion T4 Neutre

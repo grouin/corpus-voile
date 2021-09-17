@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. Des <meteo>rafales</meteo> à <vitesse>55 nœuds</vitesse> <date>ce soir</date>, le <rang>leader</rang> <personne>Charlie Dalin</personne> dans le gros de la <meteo>tempête</meteo> #<course>VG2020</course> @<equipage>ApiviaVoile</equipage>
+<course>Vendée Globe</course>. Des <meteo>rafales</meteo> à <vitesse>55 nœuds</vitesse> <date>ce soir</date>, <emotion>le <rang>leader</rang> <personne>Charlie Dalin</personne> dans le gros de la <meteo>tempête</meteo></emotion> #<course>VG2020</course> @<equipage>ApiviaVoile</equipage>

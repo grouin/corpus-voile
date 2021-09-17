@@ -3,3 +3,5 @@ T2	voilier 3 10	Class40
 T3	course 44 70	tour des îles Britanniques
 T4	rang 34 40	record
 R1	classement Arg1:T1 Arg2:T4	
+T5	emotion 0 70	Le Class40 Banque du Léman bat le record du tour des îles Britanniques
+A1	emotion T5 Positif

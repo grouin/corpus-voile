@@ -3,3 +3,5 @@ T5	personne 24 38	Xavier Macaire
 T6	etape 61 76	première manche
 T7	rang 45 54	vainqueur
 R1	classement Arg1:T5 Arg2:T7	
+T1	emotion 24 78	Xavier Macaire grand vainqueur de la première manche !
+A1	emotion T1 Positif

@@ -1,3 +1,6 @@
 T1	personne 49 64	Kevin Escoffier
 T2	equipage 42 45	PRB
 R1	skipper Arg1:T1 Arg2:T2	
+T3	duree 7 18	30 secondes
+T4	emotion 7 64	30 secondes très humides à bord du PRB de Kevin Escoffier
+A1	emotion T4 Uncertain

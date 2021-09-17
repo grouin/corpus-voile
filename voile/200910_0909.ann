@@ -2,3 +2,5 @@ T1	date 87 91	1997
 T2	personne 72 83	Gerry Roufs
 T3	course 17 29	Vendée Globe
 T4	incident 57 68	disparition
+T5	emotion 43 91	la dramatique disparition de Gerry Roufs en 1997
+A1	emotion T5 Negatif

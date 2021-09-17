@@ -1,3 +1,5 @@
 T1	organisation 14 20	Lagoon
 T2	voilier 21 28	Sixty 5
 T3	categorie 42 53	deux coques
+T4	emotion 30 53	le luxe sur deux coques
+A1	emotion T4 Positif

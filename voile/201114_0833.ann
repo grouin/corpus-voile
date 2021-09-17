@@ -3,3 +3,7 @@ T2	personne 14 26	Alex Thomson
 T3	meteo 40 47	rafales
 T4	vitesse 50 58	60 nœuds
 T5	personne 60 71	Jean Le Cam
+T6	emotion 14 58	Alex Thomson encaisse des rafales à 60 nœuds
+A1	emotion T6 Uncertain
+T7	emotion 60 88	Jean Le Cam est incroyable !
+A2	emotion T7 Positif

@@ -2,3 +2,6 @@ T1	personne 0 13	Charlie Dalin
 T2	lieu 28 43	Bonne-Espérance
 T3	personne 45 57	Alex Thomson
 R1	localisation Arg1:T1 Arg2:T2	
+T4	incident 93 99	avarie
+T5	emotion 45 99	Alex Thomson se fait doubler après une nouvelle avarie
+A1	emotion T5 Negatif

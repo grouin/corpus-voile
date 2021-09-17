@@ -8,3 +8,5 @@ T7	course 0 11	Trophée MAP
 R1	classement Arg1:T3 Arg2:T1	
 R2	classement Arg1:T4 Arg2:T1	
 R3	localisation Arg1:T1 Arg2:T2	
+T8	emotion 14 87	Victoire à Douarnenez de Fabio Muzzolini en proto et Hugo Picard en série
+A1	emotion T8 Positif

@@ -4,3 +4,9 @@ T3	incident 24 40	bloquent le port
 R1	localisation Arg1:T3 Arg2:T2	
 T4	fonction 4 12	pêcheurs
 T5	course 128 133	SpiOF
+T6	emotion 65 113	Nous ne pourrons pas toujours manger des graines
+A1	emotion T6 Negatif
+T7	emotion 117 143	Départ du @SpiOF retardé ?
+A2	emotion T7 Negatif
+T8	emotion 0 62	Les pêcheurs de Lorient bloquent le port de la Trinité-sur-Mer
+A3	emotion T8 Negatif

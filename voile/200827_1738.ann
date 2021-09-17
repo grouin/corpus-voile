@@ -1,2 +1,4 @@
 T1	lieu 40 49	Amsterdam
 T2	evenement 28 37	METSTRADE
+T3	emotion 0 66	Le salon de l’équipement du METSTRADE d’Amsterdam annulé lui aussi
+A1	emotion T3 Negatif

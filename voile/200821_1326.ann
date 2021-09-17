@@ -2,3 +2,5 @@ T1	equipage 75 90	Corum-L’Épargne
 T2	personne 14 28	Nicolas Lunven
 T3	course 0 12	Vendée Globe
 R1	skipper Arg1:T2 Arg2:T1	
+T4	emotion 33 90	Nous sommes à fond dans l’optimisation de Corum-L’Épargne
+A1	emotion T4 Positif

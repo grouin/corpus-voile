@@ -1,3 +1,5 @@
 T1	personne 0 16	Yannick Bestaven
 T2	rang 37 44	en tête
 R1	classement Arg1:T1 Arg2:T2	
+T3	emotion 0 44	Yannick Bestaven conforte son avance en tête
+A1	emotion T3 Positif

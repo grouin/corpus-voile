@@ -5,3 +5,5 @@ T4	personne 52 58	Cammas
 T5	personne 62 72	Caudrelier
 R1	skipper Arg1:T4 Arg2:T3	
 R2	skipper Arg1:T5 Arg2:T3	
+T6	emotion 21 95	Le trimaran géant Gitana 17 de Cammas et Caudrelier « a encore progressé »
+A1	emotion T6 Positif

@@ -1,2 +1,4 @@
 T2	course 48 51	Spi
 T3	course 0 16	Spi Ouest-France
+T1	emotion 18 51	Super participation en vue au Spi
+A1	emotion T1 Positif

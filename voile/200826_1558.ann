@@ -4,3 +4,5 @@ T5	lieu 32 47	baie de Morlaix
 T2	rang 79 91	carton plein
 R1	classement Arg1:T4 Arg2:T2	
 R2	localisation Arg1:T2 Arg2:T5	
+T3	emotion 50 91	Tanguy Bouroullec réalise un carton plein
+A1	emotion T3 Positif

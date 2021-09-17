@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. <personne>Maxime Sorel</personne> : « À partir du moment où tu navigues, tu apprends ».
+<course>Vendée Globe</course>. <personne>Maxime Sorel</personne> : « <emotion>À partir du moment où tu navigues, tu apprends</emotion> ».

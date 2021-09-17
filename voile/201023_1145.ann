@@ -2,3 +2,5 @@ T1	date 52 56	2020
 T2	lieu 59 67	Quiberon
 T3	categorie 42 51	catamaran
 T4	course 24 38	Open de France
+T5	emotion 7 67	Gros succès de l’Open de France de catamaran 2020 à Quiberon
+A1	emotion T5 Positif

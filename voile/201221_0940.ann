@@ -3,3 +3,5 @@ T2	technique 61 64	mât
 T3	lieu 83 96	île Macquarie
 R1	localisation Arg1:T1 Arg2:T3	
 T4	pratique 65 77	sous le vent
+T5	emotion 7 96	Louis Burton a réussi à réparer, en grimpant dans son mât sous le vent de l’île Macquarie
+A1	emotion T5 Positif

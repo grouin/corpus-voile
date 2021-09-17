@@ -5,3 +5,5 @@ T4	categorie 62 72	multicoque
 T5	voilier 81 98	Multi 70 Maserati
 R1	classement Arg1:T2 Arg2:T1	
 R2	skipper Arg1:T2 Arg2:T5	
+T6	emotion 8 98	Giovanni Soldini remporte la Rolex Middle Sea Race en multicoque sur son Multi 70 Maserati
+A1	emotion T6 Positif

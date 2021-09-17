@@ -6,3 +6,5 @@ T5	personne 75 90	SebastienSimon_
 T6	course 92 98	VG2020
 T7	course 100 115	VendeeGlobe2020
 R1	skipper Arg1:T5 Arg2:T2	
+T8	emotion 14 73	Arkéa Paprec heurte un OFNI, des dégâts sur le foil tribord
+A1	emotion T8 Negatif

@@ -3,3 +3,5 @@ T2	equipage 35 45	Jet France
 T3	lieu 83 89	Tahiti
 T4	categorie 25 34	catamaran
 R1	localisation Arg1:T2 Arg2:T3	
+T5	emotion 0 45	Inquiétude levée pour le catamaran Jet France
+A1	emotion T5 Positif

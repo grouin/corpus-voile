@@ -2,3 +2,6 @@ T1	personne 34 46	Billy Besson
 T2	voilier 7 19	ETF26 Series
 T3	rang 22 30	victoire
 R1	classement Arg1:T1 Arg2:T3	
+T4	categorie 70 85	bateaux volants
+T5	emotion 22 85	victoire de Billy Besson sur les spectaculaires bateaux volants
+A1	emotion T5 Positif

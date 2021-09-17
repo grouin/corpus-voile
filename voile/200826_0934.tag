@@ -1,1 +1,1 @@
-VIDÉO. Le <categorie>yacht</categorie> de <taille>48 mètres</taille> <bateau>Lady MM</bateau> complètement détruit par un <incident>incendie</incident> au large de la <lieu>Sardaigne</lieu>
+VIDÉO. <emotion>Le <categorie>yacht</categorie> de <taille>48 mètres</taille> <bateau>Lady MM</bateau> <incident>complètement détruit par un incendie</incident></emotion> au large de la <lieu>Sardaigne</lieu>

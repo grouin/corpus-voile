@@ -7,3 +7,6 @@ T6	course 99 110	VendeeGlobe
 T7	course 112 118	VG2020
 R1	localisation Arg1:T2 Arg2:T3	
 R2	localisation Arg1:T2 Arg2:T4	
+T8	organisation 72 82	ATRacing99
+T9	emotion 14 70	Alex Thomson arrive au Cap (Afrique du Sud) et abandonne
+A1	emotion T9 Negatif

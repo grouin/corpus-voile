@@ -8,3 +8,10 @@ T7	lieu 92 100	Cap-Vert
 T8	course 102 108	VG2020
 R1	classement Arg1:T4 Arg2:T6	
 R2	localisation Arg1:T5 Arg2:T7	
+T9	emotion 55 78	Thomson toujours leader
+A1	emotion T9 Positif
+T10	emotion 14 53	Pointes à 26 nœuds pour Sébastien Simon
+A2	emotion T10 Uncertain
+#1	AnnotatorNotes T10	vitesse/danger (négatif) ou bénéfice (positif) ?
+T11	emotion 80 100	Troussel au Cap-Vert
+A3	emotion T11 Neutre

@@ -1,2 +1,4 @@
 T1	course 7 19	Vendée Globe
 T2	personne 21 32	Jean Le Cam
+T3	emotion 54 82	Papi fait de la résistance !
+A1	emotion T3 Positif

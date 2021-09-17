@@ -3,3 +3,8 @@ T2	lieu 109 115	Manche
 T3	date 135 140	lundi
 T4	incident 154 197	bombardés de fusées éclairantes, de pierres
 R1	localisation Arg1:T4 Arg2:T2	
+T5	categorie 19 35	navires de pêche
+T6	emotion 17 100	2 navires de pêche britanniques ont été visés par une vingtaine de bateaux français
+A1	emotion T6 Negatif
+T7	emotion 142 197	Ils ont été bombardés de fusées éclairantes, de pierres
+A2	emotion T7 Negatif

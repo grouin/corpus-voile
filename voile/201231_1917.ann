@@ -1,1 +1,3 @@
 T1	personne 22 33	Jean Le Cam
+T2	emotion 0 68	Et ne comptez pas sur Jean Le Cam pour lancer des cotillons ce soir.
+A1	emotion T2 Negatif

@@ -1,1 +1,1 @@
-ENTRETIEN. <personne>Yann Eliès</personne>, <fonction>remplaçant</fonction> sur <equipage>Apivia</equipage> et <equipage>Gitana</equipage> "comme un <fonction>joueur</fonction> sur le banc de touche du <organisation>PSG</organisation>"
+ENTRETIEN. <personne>Yann Eliès</personne>, <fonction>remplaçant</fonction> sur <equipage>Apivia</equipage> et <equipage>Gitana</equipage> "<emotion>comme un <fonction>joueur</fonction> sur le banc de touche du <organisation>PSG</organisation></emotion>"

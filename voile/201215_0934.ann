@@ -6,3 +6,5 @@ T5	course 117 123	VG2020
 T6	course 125 136	VendeeGlobe
 T7	rang 50 63	passe en tête
 R1	classement Arg1:T2 Arg2:T7	
+T8	emotion 36 63	@ThomasRuyant passe en tête
+A1	emotion T8 Positif

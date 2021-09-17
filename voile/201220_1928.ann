@@ -1,2 +1,4 @@
 T1	course 7 26	Trophée Jules Verne
 T2	equipage 31 42	Gitana Team
+T3	emotion 28 65	Le Gitana Team de nouveau en stand-by
+A1	emotion T3 Neutre

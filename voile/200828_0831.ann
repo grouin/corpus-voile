@@ -2,3 +2,5 @@ T1	personne 64 76	Alain Pochon
 T2	evenement 21 33	Grand Pavois
 T3	lieu 37 48	La Rochelle
 T4	fonction 82 91	président
+T5	emotion 7 92	Annulation du Grand Pavois de La Rochelle : les larmes d’Alain Pochon, son président.
+A1	emotion T5 Negatif

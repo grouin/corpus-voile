@@ -1,3 +1,7 @@
 T1	personne 13 28	Hélène Noesmoen
 T2	type 55 72	régates mondiales
 T3	technique 94 98	foil
+T4	categorie 76 91	planche à voile
+T5	emotion 0 98	La Française Hélène Noesmoen survole les deux récentes régates mondiales de planche à voile à foil
+A1	emotion T5 Uncertain
+#1	AnnotatorNotes T5	Simple jeu de mots entre "voler" et foil, ou bien réelle performance ?

@@ -1,2 +1,6 @@
 T1	course 79 90	Défi Azimut
 T2	voilier 13 22	Pen Duick
+T3	distinction 53 61	héroïnes
+T4	duree 66 75	48 heures
+T5	emotion 7 90	Trois Pen Duick viennent accueillir les trois héroïnes des 48 heures du Défi Azimut
+A1	emotion T5 Positif

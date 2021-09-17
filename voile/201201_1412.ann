@@ -6,3 +6,5 @@ T5	course 161 167	VG2020
 T6	vitesse 151 159	40 nœuds
 R1	localisation Arg1:T2 Arg2:T3	
 R2	localisation Arg1:T2 Arg2:T4	
+T7	emotion 62 114	@CharlieDalin franchissait le cap de Bonne-Espérance
+A1	emotion T7 Positif

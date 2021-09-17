@@ -1,1 +1,5 @@
 T1	course 78 91	America’s Cup
+T2	categorie 20 31	kitesurfeur
+T3	categorie 57 72	bateaux volants
+T4	emotion 17 93	Un kitesurfeur fait la course avec deux bateaux volants de l’America’s Cup !
+A1	emotion T4 Positif

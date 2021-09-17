@@ -1,2 +1,5 @@
 T1	date 27 31	2020
 T2	evenement 36 53	régates cannoises
+T3	emotion 0 78	Clap de fin pour l'édition 2020 des régates cannoises, royales et somptueuses.
+A1	emotion T3 Positif
+#1	AnnotatorNotes T3	Globalement positif, même si on peut considérer que la fin de quelque chose est triste ou négatif

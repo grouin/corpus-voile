@@ -5,3 +5,7 @@ T4	rang 84 92	2e place
 R1	classement Arg1:T3 Arg2:T4	
 T5	lieu 59 70	pot au noir
 #1	AnnotatorNotes T5	zone de convergence intertropicale entre hémisphères nord et sud
+T6	emotion 14 70	Alex Thomson prend une belle avance avant le pot au noir
+A1	emotion T6 Positif
+T7	emotion 72 92	Ruyant à la 2e place
+A2	emotion T7 Positif

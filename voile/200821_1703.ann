@@ -1,3 +1,5 @@
 T1	categorie 10 19	gréements
 T2	evenement 25 31	parade
 T3	lieu 40 55	port de Camaret
+T4	emotion 0 90	Des vieux gréements à la parade dans le port de Camaret : somptueux, forcément somptueux !
+A1	emotion T4 Positif

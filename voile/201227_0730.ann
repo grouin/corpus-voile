@@ -1,2 +1,6 @@
 T1	personne 0 14	Clément Giraud
 T2	lieu 24 35	cap Leeuwin
+T3	emotion 49 60	champagne !
+A1	emotion T3 Positif
+T4	emotion 0 46	Clément Giraud passe le cap Leeuwin à son tour
+A2	emotion T4 Neutre

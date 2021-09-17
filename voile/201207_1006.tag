@@ -1,1 +1,1 @@
-<course>Trophée Jules Verne</course>. <equipage>Sodebo</equipage> a franchi le <lieu>cap de Bonne-Espérance</lieu> à <vitesse>35 nœuds</vitesse> avec 680 milles d’avance @<course>TJV_officiel</course> #<course>TropheeJulesVerne</course>
+<course>Trophée Jules Verne</course>. <emotion><equipage>Sodebo</equipage> a franchi le <lieu>cap de Bonne-Espérance</lieu> à <vitesse>35 nœuds</vitesse> avec 680 milles d’avance</emotion> @<course>TJV_officiel</course> #<course>TropheeJulesVerne</course>

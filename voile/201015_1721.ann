@@ -1,1 +1,3 @@
 T1	incident 22 39	attaques d’orques
+T2	emotion 7 59	Deux nouvelles attaques d’orques contre des voiliers
+A1	emotion T2 Negatif

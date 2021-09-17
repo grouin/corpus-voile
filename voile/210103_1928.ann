@@ -2,3 +2,5 @@ T1	date 23 39	28 ou 29 janvier
 T2	personne 46 62	Christian Dumard
 T3	lieu 110 121	Atlantiques
 T4	fonction 131 139	skippers
+T5	emotion 75 121	une remontée "compliquée" des deux Atlantiques
+A1	emotion T5 Negatif

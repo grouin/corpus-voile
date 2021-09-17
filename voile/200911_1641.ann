@@ -1,3 +1,5 @@
 T1	lieu 43 48	Brest
 T2	bateau 20 29	Mariquita
 R1	localisation Arg1:T2 Arg2:T1	
+T3	emotion 20 100	Mariquita est arrivé à Brest et y restera « sous pavillon français et breton » !
+A1	emotion T3 Positif

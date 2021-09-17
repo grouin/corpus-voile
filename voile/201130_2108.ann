@@ -6,3 +6,9 @@ T5	personne 112 128	Yannick Bestaven
 T6	personne 132 147	Sébastien Simon
 T7	course 197 203	VG2020
 T8	categorie 38 54	radeau de survie
+T9	pratique 86 95	sauvetage
+T10	pratique 177 194	porter assistance
+T11	emotion 14 54	Kevin Escoffier dans un radeau de survie
+A1	emotion T11 Negatif
+T12	emotion 56 194	Jean Le Cam sur place pour le sauvetage Boris Herrmann, Yannick Bestaven et Sébastien Simon se détournent également pour porter assistance
+A2	emotion T12 Positif

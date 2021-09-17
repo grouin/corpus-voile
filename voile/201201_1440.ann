@@ -6,3 +6,5 @@ T5	course 117 123	VG2020
 T6	equipage 125 133	PRBvoile
 T7	incident 83 91	naufrage
 R1	skipper Arg1:T2 Arg2:T3	
+T8	emotion 34 67	Je coule. Ce n’est pas une blague
+A1	emotion T8 Negatif

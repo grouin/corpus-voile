@@ -1,3 +1,6 @@
 T1	lieu 44 57	Saint-Adresse
 T2	incident 14 25	en détresse
 R1	localisation Arg1:T2 Arg2:T1	
+T3	categorie 3 13	wingfoiler
+T4	emotion 0 31	Un wingfoiler en détresse sauvé
+A1	emotion T4 Positif

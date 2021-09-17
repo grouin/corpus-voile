@@ -4,3 +4,5 @@ T3	rang 45 63	champions d’Europe
 T4	type 67 82	course au large
 R1	classement Arg1:T2 Arg2:T3	
 R2	classement Arg1:T1 Arg2:T3	
+T5	emotion 0 84	Les Français Marie Riou et Benjamin Schwartz champions d’Europe de course au large !
+A1	emotion T5 Positif

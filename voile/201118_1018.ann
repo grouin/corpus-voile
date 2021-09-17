@@ -12,3 +12,5 @@ R3	classement Arg1:T3 Arg2:T6
 R4	localisation Arg1:T3 Arg2:T2	
 R5	localisation Arg1:T4 Arg2:T2	
 R6	localisation Arg1:T5 Arg2:T2	
+T9	emotion 55 99	Thomson, Ruyant, Le Cam dans le trio de tête
+A1	emotion T9 Positif

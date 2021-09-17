@@ -1,3 +1,7 @@
 T2	personne 10 21	Jon Sanders
 T3	type 70 82	en solitaire
 T4	type 45 58	tour du monde
+T1	age 2 8	81 ans
+R1	attribut Arg1:T2 Arg2:T1	
+T5	emotion 0 84	À 81 ans, Jon Sanders va boucler son onzième tour du monde à la voile en solitaire !
+A1	emotion T5 Positif

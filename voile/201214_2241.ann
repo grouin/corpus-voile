@@ -7,3 +7,7 @@ T6	equipage 127 142	initiativecoeur
 R1	skipper Arg1:T2 Arg2:T6	
 R2	localisation Arg1:T2 Arg2:T3	
 T7	type 87 100	tour du monde
+T8	emotion 27 100	@samanthadavies  est repartie de Cape Town pour boucler son tour du monde
+A1	emotion T8 Positif
+T9	emotion 14 25	Hors course
+A2	emotion T9 Negatif

@@ -1,1 +1,3 @@
 T1	incident 34 48	perdu l’hélice
+T2	emotion 23 65	Nous avons perdu l’hélice de notre voilier
+A1	emotion T2 Negatif

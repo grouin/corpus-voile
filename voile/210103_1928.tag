@@ -1,1 +1,1 @@
-Pas d'arrivée avant le <date>28 ou 29 janvier</date> selon <personne>Christian Dumard</personne> qui prévoit une remontée "compliquée" des deux <lieu>Atlantiques</lieu> pour les <fonction>skippers</fonction>.
+Pas d'arrivée avant le <date>28 ou 29 janvier</date> selon <personne>Christian Dumard</personne> qui prévoit <emotion>une remontée "compliquée" des deux <lieu>Atlantiques</lieu></emotion> pour les <fonction>skippers</fonction>.

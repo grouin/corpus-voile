@@ -1,2 +1,7 @@
 T1	categorie 31 39	goélette
 T2	personne 73 84	Sven Yrvind
+T3	age 86 92	81 ans
+R1	attribut Arg1:T2 Arg2:T3	
+T4	duree 7 16	100 jours
+T5	emotion 52 92	la folle aventure de Sven Yrvind, 81 ans
+A1	emotion T5 Positif

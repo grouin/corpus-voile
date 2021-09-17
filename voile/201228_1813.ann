@@ -1,2 +1,5 @@
 T1	personne 0 8	Pip Hare
 T2	personne 65 81	Isabelle Joschke
+T3	distinction 19 29	révélation
+T4	emotion 84 101	vive les femmes !
+A1	emotion T4 Positif

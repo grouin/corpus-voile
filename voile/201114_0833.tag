@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. <personne>Alex Thomson</personne> encaisse des <meteo>rafales</meteo> à <vitesse>60 nœuds</vitesse>, <personne>Jean Le Cam</personne> est incroyable !
+<course>Vendée Globe</course>. <emotion><personne>Alex Thomson</personne> encaisse des <meteo>rafales</meteo> à <vitesse>60 nœuds</emotion></vitesse>, <emotion><personne>Jean Le Cam</personne> est incroyable !</emotion>

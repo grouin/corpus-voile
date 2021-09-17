@@ -4,3 +4,8 @@ T3	course 108 114	VG2020
 T4	personne 28 42	KevinEscoffier
 T5	personne 46 61	YannickBestaven
 T6	personne 91 100	JeanLecam
+T7	pratique 14 23	Sauvetage
+T8	emotion 14 42	Sauvetage de @KevinEscoffier
+A1	emotion T8 Positif
+T9	emotion 45 106	@YannickBestaven aura 10h15 de compensation, @JeanLecam 16h15
+A2	emotion T9 Positif

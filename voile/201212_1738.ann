@@ -1,3 +1,5 @@
 T1	bateau 12 16	Tara
 T2	categorie 3 11	goélette
 T3	organisation 92 102	TaraOcean_
+T4	emotion 0 90	La goélette Tara a largué les amarres : les dessous de cette nouvelle mission scientifique
+A1	emotion T4 Positif

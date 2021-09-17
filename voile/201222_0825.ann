@@ -4,3 +4,7 @@ T3	personne 68 81	Charlie Dalin
 T4	personne 85 98	Thomas Ruyant
 T5	rang 53 60	en tête
 R1	classement Arg1:T2 Arg2:T5	
+T6	distinction 34 42	outsider
+R2	attribut Arg1:T2 Arg2:T6	
+T7	emotion 14 98	Yannick Bestaven, l’outsider, toujours en tête devant Charlie Dalin et Thomas Ruyant
+A1	emotion T7 Positif

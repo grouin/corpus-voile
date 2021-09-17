@@ -1,3 +1,5 @@
 T1	course 7 19	Vendée Globe
 T2	personne 21 31	Alan Roura
 T3	vitesse 75 83	30 nœuds
+T4	emotion 85 97	ça fait peur
+A1	emotion T4 Negatif

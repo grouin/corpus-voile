@@ -1,1 +1,1 @@
-Un <categorie>trimaran</categorie> futuriste inventé par un designer automobile
+Un <categorie>trimaran</categorie> futuriste inventé par un <fonction>designer automobile</fonction>

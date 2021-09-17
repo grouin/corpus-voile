@@ -1,3 +1,8 @@
 T1	personne 30 41	Fred Duthil
 T2	course 49 58	Solitaire
 T5	course 0 19	Solitaire du Figaro
+T3	age 24 29	doyen
+R1	attribut Arg1:T1 Arg2:T3	
+T4	emotion 46 86	La Solitaire, c’est la vie des animaux !
+A1	emotion T4 Uncertain
+#1	AnnotatorNotes T4	Voir les animaux = positif, vivre comme les animaux = ?

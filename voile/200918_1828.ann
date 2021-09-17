@@ -5,3 +5,6 @@ T4	personne 9 25	Valentin Gautier
 T5	rang 42 49	gagnent
 R1	classement Arg1:T4 Arg2:T5	
 R2	classement Arg1:T3 Arg2:T5	
+T6	duree 81 90	6 minutes
+T7	emotion 9 92	Valentin Gautier et Simon Koster gagnent la Normandy Channel Race pour… 6 minutes !
+A1	emotion T7 Positif

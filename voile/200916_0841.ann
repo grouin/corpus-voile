@@ -1,2 +1,4 @@
 T1	equipage 58 71	Jean Stalaven
 T2	equipage 43 53	Jet France
+T3	emotion 0 53	Vive inquiétude pour l’équipage du voilier Jet France
+A1	emotion T3 Negatif

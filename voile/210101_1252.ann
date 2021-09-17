@@ -1,3 +1,5 @@
 T1	personne 0 16	Yannick Bestaven
 T2	rang 18 35	en tête de course
 R1	classement Arg1:T1 Arg2:T2	
+T3	emotion 0 107	Yannick Bestaven, en tête de course, n'est pas un adepte non plus des cotillons et de la danse des canards.
+A1	emotion T3 Negatif

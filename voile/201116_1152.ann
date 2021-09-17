@@ -5,3 +5,5 @@ T4	equipage 59 72	V & B Mayenne
 R1	skipper Arg1:T3 Arg2:T4	
 T5	course 95 101	VG2020
 T6	course 103 114	VendeeGlobe
+T7	emotion 14 72	Rencontre avec un OFNI pour Maxime Sorel sur V & B Mayenne
+A1	emotion T7 Negatif

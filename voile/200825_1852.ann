@@ -3,3 +3,5 @@ T2	lieu 63 74	Villasimius
 T3	course 25 46	championnats du monde
 T4	incident 0 20	Cinq hommes à la mer
 R1	localisation Arg1:T4 Arg2:T2	
+T5	emotion 0 20	Cinq hommes à la mer
+A1	emotion T5 Uncertain

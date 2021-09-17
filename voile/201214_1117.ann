@@ -5,3 +5,6 @@ T4	course 105 111	VG2020
 T5	course 113 128	VendeeGlobe2020
 R1	skipper Arg1:T2 Arg2:T3	
 T6	technique 34 48	voiles d’avant
+T7	incident 14 31	Avarie importante
+T8	emotion 14 103	Avarie importante : voiles d’avant déchirées sur le bateau de @MaximeSorel @vandb_mayenne
+A1	emotion T8 Negatif

@@ -1,1 +1,1 @@
-<categorie>Monotypes</categorie>. Coques en vrac et duels sur l’eau en <voilier>Melges 32</voilier> !
+<categorie>Monotypes</categorie>. <incident>Coques en vrac</incident> et duels sur l’eau en <voilier>Melges 32</voilier> !

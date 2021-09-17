@@ -4,3 +4,5 @@ T3	incident 20 31	coulé à pic
 T4	incident 67 75	incendie
 R1	localisation Arg1:T3 Arg2:T2	
 R2	localisation Arg1:T4 Arg2:T2	
+T5	emotion 7 31	Le Lady MM a coulé à pic
+A1	emotion T5 Negatif

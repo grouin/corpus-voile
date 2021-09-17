@@ -5,3 +5,5 @@ T4	vitesse 66 74	35 nœuds
 T5	course 115 132	TropheeJulesVerne
 T6	course 101 113	TJV_officiel
 R1	localisation Arg1:T2 Arg2:T3	
+T7	emotion 21 99	Sodebo a franchi le cap de Bonne-Espérance à 35 nœuds avec 680 milles d’avance
+A1	emotion T7 Positif

@@ -3,3 +3,5 @@ T2	incident 0 11	Disparition
 T3	incident 71 106	découverte d'un corps et du voilier
 R1	localisation Arg1:T2 Arg2:T1	
 R2	localisation Arg1:T3 Arg2:T1	
+T4	emotion 0 107	Disparition d'Hendaye : premières explications et témoignages après la découverte d'un corps et du voilier.
+A1	emotion T4 Negatif

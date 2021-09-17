@@ -1,1 +1,1 @@
-<incident>Disparition en mer d’un plaisancier</incident> au large de l’<lieu>île d’Oléron</lieu>
+<emotion><incident>Disparition en mer d’un plaisancier</incident></emotion> au large de l’<lieu>île d’Oléron</lieu>

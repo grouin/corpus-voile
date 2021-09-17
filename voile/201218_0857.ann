@@ -5,3 +5,9 @@ T4	personne 52 67	YannickBestaven
 T5	personne 81 93	CharlieDalin
 T6	rang 105 119	deuxième place
 R1	classement Arg1:T5 Arg2:T6	
+T7	emotion 51 78	@YannickBestaven est freiné
+A1	emotion T7 Negatif
+T8	emotion 14 49	@ThomasRuyant tente une option osée
+A2	emotion T8 Positif
+T9	emotion 80 119	@CharlieDalin reprend la deuxième place
+A3	emotion T9 Positif

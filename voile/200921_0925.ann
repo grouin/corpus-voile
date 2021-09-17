@@ -1,2 +1,4 @@
 T1	course 7 20	America’s Cup
 T2	voilier 68 77	Britannia
+T3	emotion 47 77	Le vol majestueux de Britannia
+A1	emotion T3 Positif

@@ -2,3 +2,5 @@ T1	course 0 12	Vendée Globe
 T2	course 87 93	VG2020
 T3	course 95 106	VendeeGlobe
 T4	personne 15 27	CharlieDalin
+T5	emotion 14 85	@CharlieDalin a réparé son bateau et reprend sa route sous surveillance
+A1	emotion T5 Positif

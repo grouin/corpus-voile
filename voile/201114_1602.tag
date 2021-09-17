@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. <personne>Kojiro Shiraishi</personne> a déchiré sa <technique>grand-voile</technique>, mais il reste en course
+<course>Vendée Globe</course>. <emotion><personne>Kojiro Shiraishi</personne> a <incident>déchiré</incident> sa <technique>grand-voile</technique></emotion>, mais <emotion>il reste en course</emotion>

@@ -2,3 +2,5 @@ T1	personne 40 52	Robin Marais
 T3	course 7 26	Solitaire du Figaro
 T2	incident 53 61	s’échoue
 T4	fonction 32 39	skipper
+T5	emotion 29 79	le skipper Robin Marais s’échoue pendant une étape
+A1	emotion T5 Negatif

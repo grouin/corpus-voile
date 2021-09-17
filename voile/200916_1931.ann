@@ -7,3 +7,7 @@ R1	classement Arg1:T1 Arg2:T7
 R2	classement Arg1:T1 Arg2:T2	
 R3	localisation Arg1:T2 Arg2:T4	
 R4	localisation Arg1:T1 Arg2:T4	
+T5	age 36 41	doyen
+R5	attribut Arg1:T1 Arg2:T5	
+T6	emotion 24 82	Victoire du doyen : Fred Duthil s’impose à Saint-Nazaire !
+A1	emotion T6 Positif

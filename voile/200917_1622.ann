@@ -5,3 +5,5 @@ T2	rang 53 57	mène
 R1	classement Arg1:T1 Arg2:T2	
 R2	localisation Arg1:T2 Arg2:T4	
 R3	localisation Arg1:T1 Arg2:T4	
+T5	distinction 74 81	bizuths
+R4	attribut Arg1:T1 Arg2:T5	

@@ -1,3 +1,6 @@
 T1	course 0 12	Vendée Globe
 T2	personne 34 53	Sébastien Destremau
 T3	technique 61 67	quille
+T4	incident 14 28	Avarie majeure
+T5	emotion 14 53	Avarie majeure pour Sébastien Destremau
+A1	emotion T5 Negatif

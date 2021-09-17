@@ -1,2 +1,4 @@
 T1	course 0 12	Vendée Globe
 T2	fonction 21 29	skippers
+T3	emotion 14 84	Les 33 skippers sont négatifs au Covid-19 et peuvent prendre le départ
+A1	emotion T3 Positif

@@ -1,3 +1,7 @@
 T1	course 7 19	Vendée Globe
 T2	personne 21 34	Damien Seguin
 T3	date 87 91	Noël
+T4	emotion 21 60	Damien Seguin escorté par deux baleines
+A1	emotion T4 Positif
+T5	emotion 65 91	J'ai eu mon cadeau de Noël
+A2	emotion T5 Positif

@@ -1,3 +1,5 @@
 T1	course 0 19	Trophée Jules Verne
 T2	equipage 21 27	Sodebo
 T3	incident 28 49	endommagé par un OFNI
+T4	emotion 21 49	Sodebo endommagé par un OFNI
+A1	emotion T4 Negatif

@@ -5,3 +5,6 @@ T4	equipage 52 61	LinkedOut
 T5	course 63 69	VG2020
 T6	course 71 86	VendeeGlobe2020
 R1	skipper Arg1:T3 Arg2:T4	
+T7	incident 14 20	Avarie
+T8	emotion 14 61	Avarie de foil pour Thomas Ruyant sur LinkedOut
+A1	emotion T8 Negatif

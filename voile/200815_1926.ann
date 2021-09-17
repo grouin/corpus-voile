@@ -1,2 +1,5 @@
 T1	course 7 20	America’s Cup
 T2	bateau 52 62	Luna Rossa
+T3	duree 23 34	33 secondes
+T4	emotion 23 79	33 secondes de vol à bord de Luna Rossa, pour le plaisir
+A1	emotion T4 Positif

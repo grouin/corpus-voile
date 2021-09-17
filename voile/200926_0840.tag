@@ -1,1 +1,1 @@
-Les <fonction>pêcheurs</fonction> de <lieu>Lorient</lieu> <incident>bloquent le port</incident> de <lieu>la Trinité-sur-Mer</lieu> « Nous ne pourrons pas toujours manger des graines ». Départ du @<course>SpiOF</course> retardé ?
+<emotion>Les <fonction>pêcheurs</fonction> de <lieu>Lorient</lieu> <incident>bloquent le port</incident> de <lieu>la Trinité-sur-Mer</lieu></emotion> « <emotion>Nous ne pourrons pas toujours manger des graines</emotion> ». <emotion>Départ du @<course>SpiOF</course> retardé ?</emotion>

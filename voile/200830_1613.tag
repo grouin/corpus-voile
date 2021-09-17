@@ -1,1 +1,1 @@
-Insolite. Repérée par un plaisancier, une tortue Luth sauvée in extremis devant <lieu>La Trinité-sur-Mer</lieu>
+Insolite. Repérée par un <fonction>plaisancier</fonction>, <emotion>une tortue Luth sauvée in extremis</emotion> devant <lieu>La Trinité-sur-Mer</lieu>

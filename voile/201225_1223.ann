@@ -2,3 +2,7 @@ T1	meteo 12 24	coup de vent
 T2	meteo 77 84	rafales
 T3	date 33 41	dimanche
 T4	date 45 50	lundi
+T5	vitesse 87 95	60 nœuds
+T6	meteo 52 75	vagues de 8 ou 9 mètres
+T7	emotion 7 95	Fort coup de vent attendu dimanche et lundi, vagues de 8 ou 9 mètres, rafales à 60 nœuds
+A1	emotion T7 Negatif

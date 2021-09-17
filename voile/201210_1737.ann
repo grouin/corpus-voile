@@ -5,3 +5,5 @@ T4	meteo 91 98	tempête
 T5	course 102 117	VendeeGlobe2020
 T6	course 119 125	VG2020
 T7	personne 127 137	desjoyeaux
+T8	emotion 36 98	Je suis effaré, lorsqu’il y a 40 nœuds tous parlent de tempête
+A1	emotion T8 Negatif

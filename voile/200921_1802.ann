@@ -1,2 +1,5 @@
 T3	course 0 22	La Solitaire du Figaro
 T4	lieu 37 53	Loire-Atlantique
+T1	duree 59 66	six ans
+T2	emotion 0 68	La Solitaire du Figaro s’installe en Loire-Atlantique pour six ans !
+A1	emotion T2 Positif

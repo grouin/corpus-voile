@@ -1,3 +1,5 @@
 T1	personne 49 65	Armel Le Cléac’h
 T2	personne 14 25	Fred Duthil
 T3	course 3 12	Solitaire
+T4	emotion 14 67	Fred Duthil revient à 10 minutes d’Armel Le Cléac’h !
+A1	emotion T4 Positif

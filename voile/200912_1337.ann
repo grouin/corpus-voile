@@ -3,3 +3,6 @@ T2	voilier 92 97	Imoca
 T3	personne 13 26	Jérémie Beyou
 T4	rang 27 35	remporte
 R1	classement Arg1:T3 Arg2:T4	
+T5	duree 52 61	48 heures
+T6	emotion 13 47	Jérémie Beyou remporte in extremis
+A1	emotion T6 Positif

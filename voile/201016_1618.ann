@@ -1,3 +1,6 @@
 T1	meteo 25 32	tempête
 T2	lieu 75 87	Méditerranée
 R1	localisation Arg1:T1 Arg2:T2	
+T3	incident 4 18	bois dérivants
+T4	emotion 0 87	Les bois dérivants de la tempête Alex sont un danger pour la navigation en Méditerranée
+A1	emotion T4 Negatif

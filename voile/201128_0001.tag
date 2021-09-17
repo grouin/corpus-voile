@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. Avarie de <technique>safran</technique> pour <personne>Alex Thomson</personne> sur <equipage>Hugo Boss</equipage>
+<course>Vendée Globe</course>. <emotion><incident>Avarie</incident> de <technique>safran</technique> pour <personne>Alex Thomson</personne> sur <equipage>Hugo Boss</emotion></equipage>

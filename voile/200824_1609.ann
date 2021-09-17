@@ -2,3 +2,5 @@ T1	lieu 54 65	Noirmoutier
 T2	organisation 94 98	SNSM
 T3	incident 3 20	plaisancier meurt
 R1	localisation Arg1:T3 Arg2:T1	
+T4	emotion 0 41	Un plaisancier meurt à bord de son bateau
+A1	emotion T4 Negatif

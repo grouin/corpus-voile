@@ -2,3 +2,5 @@ T1	course 0 16	Spi Ouest-France
 T2	type 75 82	régates
 T3	incident 41 67	bloquent la sortie du port
 T4	fonction 22 30	pêcheurs
+T5	emotion 18 83	Les pêcheurs en colère bloquent la sortie du port et les régates.
+A1	emotion T5 Negatif

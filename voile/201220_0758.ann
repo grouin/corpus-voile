@@ -3,3 +3,5 @@ T2	rang 17 23	leader
 T3	personne 24 40	Yannick Bestaven
 T4	lieu 82 90	cap Horn
 R1	classement Arg1:T3 Arg2:T2	
+T5	emotion 14 59	Le leader Yannick Bestaven reprend du terrain
+A1	emotion T5 Positif

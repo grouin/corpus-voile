@@ -1,1 +1,1 @@
-VIDÉO. Quelques secondes extraordinaires d’un grand bateau qui vole
+VIDÉO. <duree>Quelques secondes</duree> extraordinaires d’un grand bateau qui vole

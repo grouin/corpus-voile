@@ -1,2 +1,4 @@
 T1	course 25 41	Spi Ouest-France
 T2	organisation 56 68	Chasse-marée
+T3	emotion 93 109	que du bonheur !
+A1	emotion T3 Positif

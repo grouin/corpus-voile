@@ -3,3 +3,5 @@ T2	lieu 31 38	Morlaix
 T4	lieu 94 100	Sables
 T3	rang 65 73	gagnants
 R1	localisation Arg1:T3 Arg2:T2	
+T5	emotion 41 100	scènes de joie pour les gagnants sur les pontons des Sables
+A1	emotion T5 Positif

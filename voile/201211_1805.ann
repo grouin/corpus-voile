@@ -8,3 +8,5 @@ T7	course 136 145	TropheeJV
 R1	skipper Arg1:T3 Arg2:T2	
 R2	skipper Arg1:T3 Arg2:T5	
 R3	localisation Arg1:T3 Arg2:T4	
+T8	emotion 21 106	Pas de record pour le #SodeboUltim3 de Thomas Coville, qui se déroute vers La Réunion
+A1	emotion T8 Negatif

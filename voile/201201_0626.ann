@@ -3,3 +3,5 @@ T2	personne 14 25	Jean Le Cam
 T3	personne 35 50	Kevin Escoffier
 T4	course 91 97	VG2020
 T5	categorie 60 76	radeau de survie
+T6	emotion 14 89	Jean Le Cam récupère Kevin Escoffier dans son radeau de survie sain et sauf
+A1	emotion T6 Positif

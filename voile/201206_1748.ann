@@ -1,2 +1,4 @@
 T1	course 7 19	Vendée Globe
 T2	personne 21 32	Jean Le Cam
+T3	emotion 60 79	C’est un peu triste
+A1	emotion T3 Negatif

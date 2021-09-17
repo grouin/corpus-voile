@@ -4,3 +4,7 @@ T3	incident 36 58	collision avec un ofni
 T4	course 108 114	VG2020
 T5	equipage 116 131	initiativecoeur
 R1	skipper Arg1:T2 Arg2:T5	
+T6	emotion 63 104	J’ai tapé comme si je talonnais un rocher
+A1	emotion T6 Negatif
+T7	emotion 36 58	collision avec un ofni
+A2	emotion T7 Negatif

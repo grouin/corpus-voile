@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. <personne>Michel Desjoyeaux</personne> : « Je suis effaré, lorsqu’il y a <vitesse>40 nœuds</vitesse> tous parlent de <meteo>tempête</meteo> » #<course>VendeeGlobe2020</course> #<course>VG2020</course> @<personne>desjoyeaux</personne>
+<course>Vendée Globe</course>. <personne>Michel Desjoyeaux</personne> : « <emotion>Je suis effaré, lorsqu’il y a <vitesse>40 nœuds</vitesse> tous parlent de <meteo>tempête</meteo></emotion> » #<course>VendeeGlobe2020</course> #<course>VG2020</course> @<personne>desjoyeaux</personne>

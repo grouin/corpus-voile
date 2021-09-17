@@ -1,1 +1,3 @@
 T1	technique 38 48	gouvernail
+T2	emotion 22 72	J’ai réparé mon gouvernail avec les moyens du bord
+A1	emotion T2 Positif
