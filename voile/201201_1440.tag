@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. @<personne>KevinEscoffier</personne> : « <emotion>Je coule. Ce n’est pas une blague</emotion> », le récit du <incident>naufrage</incident> de <equipage>PRB</equipage> #<course>VendeeGlobe2020</course> #<course>VG2020</course> @<equipage>PRBvoile</equipage>
+<course>Vendée Globe</course>. @<personne>KevinEscoffier</personne> : « Je coule. Ce n’est pas une blague », le récit du <incident>naufrage</incident> de <equipage>PRB</equipage> #<course>VendeeGlobe2020</course> #<course>VG2020</course> @<equipage>PRBvoile</equipage>

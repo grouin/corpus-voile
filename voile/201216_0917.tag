@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. <emotion>Duel dingue <personne>Ruyant</personne>-<personne>Bestaven</emotion></personne> et règlements de comptes dans les <lieu>Cinquantièmes hurlants</lieu> #<course>VG2020</course> #<course>VendeeGlobe</course>
+<course>Vendée Globe</course>. Duel dingue <personne>Ruyant</personne>-<personne>Bestaven</personne> et règlements de comptes dans les <lieu>Cinquantièmes hurlants</lieu> #<course>VG2020</course> #<course>VendeeGlobe</course>

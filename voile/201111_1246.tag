@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. <emotion>Le <distinction>grand favori</distinction> <personne>Jérémie Beyou</personne> fait demi-tour vers <lieu>Les Sables-d’Olonne</lieu> !</emotion> #<course>VG2020</course> #<course>VendeeGlobe</course>
+<course>Vendée Globe</course>. Le <distinction>grand favori</distinction> <personne>Jérémie Beyou</personne> fait demi-tour vers <lieu>Les Sables-d’Olonne</lieu> ! #<course>VG2020</course> #<course>VendeeGlobe</course>

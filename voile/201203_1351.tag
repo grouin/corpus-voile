@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. <personne>Sam Davies</personne> raconte sa <emotion><incident>collision avec un ofni</incident></emotion> : « <emotion>J’ai tapé comme si je talonnais un rocher</emotion> » #<course>VG2020</course> @<equipage>initiativecoeur</equipage>
+<course>Vendée Globe</course>. <personne>Sam Davies</personne> raconte sa <incident>collision avec un ofni</incident> : « J’ai tapé comme si je talonnais un rocher » #<course>VG2020</course> @<equipage>initiativecoeur</equipage>

@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. <emotion><incident>Rencontre avec un OFNI</incident> pour <personne>Maxime Sorel</personne> sur <equipage>V & B Mayenne</equipage></emotion> : pas de gros dégâts #<course>VG2020</course> #<course>VendeeGlobe</course>
+<course>Vendée Globe</course>. <incident>Rencontre avec un OFNI</incident> pour <personne>Maxime Sorel</personne> sur <equipage>V & B Mayenne</equipage> : pas de gros dégâts #<course>VG2020</course> #<course>VendeeGlobe</course>

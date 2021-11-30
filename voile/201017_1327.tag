@@ -1,1 +1,1 @@
-<course>Trophée MAP</course> : <rang><emotion>Victoire</rang> à <lieu>Douarnenez</lieu> de <personne>Fabio Muzzolini</personne> en <categorie>proto</categorie> et <personne>Hugo Picard</personne> en <categorie>série</categorie></emotion>
+<course>Trophée MAP</course> : <rang>Victoire</rang> à <lieu>Douarnenez</lieu> de <personne>Fabio Muzzolini</personne> en <categorie>proto</categorie> et <personne>Hugo Picard</personne> en <categorie>série</categorie>

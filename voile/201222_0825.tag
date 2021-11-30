@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. <emotion><personne>Yannick Bestaven</personne>, l’<distinction>outsider</distinction>, toujours <rang>en tête</rang> devant <personne>Charlie Dalin</personne> et <personne>Thomas Ruyant</personne></emotion>
+<course>Vendée Globe</course>. <personne>Yannick Bestaven</personne>, l’<distinction>outsider</distinction>, toujours <rang>en tête</rang> devant <personne>Charlie Dalin</personne> et <personne>Thomas Ruyant</personne>

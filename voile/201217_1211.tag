@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. <emotion><incident>Voie d’eau</incident> sur le bateau de @<personne>ThomasRuyant</personne></emotion> : <emotion>juste une <technique>trappe</technique> ouverte !</emotion> #<course>VendeeGlobe</course> #<course>VG2020</course>
+<course>Vendée Globe</course>. <incident>Voie d’eau</incident> sur le bateau de @<personne>ThomasRuyant</personne> : juste une <technique>trappe</technique> ouverte ! #<course>VendeeGlobe</course> #<course>VG2020</course>

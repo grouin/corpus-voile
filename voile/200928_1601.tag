@@ -1,1 +1,1 @@
-LES <evenement>VOILES DE SAINT-TROPEZ</evenement>. <emotion>140 voiliers sublimes à admirer naviguer</emotion>
+LES <evenement>VOILES DE SAINT-TROPEZ</evenement>. 140 voiliers sublimes à admirer naviguer

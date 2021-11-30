@@ -1,1 +1,1 @@
-<emotion><personne>Yannick Bestaven</personne> et <personne>Charlie Dalin</personne> devraient passer le <lieu>Horn</lieu> avant l'arrivée d'une <meteo>sérieuse cartouche</meteo></emotion> sur zone pour leurs chasseurs.
+<personne>Yannick Bestaven</personne> et <personne>Charlie Dalin</personne> devraient passer le <lieu>Horn</lieu> avant l'arrivée d'une <meteo>sérieuse cartouche</meteo> sur zone pour leurs chasseurs.

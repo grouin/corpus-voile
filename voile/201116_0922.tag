@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. <emotion>Le bateau <equipage>CORUM L’Épargne</equipage> de <personne>Nicolas Troussel</personne> a <incident>démâté</emotion></incident> #<course>VG2020</course> #<course>VendeeGlobe</course>
+<course>Vendée Globe</course>. Le bateau <equipage>CORUM L’Épargne</equipage> de <personne>Nicolas Troussel</personne> a <incident>démâté</incident> #<course>VG2020</course> #<course>VendeeGlobe</course>

@@ -1,1 +1,1 @@
-Ça vous est arrivé : « <emotion>Nous avons <incident>perdu l’hélice</incident> de notre voilier</emotion> »
+Ça vous est arrivé : « Nous avons <incident>perdu l’hélice</incident> de notre voilier »

@@ -1,1 +1,1 @@
-<course>Trophée Jules Verne</course>. <emotion>Pas de record pour le #<equipage>SodeboUltim3</equipage> de <personne>Thomas Coville</personne>, qui se déroute vers <lieu>La Réunion</lieu></emotion> @<equipage>Sodebo_Voile</equipage> @<course>TJV_officiel</course> #<course>TropheeJV</course>
+<course>Trophée Jules Verne</course>. Pas de record pour le #<equipage>SodeboUltim3</equipage> de <personne>Thomas Coville</personne>, qui se déroute vers <lieu>La Réunion</lieu> @<equipage>Sodebo_Voile</equipage> @<course>TJV_officiel</course> #<course>TropheeJV</course>

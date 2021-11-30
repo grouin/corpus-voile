@@ -1,1 +1,1 @@
-<course>Vendée Globe</course>. <emotion>@<personne>ThomasRuyant</personne> tente une option osée</emotion>, <emotion>@<personne>YannickBestaven</personne> est freiné</emotion>, <emotion>@<personne>CharlieDalin</personne> reprend la <rang>deuxième place</rang></emotion> #<course>VG2020</course>
+<course>Vendée Globe</course>. @<personne>ThomasRuyant</personne> tente une option osée, @<personne>YannickBestaven</personne> est freiné, @<personne>CharlieDalin</personne> reprend la <rang>deuxième place</rang> #<course>VG2020</course>
