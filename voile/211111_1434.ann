@@ -1,0 +1,9 @@
+T1	course 7 28	Transat Jacques Vabre
+T2	personne 45 58	Thomas Ruyant
+T3	personne 62 79	Morgan Lagravière
+T4	equipage 87 96	LinkedOut
+T5	voilier 81 86	Imoca
+R1	skipper Arg1:T3 Arg2:T4	
+R2	skipper Arg1:T2 Arg2:T4	
+T6	emotion 31 79	ça roule pour Thomas Ruyant et Morgan Lagravière
+A1	emotion T6 Positif

@@ -1,0 +1,7 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	personne 37 51	Kito de Pavant
+T3	personne 55 65	Gwen Gbick
+T4	course 101 120	TransatJacquesVabre
+T5	emotion 23 99	Coup dur pour Kito de Pavant et Gwen Gbick contraints à l’abandon sur avarie
+A1	emotion T5 Negatif
+T6	incident 93 99	avarie

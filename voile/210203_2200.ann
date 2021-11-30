@@ -1,0 +1,8 @@
+T1	course 0 12	Vendée Globe
+T2	course 92 98	VG2020
+T3	personne 14 29	Clarisse Crémer
+T4	personne 44 59	Ellen MacArthur
+T5	personne 100 115	ClaSurLAtlantiq
+T6	personne 117 131	ellenmacarthur
+T7	emotion 14 90	Clarisse Crémer félicitée par Ellen MacArthur, « c’est carrément la classe »
+A1	emotion T7 Positif

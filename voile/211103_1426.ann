@@ -1,0 +1,11 @@
+T1	personne 0 14	Martin Le Pape
+T2	course 32 45	Jacques Vabre
+T3	type 46 52	en duo
+T4	personne 58 74	Giancarlo Pedote
+T5	course 132 149	Vendée Globe 2024
+T6	type 151 163	En solitaire
+T7	voilier 94 101	Class40
+T8	emotion 111 163	son rêve de faire le Vendée Globe 2024. En solitaire
+A1	emotion T8 Positif
+T9	emotion 0 74	Martin Le Pape va partir sur la Jacques Vabre en duo avec Giancarlo Pedote
+A2	emotion T9 Positif

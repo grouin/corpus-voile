@@ -1,0 +1,8 @@
+T1	course 0 19	Solitaire du Figaro
+T2	course 98 113	LaSolitaire_52e
+T3	personne 21 30	Tom Dolan
+T4	personne 45 59	Xavier Macaire
+T5	rang 31 38	en tête
+R1	classement Arg1:T3 Arg2:T5	
+T6	emotion 21 38	Tom Dolan en tête
+A1	emotion T6 Positif

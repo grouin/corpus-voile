@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. @<personne>YBourgnon</personne> repart avec @<personne>lamiregilles</personne> <duree>six ans après</duree> leur <incident>naufrage</incident> @<course>TransatJV_fr</course>

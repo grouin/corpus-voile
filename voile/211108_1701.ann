@@ -1,0 +1,6 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	personne 24 38	LouisBurtonOff
+T3	incident 46 54	démâtage
+T4	course 91 100	TransatJV
+T5	emotion 23 89	@LouisBurtonOff sur le démâtage : « Un bruit comme une explosion »
+A1	emotion T5 Negatif

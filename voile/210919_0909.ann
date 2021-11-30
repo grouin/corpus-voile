@@ -1,0 +1,5 @@
+T1	lieu 51 76	baie du Mont Saint-Michel
+T2	meteo 42 47	marée
+T3	emotion 11 76	Trois personnes piégées par la marée en baie du Mont Saint-Michel
+A1	emotion T3 Negatif
+T4	pratique 0 9	Sauvetage

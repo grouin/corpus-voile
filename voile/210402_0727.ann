@@ -1,0 +1,4 @@
+T1	lieu 12 19	Camaret
+T2	voilier 46 55	Morvarc'h
+T3	emotion 0 62	Les gens de Camaret ne veulent pas que "leur" Morvarc'h meure.
+A1	emotion T3 Uncertain

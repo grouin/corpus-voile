@@ -1,0 +1,3 @@
+T1	personne 0 13	Charlie Dalin
+T2	lieu 28 39	pot-au-noir
+R1	localisation Arg1:T1 Arg2:T2	

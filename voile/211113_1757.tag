@@ -1,0 +1,1 @@
+<lieu>La Réunion</lieu> - l'<lieu>Afrique du Sud</lieu> sur un <categorie>voilier</categorie> de <taille>4 mètres</taille> : <personne>Yann Quenet</personne> continue de tout oser sur les océans et il raconte son odyssée avec une simplicité décidemment déconcertante.

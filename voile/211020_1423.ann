@@ -1,0 +1,7 @@
+T1	voilier 35 45	trois-mâts
+T2	categorie 21 31	remorqueur
+T3	incident 7 15	Naufrage
+T4	voilier 46 58	Cisne Branco
+T5	incident 65 79	heurté un pont
+T6	emotion 7 79	Naufrage d’un remorqueur du trois-mâts Cisne Branco qui a heurté un pont
+A1	emotion T6 Negatif

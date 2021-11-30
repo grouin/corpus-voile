@@ -1,0 +1,1 @@
+TÉMOIGNAGE. « J’ai cru que mon <categorie>voilier</categorie> coulait » raconte <personne>Victor d’Ersu</personne> abordé par un <categorie>bateau de pêche</categorie> @<course>MiniTransat2021</course> #<organisation>MiniTransatEuroChef</organisation> #<course>MiniTransat2021</course>

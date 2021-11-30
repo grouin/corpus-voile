@@ -1,0 +1,6 @@
+T1	personne 25 35	Sam Davies
+T2	course 11 23	Vendée Globe
+T3	equipage 76 91	initiativecoeur
+T4	emotion 40 72	Plus que deux semaines à tenir !
+A1	emotion T4 Uncertain
+#1	AnnotatorNotes T4	découragement

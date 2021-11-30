@@ -1,0 +1,11 @@
+T1	course 0 17	Défi Azimut Ultim
+T2	personne 19 35	Armel le Cléac'h
+T3	lieu 61 76	Sables-d'Olonne
+T4	personne 78 93	François gabart
+T5	lieu 107 117	Concarneau
+R1	localisation Arg1:T4 Arg2:T5	
+R2	localisation Arg1:T2 Arg2:T3	
+T6	emotion 19 76	Armel le Cléac'h premier au way point des Sables-d'Olonne
+A1	emotion T6 Positif
+T7	emotion 78 117	François gabart est rentré à Concarneau
+A2	emotion T7 Uncertain

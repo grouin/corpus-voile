@@ -1,0 +1,1 @@
+<course>Jacques Vabre</course>. <personne>Sébastien Rogues</personne>, <rang>leader</rang> : « dernière journée de mer, nous allons passer <lieu>la Barbade</lieu> » #<course>TransatJacquesVabre</course>

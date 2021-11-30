@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. <personne>Clarisse Crémer</personne> félicitée par <personne>Ellen MacArthur</personne>, « c’est carrément la classe » #<course>VG2020</course> @<personne>ClaSurLAtlantiq</personne> @<personne>ellenmacarthur</personne>

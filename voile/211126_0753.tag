@@ -1,0 +1,1 @@
+<rang>4e place</rang> chez les <voilier>Ultim</voilier> : objectif rempli pour <personne>Yves Le Blevec</personne> et <personne>Anthony Marchand</personne> qui racontent leur course à l'abri des <incident>émeutes</incident> de <lieu>La Martinique</lieu>.

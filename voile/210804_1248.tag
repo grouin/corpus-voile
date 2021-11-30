@@ -1,0 +1,1 @@
+<evenement>JO de Tokyo</evenement>. <voilier>470</voilier> : <personne>Camille Lecointre</personne> et <personne>Aloïse Retornaz</personne> restent en <rang>bronze</rang>, après un curieux scénario @<equipage>470objectifOR</equipage> @<personne>CamilleLecointr</personne> @<personne>AloiseRetornaz</personne> #<evenement>JOTokyo</evenement>

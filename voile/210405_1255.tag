@@ -1,0 +1,1 @@
+Comment ça se passe, en cas d'<pratique>hélitreuillage</pratique> en mer ? La réponse en vidéo de la <organisation>SNSM</organisation> et les conseils d'un <fonction>sauveteur</fonction>, pour que tout se passe bien.

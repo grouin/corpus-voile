@@ -1,0 +1,9 @@
+T1	course 0 19	Trophée Jules Verne
+T2	categorie 24 28	Maxi
+T3	bateau 29 49	Edmond de Rothschild
+T4	lieu 52 67	Bonne-Espérance
+T5	course 88 100	TJV_officiel
+T6	equipage 102 112	GitanaTeam
+R1	localisation Arg1:T3 Arg2:T4	
+T7	emotion 21 86	Le Maxi Edmond de Rothschild à Bonne-Espérance en un temps record
+A1	emotion T7 Positif

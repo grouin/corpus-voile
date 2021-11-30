@@ -1,0 +1,8 @@
+T1	equipage 0 9	Gitana 17
+T2	course 38 57	Trophée Jules Verne
+T3	date 88 96	vendredi
+T4	lieu 105 116	pot-au-noir
+T5	emotion 68 116	grosses frayeurs de vendredi dans le pot-au-noir
+A1	emotion T5 Negatif
+T6	emotion 0 30	Gitana 17 a repris de l'avance
+A2	emotion T6 Positif

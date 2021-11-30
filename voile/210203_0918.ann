@@ -1,0 +1,8 @@
+T1	course 7 19	Vendée Globe
+T2	course 88 94	VG2020
+T3	personne 69 84	RomainAttanasio
+T4	vitesse 54 62	50 nœuds
+T5	meteo 37 51	vents violents
+T6	meteo 21 33	Mer démontée
+T7	emotion 21 86	Mer démontée et vents violents à 50 nœuds pour @RomainAttanasio !
+A1	emotion T7 Negatif

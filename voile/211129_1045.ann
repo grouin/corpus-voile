@@ -1,0 +1,5 @@
+T1	course 0 13	Jacques Vabre
+T2	personne 15 31	Pascal Bidégorry
+T3	course 101 120	TransatJacquesVabre
+T4	emotion 36 97	Ça fait du bien quand ça s’arrête, la course devenait pénible
+A1	emotion T4 Negatif

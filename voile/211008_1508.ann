@@ -1,0 +1,10 @@
+T1	course 7 19	Mini Transat
+T2	personne 21 36	Christian Kargl
+T3	rang 45 53	deuxième
+T4	personne 88 99	Melwin Fink
+T5	course 101 116	MiniTransat2021
+T6	emotion 65 99	loin derrière le jeune Melwin Fink
+A1	emotion T6 Negatif
+T7	emotion 21 63	Christian Kargl termine deuxième des Série
+A2	emotion T7 Positif
+T8	categorie 58 63	Série

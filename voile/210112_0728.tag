@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. @<personne>YannickBestaven</personne> <rang>en bas du podium</rang>, @<personne>CharlieDalin</personne> nouveau <rang>leader</rang> mais rien n’est encore joué #<course>VG2020</course>

@@ -1,0 +1,12 @@
+T1	personne 7 23	Pierre Leboucher
+T2	course 38 47	Solitaire
+T3	course 95 110	LaSolitaire_52e
+T4	organisation 77 93	Marine Nationale
+T5	categorie 64 70	navire
+T6	rang 25 31	leader
+R1	classement Arg1:T1 Arg2:T6	
+T7	emotion 7 47	Pierre Leboucher, leader de La Solitaire
+A1	emotion T7 Positif
+T8	emotion 49 93	dérouté par un navire de la Marine Nationale
+A2	emotion T8 Negatif
+T9	incident 49 56	dérouté

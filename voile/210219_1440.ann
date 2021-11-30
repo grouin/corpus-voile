@@ -1,0 +1,10 @@
+T1	bateau 3 9	Phocéa
+T2	bateau 14 31	Club Méditerranée
+T3	lieu 64 72	Malaisie
+T4	incident 74 82	naufrage
+T5	incident 35 40	coulé
+T6	incident 52 60	incendie
+R1	localisation Arg1:T4 Arg2:T3	
+R2	localisation Arg1:T6 Arg2:T3	
+T7	emotion 0 72	Le Phocéa, ex-Club Méditerranée, a coulé après son #incendie en Malaisie
+A1	emotion T7 Negatif

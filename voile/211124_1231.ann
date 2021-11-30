@@ -1,0 +1,12 @@
+T1	course 7 28	Transat Jacques Vabre
+T2	course 101 120	TransatJacquesVabre
+T3	equipage 43 59	Banque Populaire
+T4	personne 62 78	Armel Le Cléac’h
+T5	rang 80 82	3e
+T6	lieu 85 99	Fort de France
+R1	skipper Arg1:T4 Arg2:T3	
+R2	classement Arg1:T4 Arg2:T5	
+R3	localisation Arg1:T4 Arg2:T6	
+T7	emotion 30 99	L’arrivée du Banque Populaire d’Armel Le Cléac’h, 3e à Fort de France
+A1	emotion T7 Positif
+#1	AnnotatorNotes T7	Sur le podium, donc positif

@@ -1,0 +1,7 @@
+T1	personne 0 11	Yann Quenet
+T2	type 24 37	tour du monde
+T3	categorie 52 59	voilier
+T4	taille 63 71	4 mètres
+T5	lieu 84 98	Afrique du Sud
+T6	emotion 0 98	Yann Quenet reprend son tour du monde à bord de son voilier de 4 mètres : cap sur l’Afrique du Sud
+A1	emotion T6 Positif

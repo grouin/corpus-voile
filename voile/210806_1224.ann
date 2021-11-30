@@ -1,0 +1,6 @@
+T1	personne 11 25	Jean-Marc Roué
+T2	organisation 70 78	Brittany
+T3	categorie 56 63	ferries
+T4	technique 41 47	voiles
+T5	emotion 30 98	Mettre des voiles sur nos ferries de la Brittany serait sans intérêt
+A1	emotion T5 Negatif

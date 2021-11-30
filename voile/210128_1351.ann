@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	personne 15 30	GiancarloPedote
+T3	course 71 77	VG2020
+T4	rang 31 39	septième
+R1	classement Arg1:T2 Arg2:T4	
+T5	emotion 14 69	@GiancarloPedote septième à franchir la ligne d’arrivée
+A1	emotion T5 Positif

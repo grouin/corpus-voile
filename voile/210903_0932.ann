@@ -1,0 +1,7 @@
+T1	vitesse 22 30	100 km/h
+T2	course 49 55	SailGP
+T3	course 83 89	SailGP
+T4	lieu 67 79	Saint-Tropez
+#1	AnnotatorNotes T2	compétition, plusieurs régates
+T5	emotion 7 81	Des voiliers à 100 km/h en course : voici SailGP, bientôt à Saint-Tropez !
+A1	emotion T5 Positif

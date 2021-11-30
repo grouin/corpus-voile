@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. Le <categorie>trimaran</categorie> de <personne>Coville</personne> et <personne>Rouxel</personne> est reparti, <incident>avarie de safran</incident> sur un <voilier>Class40</voilier> @<course>TransatJV</course> @<equipage>Sodebo_Voile</equipage>

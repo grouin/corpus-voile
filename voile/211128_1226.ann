@@ -1,0 +1,6 @@
+T1	meteo 3 16	tempête Arwen
+T2	lieu 35 41	France
+T3	date 42 48	samedi
+T4	lieu 62 86	Nord-Est de l'Angleterre
+T5	emotion 88 109	c'était pire encore !
+A1	emotion T5 Negatif

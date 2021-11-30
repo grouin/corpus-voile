@@ -1,0 +1,7 @@
+T1	lieu 22 35	Saint-Vincent
+T2	incident 0 19	Éruption du #Volcan
+T3	categorie 70 77	voilier
+T4	emotion 0 36	Éruption du #Volcan à Saint-Vincent.
+A1	emotion T4 Negatif
+T5	emotion 37 87	L’aide humanitaire acheminée par voilier sur l’île
+A2	emotion T5 Positif

@@ -1,0 +1,7 @@
+T1	course 0 6	SAILGP
+T2	course 104 110	SailGP
+T3	equipage 93 102	SailGPFRA
+T4	lieu 83 91	Bermudes
+T5	rang 46 53	seconds
+T6	emotion 9 91	Départ canon des Français : ils sont seconds du classement provisoire aux Bermudes
+A1	emotion T6 Negatif

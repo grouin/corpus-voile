@@ -1,0 +1,7 @@
+T1	fonction 81 90	sauveteur
+T2	incident 30 59	équipage anglais en perdition
+T3	pratique 10 24	hélitreuillage
+T4	emotion 30 59	équipage anglais en perdition
+A1	emotion T4 Negatif
+T5	emotion 10 24	hélitreuillage
+A2	emotion T5 Positif

@@ -1,0 +1,1 @@
+<technique>Wingfoil</technique>, <technique>windfoil</technique>, <voilier>ETF26</voilier> : Les <distinction>champions</distinction> du <technique>foil</technique> s’affrontent au <evenement>Grand Pavois de La Rochelle</evenement>

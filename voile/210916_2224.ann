@@ -1,0 +1,13 @@
+T1	course 0 19	Solitaire du Figaro
+T2	personne 22 37	pierreleboucher
+T3	personne 86 99	MacaireXavier
+T4	lieu 64 77	Saint-Nazaire
+T5	etape 47 61	dernière étape
+T6	rang 38 43	gagne
+R1	classement Arg1:T2 Arg2:T6	
+R2	localisation Arg1:T2 Arg2:T4	
+T7	emotion 21 77	@pierreleboucher gagne la dernière étape à Saint-Nazaire
+A1	emotion T7 Positif
+T8	emotion 78 99	devant @MacaireXavier
+A2	emotion T8 Uncertain
+#1	AnnotatorNotes T8	positif pour Pierre Le Boucher, négatif pour Xavier Macaire

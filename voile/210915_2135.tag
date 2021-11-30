@@ -1,0 +1,1 @@
+Les <technique>plans porteurs</technique> sur les <technique>safrans</technique> des bateaux du <course>Vendée Globe</course>, son futur bateau, <personne>Louis Burton</personne>, les autres. Au <course>Défi Azimut</course>, nous avons pris les avis de <personne>Jérémie Beyou</personne>. Bien tranchés !

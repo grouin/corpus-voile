@@ -1,0 +1,11 @@
+T1	course 0 13	America’s Cup
+T2	personne 15 28	Peter Burling
+T3	fonction 30 37	barreur
+T4	equipage 41 57	Team New Zealand
+T5	course 96 107	americascup
+T6	course 109 120	AmericasCup
+T7	personne 122 133	peteburling
+T8	equipage 135 149	EmiratesTeamNZ
+R1	skipper Arg1:T2 Arg2:T4	
+T9	emotion 60 94	itinéraire d’un prodige cousu d’or
+A1	emotion T9 Positif

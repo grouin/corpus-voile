@@ -1,0 +1,4 @@
+T1	personne 0 20	Sébastien Destremeau
+T2	course 61 73	Vendée Globe
+T3	emotion 0 49	Sébastien Destremeau annonce qu'il jette l'éponge
+A1	emotion T3 Negatif

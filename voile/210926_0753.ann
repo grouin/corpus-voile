@@ -1,0 +1,10 @@
+T1	personne 18 34	Laurène Coroller
+T2	technique 89 94	foils
+T3	incident 46 55	chavirage
+T4	voilier 103 107	69 F
+T5	emotion 109 162	Mission réussie : aucun blessé, foiler ramené au port
+A1	emotion T5 Positif
+T6	emotion 46 63	chavirage compris
+A2	emotion T6 Negatif
+T7	emotion 70 94	nouvelles bombes à foils
+A3	emotion T7 Positif

@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	course 62 74	Vendée Globe
+T3	course 91 97	VG2020
+T4	equipage 37 45	madintec
+T5	technique 17 35	pilote automatique
+T6	emotion 14 89	Le pilote automatique @madintec a barré 99 % du Vendée Globe… et il a gagné
+A1	emotion T6 Uncertain

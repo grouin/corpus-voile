@@ -1,0 +1,6 @@
+T1	course 16 35	Solitaire du Figaro
+T2	vitesse 55 63	10 nœuds
+T3	course 97 112	LaSolitaire_52e
+T4	incident 36 52	heurte une bouée
+T5	emotion 0 95	Un bateau de la Solitaire du Figaro heurte une bouée à 10 nœuds : pas de blessé mais des dégâts
+A1	emotion T5 Negatif

@@ -1,0 +1,10 @@
+T1	course 0 12	Vendée Globe
+T2	personne 14 27	Charlie Dalin
+T3	equipage 29 35	Apivia
+T4	rang 37 44	premier
+T5	lieu 49 64	Sables-d’Olonne
+R1	classement Arg1:T2 Arg2:T4	
+R2	skipper Arg1:T2 Arg2:T3	
+R3	localisation Arg1:T2 Arg2:T5	
+T6	emotion 14 66	Charlie Dalin (Apivia) premier aux Sables-d’Olonne !
+A1	emotion T6 Positif

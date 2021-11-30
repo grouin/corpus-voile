@@ -1,0 +1,1 @@
+<course>America’s Cup</course>. <personne>Peter Burling</personne>, <fonction>barreur</fonction> de <equipage>Team New Zealand</equipage> : itinéraire d’un prodige cousu d’or @<course>americascup</course> #<course>AmericasCup</course> @<personne>peteburling</personne> @<equipage>EmiratesTeamNZ</equipage>

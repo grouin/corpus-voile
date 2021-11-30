@@ -1,0 +1,5 @@
+T1	categorie 18 32	trimaran géant
+T2	personne 36 51	François Gabart
+T3	vitesse 62 70	44 nœuds
+T4	emotion 7 89	Le nouveau trimaran géant de François Gabart navigue à 44 nœuds au-dessus de l’eau
+A1	emotion T4 Positif

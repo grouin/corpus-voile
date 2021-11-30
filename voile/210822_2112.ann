@@ -1,0 +1,6 @@
+T1	course 0 19	Solitaire du Figaro
+T2	meteo 56 71	vent irrégulier
+T3	emotion 53 93	un vent irrégulier pour la première nuit
+A1	emotion T3 Negatif
+T4	emotion 21 51	Coup d’envoi de la 52e édition
+A2	emotion T4 Positif

@@ -1,0 +1,9 @@
+T1	personne 7 23	Armel Le Cléac’h
+T2	personne 25 40	Clarisse Crémer
+T3	personne 42 60	Tanguy Le Turquais
+T4	voilier 66 74	Figaro 3
+T5	course 79 84	spiOF
+T6	voilier 86 101	ClasseFigaroben
+T7	emotion 7 84	Armel Le Cléac’h, Clarisse Crémer, Tanguy Le Turquais… Les Figaro 3 au @spiOF
+A1	emotion T7 Positif
+#1	AnnotatorNotes T7	Beaucoup de participants

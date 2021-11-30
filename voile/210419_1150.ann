@@ -1,0 +1,7 @@
+T1	vitesse 21 29	44 nœuds
+T2	rang 41 47	record
+T3	personne 53 69	Giovanni Soldini
+T4	lieu 76 84	Plymouth
+T5	lieu 88 99	La Rochelle
+T6	emotion 7 99	Des pointes à 44 nœuds : nouveau #record pour Giovanni Soldini entre Plymouth et La Rochelle
+A1	emotion T6 Positif

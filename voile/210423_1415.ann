@@ -1,0 +1,4 @@
+T1	meteo 3 23	super typhon Surigae
+T2	lieu 84 99	hémisphère Nord
+T3	emotion 0 99	Le super typhon Surigae est le plus puissant jamais observé si tôt en saison dans l’hémisphère Nord
+A1	emotion T3 Negatif

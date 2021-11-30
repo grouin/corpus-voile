@@ -1,0 +1,1 @@
+L'ancien <fonction>directeur technique</fonction> de <organisation>NKE</organisation>, <personne>Paul Fraisse</personne>, n'est pas pessimiste pour les <voilier>Ministes</voilier> ensevelis sous les cendres du volcan <lieu>canarien</lieu>, mais il leur conseille de bien checker leur électronique à fond avant de repartir.

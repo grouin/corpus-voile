@@ -1,0 +1,10 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 93 102	TransatJV
+T3	incident 23 54	Violente collision avec un Ofni
+T4	personne 60 74	Thomas Coville
+T5	personne 78 91	Thomas Rouxel
+T6	equipage 104 116	Sodebo_Voile
+R1	skipper Arg1:T5 Arg2:T6	
+R2	skipper Arg1:T4 Arg2:T6	
+T7	emotion 23 54	Violente collision avec un Ofni
+A1	emotion T7 Negatif

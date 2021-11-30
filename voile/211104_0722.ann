@@ -1,0 +1,12 @@
+T1	type 25 40	course au large
+T2	distinction 10 18	légendes
+T3	personne 42 56	Brian Thompson
+R1	attribut Arg1:T3 Arg2:T2	
+T4	course 70 83	Jacques Vabre
+T5	voilier 91 98	Class40
+T6	organisation 100 118	Voiles et Voiliers
+T7	lieu 136 141	Havre
+T8	emotion 0 99	L'une des légendes de la course au large, Brian Thompson, va faire la Jacques Vabre sur un Class40.
+A1	emotion T8 Positif
+R2	skipper Arg1:T3 Arg2:T5	
+R3	localisation Arg1:T3 Arg2:T7	

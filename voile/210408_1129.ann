@@ -1,0 +1,9 @@
+T1	categorie 14 19	cargo
+T2	bateau 20 37	Eemslift Hendrika
+T3	pratique 75 91	pris en remorque
+T4	incident 38 49	à la dérive
+T5	pratique 0 9	Sauvetage
+T6	emotion 11 74	Le cargo Eemslift Hendrika à la dérive qui menaçait de chavirer
+A1	emotion T6 Negatif
+T7	emotion 75 91	pris en remorque
+A2	emotion T7 Positif

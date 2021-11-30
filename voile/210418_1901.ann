@@ -1,0 +1,6 @@
+T1	course 0 13	Route de l'Or
+T2	personne 16 25	Ryan Finn
+T3	personne 49 64	Philippe Monnet
+T4	voilier 79 83	prao
+T5	taille 87 96	11 mètres
+R1	skipper Arg1:T2 Arg2:T4	

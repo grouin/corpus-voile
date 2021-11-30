@@ -1,0 +1,6 @@
+T1	personne 0 13	Damien Seguin
+T2	rang 45 52	sixième
+T3	course 62 74	Vendée Globe
+R1	classement Arg1:T1 Arg2:T2	
+T4	emotion 0 33	Damien Seguin a franchi la ligne.
+A1	emotion T4 Positif

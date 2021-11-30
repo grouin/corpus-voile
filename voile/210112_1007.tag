@@ -1,0 +1,1 @@
+VIDÉO. <course>Trophée Jules Verne</course>. Ambiance humide à bord du <categorie>maxi-trimaran volant</categorie> <equipage>Gitana 17</equipage> @<equipage>GitanaTeam</equipage> @<course>TJV_officiel</course>

@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	course 85 97	Vendée Globe
+T4	personne 15 27	kojiro_jpn11
+T5	course 99 105	vg2020
+T6	fonction 58 63	marin
+T3	emotion 14 38	@kojiro_jpn11 est arrivé
+A1	emotion T3 Positif

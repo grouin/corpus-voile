@@ -1,0 +1,6 @@
+T1	course 7 20	Jacques Vabre
+T2	fonction 27 35	skippers
+T3	lieu 70 100	au beau milieu de l’Atlantique
+T4	emotion 22 100	Deux skippers récupèrent une bâche de plastique au beau milieu de l’Atlantique
+A1	emotion T4 Positif
+#1	AnnotatorNotes T4	L'action est positive mais le fait de trouver une bâche est négatif

@@ -1,0 +1,9 @@
+T1	bateau 11 22	Moonbeam IV
+T2	bateau 31 40	Mariquita
+T3	lieu 43 48	Brest
+T4	lieu 92 100	Bretagne
+T5	categorie 71 77	yachts
+R1	localisation Arg1:T2 Arg2:T3	
+R2	localisation Arg1:T1 Arg2:T3	
+T6	emotion 51 100	les deux plus beaux yachts classiques en Bretagne
+A1	emotion T6 Positif

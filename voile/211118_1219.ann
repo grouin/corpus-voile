@@ -1,0 +1,10 @@
+T1	course 0 13	Route du Rhum
+T2	personne 15 31	Corentin Douguet
+T3	organisation 53 69	Groupe Quéguiner
+T4	voilier 86 93	Class40
+T5	personne 95 110	corentindouguet
+T6	organisation 112 127	GroupeQueguiner
+T7	voilier 129 140	AssoClass40
+R1	skipper Arg1:T2 Arg2:T4	
+T8	emotion 15 93	Corentin Douguet sous les couleurs de Groupe Quéguiner avec un nouveau Class40
+A1	emotion T8 Positif

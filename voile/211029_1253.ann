@@ -1,0 +1,6 @@
+T1	personne 0 5	Julia
+T2	personne 9 15	Jeanne
+T3	course 31 44	Jacques Vabre
+T4	personne 89 97	Courtois
+T5	emotion 0 44	Julia et Jeanne partent sur la Jacques Vabre
+A1	emotion T5 Positif

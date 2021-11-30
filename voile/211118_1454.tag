@@ -1,0 +1,1 @@
+VIDÉO. <course>Jacques Vabre</course>. <personne>Christopher Pratt</personne> raconte le match <equipage>Charal</equipage>/<equipage>Apivia</equipage>/<equipage>Linkedout</equipage> dans le <lieu>pot au noir</lieu>

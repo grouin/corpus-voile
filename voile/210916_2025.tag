@@ -1,0 +1,1 @@
+<course>Défi Azimut</course>. <personne>Charlie Dalin</personne> et <personne>Paul Meilhat</personne> @<personne>ApiviaVoile</personne> <distinction>en pointe</distinction> de la grande course des @<voilier>ImocaGS</voilier>

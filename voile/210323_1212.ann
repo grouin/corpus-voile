@@ -1,0 +1,8 @@
+T1	categorie 0 5	Ultim
+T3	equipage 29 48	Banque Populaire XI
+T4	categorie 59 74	trimaran volant
+T5	personne 77 93	Armel Le Cléac’h
+T6	equipage 95 109	VoileBanquePop
+R1	skipper Arg1:T5 Arg2:T3	
+R2	skipper Arg1:T5 Arg2:T4	
+T2	categorie 24 28	Maxi

@@ -1,0 +1,14 @@
+T1	equipage 0 5	Corum
+T2	rang 35 46	6e position
+T3	voilier 56 61	Imoca
+T4	technique 128 134	foiler
+T5	personne 146 160	Frédéric Puzin
+T6	fonction 162 169	sponsor
+T7	fonction 173 181	régatier
+T8	organisation 206 224	Voiles et Voiliers
+T9	date 18 31	dimanche soir
+T10	emotion 0 61	Corum est remonté dimanche soir en 6e position chez les Imoca
+A1	emotion T10 Positif
+T11	distinction 182 188	réputé
+T12	emotion 97 102	déçus
+A2	emotion T12 Negatif

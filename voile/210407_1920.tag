@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. <personne>Antoine Mermod</personne>, <fonction>président</fonction> de l’<categorie>Imoca</categorie> : « Nous allons limiter la taille du <technique>foil</technique>… » @<categorie>ImocaGS</categorie> #<course>VG2024</course>

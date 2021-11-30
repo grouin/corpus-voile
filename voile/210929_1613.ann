@@ -1,0 +1,9 @@
+T1	fonction 3 10	skipper
+T2	personne 11 23	Tom Laperche
+T3	distinction 30 48	champion de France
+T4	type 52 67	course au large
+T5	age 71 77	24 ans
+R1	attribut Arg1:T2 Arg2:T5	
+R2	attribut Arg1:T2 Arg2:T3	
+T6	emotion 0 78	Le skipper Tom Laperche sacré champion de France de course au large, à 24 ans…
+A1	emotion T6 Positif

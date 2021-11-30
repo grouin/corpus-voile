@@ -1,0 +1,1 @@
+<course>SailGP</course>. <personne>Quentin Delapierre</personne>, sur sa <distinction>première compétition</distinction> en <voilier>F50</voilier> : « une mise en jambes violente ! » @<course>SailGPFRA</course>

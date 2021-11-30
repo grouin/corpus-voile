@@ -1,0 +1,10 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 89 101	TransatJV_fr
+T3	personne 24 33	YBourgnon
+T4	personne 47 59	lamiregilles
+T5	incident 79 87	naufrage
+T6	emotion 23 59	@YBourgnon repart avec @lamiregilles
+A1	emotion T6 Neutre
+T7	emotion 79 87	naufrage
+A2	emotion T7 Negatif
+T8	duree 60 73	six ans après

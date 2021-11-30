@@ -1,0 +1,1 @@
+Le <etape>départ</etape> de la @<course>TransatJV</course> est aussi l'occasion de rendre hommage à <personne>Paul Vatine</personne>, <incident>disparu</incident> lors de la <course>Route du Café</course> <date>1999</date>.

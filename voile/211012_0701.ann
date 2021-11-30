@@ -1,0 +1,15 @@
+T1	categorie 25 30	cargo
+T2	bateau 32 37	Trudy
+T3	lieu 73 82	Dunkerque
+T4	date 93 97	2/10
+T5	date 184 200	dimanche à lundi
+T6	incident 154 167	a été attaqué
+T7	incident 202 257	Un commando armé a pris en otage les membres d'équipage
+T8	emotion 154 167	a été attaqué
+A1	emotion T8 Negatif
+T9	emotion 202 257	Un commando armé a pris en otage les membres d'équipage
+A2	emotion T9 Negatif
+T10	emotion 107 152	saisie de plus d'une tonne de #cocaïne à bord
+A3	emotion T10 Positif
+#1	AnnotatorNotes T10	positif du point de vue des politiques publiques
+R1	localisation Arg1:T2 Arg2:T3	

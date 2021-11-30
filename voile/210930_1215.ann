@@ -1,0 +1,11 @@
+T1	voilier 0 5	ULTIM
+T2	bateau 15 35	Edmond de Rothschild
+T3	incident 36 52	a heurté un OFNI
+T4	bateau 54 73	Banque Populaire XI
+T5	technique 91 97	dérive
+T6	incident 79 87	problème
+T7	voilier 10 14	Maxi
+T8	emotion 7 52	Le Maxi Edmond de Rothschild a heurté un OFNI
+T9	emotion 54 97	Banque Populaire XI a un problème de dérive
+A1	emotion T9 Negatif
+A2	emotion T8 Negatif

@@ -1,0 +1,12 @@
+T1	course 0 12	Vendée Globe
+T2	personne 15 30	YannickBestaven
+T3	personne 50 62	CharlieDalin
+T4	rang 71 77	leader
+T5	course 107 113	VG2020
+T6	rang 31 47	en bas du podium
+R1	classement Arg1:T2 Arg2:T6	
+R2	classement Arg1:T3 Arg2:T4	
+T7	emotion 14 47	@YannickBestaven en bas du podium
+A1	emotion T7 Negatif
+T8	emotion 49 77	@CharlieDalin nouveau leader
+A2	emotion T8 Positif

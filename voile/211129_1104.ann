@@ -1,0 +1,8 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 95 114	TransatJacquesVabre
+T3	personne 23 41	Antoine Carpentier
+T4	rang 43 49	leader
+T5	voilier 53 60	Class40
+R1	classement Arg1:T3 Arg2:T4	
+T6	emotion 65 91	C’est dur pour les nerfs !
+A1	emotion T6 Negatif

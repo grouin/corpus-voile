@@ -1,0 +1,5 @@
+T1	vitesse 0 10	38,1 nœuds
+T2	taille 28 36	8 mètres
+T3	lieu 44 61	baie de Pornichet
+T4	emotion 41 97	La baie de Pornichet a défilé à une vitesse hallucinante
+A1	emotion T4 Positif

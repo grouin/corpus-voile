@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. <incident>Avarie majeure</incident> pour <equipage>Crédit Mutuel</equipage> : un <incident>choc avec un OFNI</incident> abîme la <technique>quille</technique> #<course>transatjacquesvabre</course>

@@ -1,0 +1,7 @@
+T1	lieu 33 44	Aber-Wrac’h
+T2	duree 51 56	6 ans
+T3	bateau 11 17	Maewan
+T4	categorie 3 10	voilier
+T5	emotion 0 99	Le voilier Maewan est revenu à l’Aber-Wrac’h après 6 ans d’expéditions océaniques environnementales
+A1	emotion T5 Positif
+R1	localisation Arg1:T3 Arg2:T1	

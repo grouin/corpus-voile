@@ -1,0 +1,8 @@
+T1	course 7 28	Transat Jacques Vabre
+T2	course 100 119	TransatJacquesVabre
+T3	meteo 92 98	alizés
+T4	equipage 47 62	Corum L’Épargne
+T5	voilier 41 46	IMOCA
+T6	categorie 33 40	voilier
+T7	emotion 84 98	grain d’alizés
+A1	emotion T7 Negatif

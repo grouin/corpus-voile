@@ -1,0 +1,8 @@
+T1	incident 21 41	coule en dix minutes
+T2	lieu 44 57	Perros-Guirec
+T3	incident 0 8	Naufrage
+T4	fonction 64 76	plaisanciers
+T5	emotion 59 83	sept plaisanciers sauvés
+A1	emotion T5 Positif
+T6	emotion 0 57	Naufrage. Un voilier coule en dix minutes à Perros-Guirec
+A2	emotion T6 Negatif

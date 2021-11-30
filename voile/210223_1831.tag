@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. <personne>Sam Davies</personne> : «  Je suis fière de ramener <equipage>Initiatives Cœur</equipage> aux <lieu>Sables-d’Olonne</lieu> » @<equipage>initiativecoeur</equipage> @<personne>samanthadavies</personne> #<course>VG2020</course>

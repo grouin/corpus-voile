@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. Le Dr <personne>Chauve</personne> salue le courage d’<personne>Alexia Barrier</personne> blessée au dos : « C’est le sexe fort » #<course>VG2020</course> @<personne>Alexia_Barrier</personne>

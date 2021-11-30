@@ -1,0 +1,6 @@
+T1	date 121 129	vendredi
+T2	lieu 166 172	Brésil
+T3	lieu 202 211	Dunkerque
+T4	categorie 142 148	bateau
+T5	emotion 22 148	Plus d'une tonne de #cocaïne, d'une valeur de plusieurs dizaines de millions d'euros, a été saisie vendredi à bord d'un bateau
+A1	emotion T5 Positif

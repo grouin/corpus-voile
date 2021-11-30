@@ -1,0 +1,7 @@
+T1	categorie 0 8	Dériveur
+T2	voilier 13 16	470
+T3	personne 33 50	Camille Lecointre
+T4	personne 54 66	Jérémie Mion
+T5	evenement 85 96	JO de Paris
+T6	emotion 10 96	Le 470 devient mixte : Camille Lecointre et Jérémie Mion ensemble pour les JO de Paris
+A1	emotion T6 Positif

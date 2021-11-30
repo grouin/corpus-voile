@@ -1,0 +1,1 @@
+Un <voilier>Super Arlequin</voilier> c'est fidèle et ça sert à tout, même à emmener un <fonction>conférencier</fonction> à la <evenement>COP26</evenement> de <lieu>Glasgow</lieu> ! Et vu que le dit <fonction>conférencier</fonction> est à vélo, il n'aura pas à rougir de son bilan carbone à la <evenement>Conférence mondiale sur le climat</evenement>.

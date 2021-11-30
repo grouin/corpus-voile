@@ -1,0 +1,1 @@
+La <course>Mini-Transat 2021</course> est terminée. Son <fonction>directeur de course</fonction>, <personne>Denis Hugues</personne>, fait le bilan de cette 23e édition avec <personne>Serge Messager</personne>.

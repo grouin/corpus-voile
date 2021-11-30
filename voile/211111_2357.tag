@@ -1,0 +1,1 @@
+VIDÉO. <course>Transat Jacques Vabre</course> : <personne>Thomas Coville</personne> raconte sa <incident>collision avec un Ofni</incident>, pas sûr de repartir @<course>TransatJV</course> @<equipage>Sodebo_Voile</equipage>

@@ -1,0 +1,5 @@
+T1	incident 18 40	portés disparus en mer
+T2	lieu 53 60	Tréport
+T3	fonction 5 17	plaisanciers
+T4	emotion 0 60	Deux plaisanciers portés disparus en mer au large du Tréport
+A1	emotion T4 Negatif

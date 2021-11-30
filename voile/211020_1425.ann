@@ -1,0 +1,7 @@
+T1	meteo 0 14	Tempête Aurore
+T2	meteo 16 31	Rafales de vent
+T3	vitesse 34 42	60 nœuds
+T4	taille 55 63	6 mètres
+T5	meteo 46 51	creux
+T6	emotion 0 70	Tempête Aurore. Rafales de vent à 60 nœuds et creux de 6 mètres en mer
+A1	emotion T6 Negatif

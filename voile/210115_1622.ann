@@ -1,0 +1,9 @@
+T1	course 0 19	Trophée Jules Verne
+T2	categorie 24 28	Maxi
+T3	bateau 29 49	Edmond de Rothschild
+T4	lieu 62 70	équateur
+T5	duree 74 94	5 jours et 13 heures
+R1	localisation Arg1:T3 Arg2:T4	
+T6	emotion 21 94	Le Maxi Edmond de Rothschild a franchi l’équateur en 5 jours et 13 heures
+A1	emotion T6 Positif
+#1	AnnotatorNotes T6	bon temps

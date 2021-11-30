@@ -1,0 +1,9 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 88 107	TransatJacquesVabre
+T3	lieu 52 66	Fort de France
+T4	personne 23 36	Marie Tabarly
+T5	personne 40 49	Louis Duc
+T6	emotion 69 86	la belle histoire
+A1	emotion T6 Positif
+R1	localisation Arg1:T4 Arg2:T3	
+R2	localisation Arg1:T5 Arg2:T3	

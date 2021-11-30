@@ -1,0 +1,7 @@
+T1	personne 12 24	FrancisJoyon
+T2	age 42 48	65 ans
+R1	attribut Arg1:T1 Arg2:T2	
+T3	emotion 53 84	Je ne suis pas sevré d’aventure
+T4	emotion 12 48	FrancisJoyon reprend la mer à 65 ans
+A1	emotion T4 Positif
+A2	emotion T3 Positif

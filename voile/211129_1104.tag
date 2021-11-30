@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. <personne>Antoine Carpentier</personne>, <rang>leader</rang> en <voilier>Class40</voilier> : « C’est dur pour les nerfs ! » #<course>TransatJacquesVabre</course>

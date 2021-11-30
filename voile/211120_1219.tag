@@ -1,0 +1,1 @@
+Dur, dur, pour <personne>Kito de Pavant</personne>. Le <incident><technique>bout dehors</technique> qui explose</incident> et l'abandon, d'abord. Et maintenant, son <incident><fonction>co skipper</fonction> blessé</incident> et la <meteo>pétole</meteo> qui a emprisonné le duo au <lieu>milieu de l'Atlantique</lieu> : nouvelle confirmation que les emmerd..., ça vole en escadrille !

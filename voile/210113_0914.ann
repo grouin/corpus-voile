@@ -1,0 +1,7 @@
+T1	course 7 19	Vendée Globe
+T2	course 99 105	VG2020
+T3	personne 49 64	RomainAttanasio
+T4	meteo 21 31	Grosse mer
+T5	meteo 73 97	violent passage de front
+T6	emotion 21 97	Grosse mer et frayeur pour @RomainAttanasio dans un violent passage de front
+A1	emotion T6 Negatif

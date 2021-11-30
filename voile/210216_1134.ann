@@ -1,0 +1,11 @@
+T1	course 0 12	Vendée Globe
+T2	personne 14 28	Clément Giraud
+T3	type 41 54	tour du monde
+T4	rang 64 67	21e
+T5	lieu 72 87	Sables-d’Olonne
+T6	personne 101 113	GiraudVendee
+T7	course 115 121	VG2020
+R1	classement Arg1:T2 Arg2:T4	
+R2	localisation Arg1:T2 Arg2:T5	
+T8	emotion 14 56	Clément Giraud a bouclé le tour du monde !
+A1	emotion T8 Positif

@@ -1,0 +1,1 @@
+VIDÉO. <course>Solitaire du Figaro</course>. <incident>Échouée</incident> <date>jeudi</date>, repartie <date>dimanche</date>, <personne>Charlotte Yven</personne> des larmes aux rires @<course>LaSolitaire_52e</course>

@@ -1,0 +1,1 @@
+<personne>Martin Le Pape</personne> va partir sur la <course>Jacques Vabre</course> <type>en duo</type> avec <personne>Giancarlo Pedote</personne>. Puis il y aura le <voilier>Class40</voilier>, et puis son rêve de faire le <course>Vendée Globe 2024</course>. <type>En solitaire</type>.

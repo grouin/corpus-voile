@@ -1,0 +1,7 @@
+T1	lieu 31 46	rail d’Ouessant
+T2	lieu 74 79	Brest
+T3	incident 0 22	Sept containers perdus
+T4	emotion 0 22	Sept containers perdus
+A1	emotion T4 Negatif
+T5	organisation 51 70	Préfecture maritime
+R1	localisation Arg1:T3 Arg2:T1	

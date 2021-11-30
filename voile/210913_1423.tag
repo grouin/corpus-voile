@@ -1,0 +1,1 @@
+<course>Solitaire du Figaro</course>. <personne>Tom Dolan</personne> <rang>en tête</rang>, mais <personne>Xavier Macaire</personne> met la pression avec « un bon coup » @<course>LaSolitaire_52e</course>

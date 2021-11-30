@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. Des précisions concernant l’<incident>avarie</incident> sur le <equipage>foil</equipage> de <equipage>Sodebo</equipage>, et la réparation @<course>TransatJV</course> @<equipage>Sodebo_Voile</equipage>

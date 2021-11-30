@@ -1,0 +1,1 @@
+Des <distinction>amateurs</distinction> qui viennent se frotter aux <distinction>cadors</distinction> de la <type>course au large</type>, c'est ça aussi l'" esprit de la <course>Jacques Vabre</course> ".

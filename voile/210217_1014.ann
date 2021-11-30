@@ -1,0 +1,7 @@
+T1	course 0 13	America’s Cup
+T2	type 20 27	régates
+T3	lieu 78 86	Auckland
+T4	course 90 101	americascup
+T5	incident 54 59	Covid
+T6	emotion 51 88	Le Covid sème la zizanie à Auckland !
+A1	emotion T6 Negatif

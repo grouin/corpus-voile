@@ -1,0 +1,5 @@
+T1	personne 40 54	Boris Herrmann
+T2	categorie 9 18	chalutier
+T3	incident 70 79	collision
+T4	emotion 0 79	C'est un chalutier espagnol avec lequel Boris Herrmann était entré en collision
+A1	emotion T4 Negatif

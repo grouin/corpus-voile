@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. @<personne>CharlieDalin</personne> <rang>mène la danse</rang>, @<personne>LouisBurtonOff</personne> est passé devant @<personne>YannickBestaven</personne> le point et les mots des marins #<course>VG2020</course>

@@ -1,0 +1,11 @@
+T1	course 0 18	Rolex Fastnet Race
+T2	incident 20 28	Démâtage
+T3	equipage 32 52	Project Rescue Ocean
+T4	voilier 79 86	Class40
+T5	organisation 101 116	RolexFastnet_Ch
+T6	voilier 88 99	AssoClass40
+T7	rang 54 61	premier
+T8	emotion 20 52	Démâtage de Project Rescue Ocean
+A1	emotion T8 Negatif
+T9	emotion 54 86	premier de la flotte des Class40
+A2	emotion T9 Positif

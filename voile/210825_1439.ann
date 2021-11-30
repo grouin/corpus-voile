@@ -1,0 +1,5 @@
+T1	lieu 74 84	Biscarosse
+T2	incident 45 61	accident d’avion
+T3	emotion 34 61	dramatique accident d’avion
+A1	emotion T3 Negatif
+T4	organisation 4 18	secours en mer

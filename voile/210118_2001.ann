@@ -1,0 +1,9 @@
+T1	course 7 26	Trophée Jules Verne
+T2	categorie 46 50	Maxi
+T3	bateau 51 71	Edmond de Rothschild
+T4	vitesse 89 97	37 nœuds
+T5	equipage 99 109	GitanaTeam
+T6	course 111 123	TJV_officiel
+T7	emotion 28 97	Décollage pour le Maxi Edmond de Rothschild en vol à plus de 37 nœuds
+A1	emotion T7 Positif
+#1	AnnotatorNotes T3	Nom du bateau, porté par l'équipage Gitana

@@ -1,0 +1,1 @@
+<course>Trophée Jules Verne</course>. Déjà au <lieu>Cap Vert</lieu>, le <categorie>trimaran</categorie> volant <equipage>Gitana 17</equipage> accélère à <vitesse>34 nœuds</vitesse> (+ vidéo) @<course>TJV_officiel</course> @<equipage>GitanaTeam</equipage>

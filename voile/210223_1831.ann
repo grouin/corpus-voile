@@ -1,0 +1,11 @@
+T1	course 0 12	Vendée Globe
+T2	personne 14 24	Sam Davies
+T3	equipage 55 71	Initiatives Cœur
+T4	lieu 76 91	Sables-d’Olonne
+T5	equipage 95 110	initiativecoeur
+T6	personne 112 126	samanthadavies
+T7	course 128 134	VG2020
+R1	localisation Arg1:T3 Arg2:T4	
+R2	localisation Arg1:T2 Arg2:T4	
+T8	emotion 30 91	Je suis fière de ramener Initiatives Cœur aux Sables-d’Olonne
+A1	emotion T8 Positif

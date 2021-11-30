@@ -1,0 +1,7 @@
+T1	lieu 0 10	La Réunion
+T2	lieu 15 29	Afrique du Sud
+T3	categorie 37 44	voilier
+T4	taille 48 56	4 mètres
+T5	personne 59 70	Yann Quenet
+T6	emotion 59 179	Yann Quenet continue de tout oser sur les océans et il raconte son odyssée avec une simplicité décidemment déconcertante
+A1	emotion T6 Positif

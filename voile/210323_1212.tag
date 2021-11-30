@@ -1,0 +1,1 @@
+<categorie>Ultim</categorie>. Visite guidée du <categorie>Maxi</categorie> <equipage>Banque Populaire XI</equipage>, le futur <categorie>trimaran volant</categorie> d’<personne>Armel Le Cléac’h</personne> @<equipage>VoileBanquePop</equipage>

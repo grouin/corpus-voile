@@ -1,0 +1,7 @@
+T1	course 7 28	Transat Jacques Vabre
+T2	equipage 43 57	SVR-Lazartigue
+T3	personne 61 76	François Gabart
+R1	skipper Arg1:T3 Arg2:T2	
+T4	emotion 30 76	L’arrivée du SVR-Lazartigue de François Gabart
+A1	emotion T4 Neutre
+#1	AnnotatorNotes T4	Informationnel

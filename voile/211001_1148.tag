@@ -1,0 +1,1 @@
+<pratique>Remorquage</pratique> réussi par <personne>Adrien Hardy</personne> : le <categorie>voilier</categorie> <incident>démâté</incident> sur la <course>Mini Transat</course> est arrivé à <lieu>Lorient</lieu> @<course>MiniTransat2021</course>

@@ -1,0 +1,8 @@
+T1	course 0 19	Solitaire du Figaro
+T2	rang 24 30	leader
+T3	personne 31 45	Xavier Macaire
+T4	course 89 104	LaSolitaire_52e
+R1	classement Arg1:T3 Arg2:T2	
+T5	emotion 21 87	Le leader Xavier Macaire a été obligé de plonger sous son bateau !
+A1	emotion T5 Negatif
+#1	AnnotatorNotes T5	Négatif car perte de temps

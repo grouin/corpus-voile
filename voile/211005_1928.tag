@@ -1,0 +1,1 @@
+INFO - #FaitsDivers : Plus d'une tonne de #cocaïne, d'une valeur de plusieurs dizaines de millions d'euros, a été saisie <date>vendredi</date> à bord d'un <categorie>bateau</categorie> en provenance du <lieu>Brésil</lieu> et détourné vers le port de #<lieu>Dunkerque</lieu> (source policière).

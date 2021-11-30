@@ -1,0 +1,7 @@
+T1	course 0 12	Mini-Transat
+T2	personne 14 26	Denis Hugues
+T3	fonction 28 47	directeur de course
+T4	etape 87 97	1ère étape
+T5	emotion 52 97	Hors de question de neutraliser la 1ère étape
+A1	emotion T5 Uncertain
+#1	AnnotatorNotes T5	absence de décision qui peut-être préjudiciable en raison de l'arrivée de la tempête

@@ -1,0 +1,6 @@
+T1	course 0 13	America’s Cup
+T2	incident 18 27	chavirage
+T3	equipage 30 44	American Magic
+T4	course 73 82	Prada Cup
+T5	emotion 15 44	Le chavirage d’American Magic
+A1	emotion T5 Negatif

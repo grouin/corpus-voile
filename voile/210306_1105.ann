@@ -1,0 +1,9 @@
+T1	course 0 12	Vendée Globe
+T2	course 87 98	VendeeGlobe
+T3	course 100 111	VendeeGlobe
+T4	personne 113 125	JeremieBeyou
+T5	personne 37 50	Jérémie Beyou
+T6	type 21 34	tour du monde
+T7	emotion 37 85	Jérémie Beyou a perdu 10 kilos pendant la course
+A1	emotion T7 Positif
+#1	AnnotatorNotes T7	a priori positif

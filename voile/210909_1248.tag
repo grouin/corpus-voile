@@ -1,0 +1,1 @@
+<course>Solitaire du Figaro</course>. <personne>Pierre Quiroga</personne> <rang>gagne</rang> la <etape>troisième étape</etape> à <lieu>Roscoff</lieu>, au bout de la galère @<course>LaSolitaire_52e</course>

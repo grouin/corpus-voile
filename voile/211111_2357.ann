@@ -1,0 +1,10 @@
+T1	course 7 28	Transat Jacques Vabre
+T2	personne 31 45	Thomas Coville
+T3	incident 57 79	collision avec un Ofni
+T4	course 102 111	TransatJV
+T5	equipage 113 125	Sodebo_Voile
+T6	emotion 57 79	collision avec un Ofni
+A1	emotion T6 Negatif
+T7	emotion 81 100	pas sûr de repartir
+A2	emotion T7 Negatif
+R1	skipper Arg1:T2 Arg2:T5	

@@ -1,0 +1,1 @@
+<personne>Fabio Muzzolini</personne> arrive <rang>deuxième</rang> à La <lieu>Guadeloupe</lieu> chez les <voilier>Proto</voilier> et félicite le <rang>premier</rang>, <personne>Pierre Le Roy</personne>. La classe !

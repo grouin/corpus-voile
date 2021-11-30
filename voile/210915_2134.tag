@@ -1,0 +1,1 @@
+Ils vont partir pour un <type>tour du monde à l'envers</type>, contre <meteo>vents</meteo> et <meteo>courants dominants</meteo>, en <categorie>multicoque</categorie> ! Une aventure si extrême que personne ne l'a jamais réussie. <duree>Quatre mois</duree> de lutte extrême en perspective !

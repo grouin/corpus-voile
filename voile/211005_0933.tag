@@ -1,0 +1,1 @@
+<course>Mini Transat</course>. <incident>Avaries</incident> pour <personne>Basile Bourgnon</personne> et <personne>Victor d’Ersu</personne> qui se déroutent, <personne>Irina Gracheva</personne> <rang>4e</rang>

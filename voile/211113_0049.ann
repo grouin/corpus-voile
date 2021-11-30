@@ -1,0 +1,7 @@
+T1	course 0 12	Mini-Transat
+T2	course 100 115	MiniTransat2021
+T3	personne 15 28	Pierre Le Roy
+T4	rang 30 37	premier
+R1	classement Arg1:T3 Arg2:T4	
+T5	emotion 15 59	Pierre Le Roy, premier au classement général
+A1	emotion T5 Positif

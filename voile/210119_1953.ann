@@ -1,0 +1,5 @@
+T1	course 7 19	Vendée Globe
+T2	personne 22 37	YannickBestaven
+T3	lieu 66 77	pot au noir
+T4	course 79 85	VG2020
+R1	localisation Arg1:T2 Arg2:T3	

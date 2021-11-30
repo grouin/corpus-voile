@@ -1,0 +1,14 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 102 111	TransatJV
+T3	equipage 113 125	Sodebo_Voile
+T4	categorie 26 34	trimaran
+T5	personne 38 45	Coville
+T6	personne 49 55	Rouxel
+T7	voilier 93 100	Class40
+T8	incident 69 85	avarie de safran
+T9	emotion 69 85	avarie de safran
+A1	emotion T9 Negatif
+T10	emotion 23 67	Le trimaran de Coville et Rouxel est reparti
+A2	emotion T10 Positif
+R1	skipper Arg1:T6 Arg2:T3	
+R2	skipper Arg1:T5 Arg2:T3	

@@ -1,0 +1,8 @@
+T1	course 0 12	Vendée Globe
+T2	technique 24 30	quille
+T3	personne 36 49	Manuel Cousin
+T4	equipage 54 66	Groupe Sétin
+R1	skipper Arg1:T3 Arg2:T4	
+T5	incident 14 20	Avarie
+T6	emotion 14 66	Avarie de quille pour Manuel Cousin sur Groupe Sétin
+A1	emotion T6 Negatif

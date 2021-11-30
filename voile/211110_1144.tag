@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. Le <categorie>trimaran</categorie> de <personne>Le Cléac’h</personne> et <personne>Escoffier</personne> a « <incident>tapé un petit truc</incident> » à <vitesse>35 nœuds</vitesse> #<course>transatjacquesvabre2021</course>

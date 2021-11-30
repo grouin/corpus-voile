@@ -1,0 +1,9 @@
+T1	incident 20 37	attaques d’orques
+T2	meteo 39 51	coup de vent
+T3	incident 53 62	naufrages
+T4	course 68 80	Mini Transat
+T5	incident 0 18	Volcan en éruption
+T6	emotion 65 96	la Mini Transat déjà légendaire
+A1	emotion T6 Positif
+T7	emotion 0 62	Volcan en éruption, attaques d’orques, coup de vent, naufrages
+A2	emotion T7 Negatif

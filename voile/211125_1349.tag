@@ -1,0 +1,1 @@
+VIDÉO. <course>Transat Jacques Vabre</course>. Le <categorie>voilier</categorie> <voilier>IMOCA</voilier> <equipage>Corum L’Épargne</equipage> lancé à fond dans un grain d’<meteo>alizés</meteo> #<course>TransatJacquesVabre</course>

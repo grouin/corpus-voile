@@ -1,0 +1,1 @@
+VIDÉO. Une navigation à plus de <vitesse>44 nœuds</vitesse> sur #<voilier>SodeboUltim3</voilier> à <duree>30 jours</duree> de la <course>Transat Jacques Vabre</course> @<equipage>Sodebo_Voile</equipage>

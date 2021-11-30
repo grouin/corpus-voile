@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. <personne>Louis Burton</personne> rachète <bateau>L’Occitane en Provence</bateau> d’<personne>Armel Tripon</personne> qui devient <bateau>Bureau Vallée 3</bateau> #<course>VG2020</course> @<organisation>bureauvallee</organisation> @<personne>LouisBurtonOff</personne>

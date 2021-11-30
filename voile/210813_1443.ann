@@ -1,0 +1,8 @@
+T1	course 7 20	Rolex Fastnet
+T2	personne 63 76	Alexis Loison
+T3	voilier 80 84	IRC3
+T4	rang 49 57	victoire
+R1	classement Arg1:T2 Arg2:T4	
+T5	organisation 86 101	RolexFastnet_Ch
+T6	emotion 22 84	Incroyable ! Une cinquième victoire pour Alexis Loison en IRC3
+A1	emotion T6 Positif

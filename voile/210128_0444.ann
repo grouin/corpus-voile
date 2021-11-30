@@ -1,0 +1,8 @@
+T1	course 0 12	Vendée Globe
+T2	personne 14 26	Louis Burton
+T3	course 76 82	VG2020
+T4	personne 84 98	LouisBurtonOff
+T5	rang 44 50	podium
+R1	classement Arg1:T2 Arg2:T5	
+T6	emotion 31 72	Finir sur le podium est irréel, lunaire !
+A1	emotion T6 Positif

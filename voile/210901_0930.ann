@@ -1,0 +1,11 @@
+T1	course 3 22	Solitaire du Figaro
+T2	personne 24 38	Pierre Quiroga
+T3	rang 39 44	gagne
+T4	lieu 55 61	Fécamp
+T5	rang 65 95	s’empare du classement général
+R1	classement Arg1:T2 Arg2:T3	
+R2	classement Arg1:T2 Arg2:T5	
+R3	localisation Arg1:T3 Arg2:T4	
+T6	course 99 114	LaSolitaire_52e
+T7	emotion 24 97	Pierre Quiroga gagne l’étape à Fécamp et s’empare du classement général !
+A1	emotion T7 Positif

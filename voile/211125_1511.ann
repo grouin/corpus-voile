@@ -1,0 +1,14 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	rang 23 31	Victoire
+T3	equipage 35 44	Linkedout
+T4	voilier 48 53	IMOCA
+T5	personne 78 90	ThomasRuyant
+T6	personne 94 104	Lagravière
+T7	course 118 137	transatjacquesvabre
+R1	skipper Arg1:T5 Arg2:T3	
+R2	skipper Arg1:T6 Arg2:T3	
+R3	classement Arg1:T3 Arg2:T2	
+T8	emotion 23 31	Victoire
+A1	emotion T8 Positif
+T9	emotion 56 104	la consécration pour @ThomasRuyant et Lagravière
+A2	emotion T9 Positif

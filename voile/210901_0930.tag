@@ -1,0 +1,1 @@
+La <course>Solitaire du Figaro</course>. <personne>Pierre Quiroga</personne> <rang>gagne</rang> l’étape à <lieu>Fécamp</lieu> et <rang>s’empare du classement général</rang> ! @<course>LaSolitaire_52e</course>

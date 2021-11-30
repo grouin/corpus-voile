@@ -1,0 +1,11 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	personne 23 29	Cammas
+T3	personne 33 43	Caudrelier
+T4	rang 44 54	vainqueurs
+T5	voilier 58 63	Ultim
+T6	distinction 69 75	gloire
+T7	equipage 81 87	Gitana
+R1	classement Arg1:T2 Arg2:T4	
+R2	classement Arg1:T3 Arg2:T4	
+R3	skipper Arg1:T2 Arg2:T7	
+R4	skipper Arg1:T3 Arg2:T7	

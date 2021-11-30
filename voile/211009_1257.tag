@@ -1,0 +1,1 @@
+VIDÉO. <personne>Armel Le Cléac’h</personne>, <personne>Clarisse Crémer</personne>, <personne>Tanguy Le Turquais</personne>… Les <voilier>Figaro 3</voilier> au @<course>spiOF</course> @<voilier>ClasseFigaroben</voilier>

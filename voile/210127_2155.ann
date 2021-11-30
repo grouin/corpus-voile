@@ -1,0 +1,6 @@
+T1	course 0 12	Vendée Globe
+T2	personne 32 46	Boris Herrmann
+T3	course 93 99	VG2020
+T4	incident 56 89	collision avec un bateau de pêche
+T5	emotion 32 91	Boris Herrmann entre en collision avec un bateau de pêche !
+A1	emotion T5 Negatif

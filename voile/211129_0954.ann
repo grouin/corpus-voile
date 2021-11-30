@@ -1,0 +1,10 @@
+T1	categorie 3 8	cargo
+T2	lieu 37 52	côtes normandes
+T3	bateau 57 72	Abeille Liberté
+T4	equipage 86 95	remorquer
+T5	incident 9 28	menace de s’échouer
+T6	emotion 0 52	Un cargo menace de s’échouer sur les côtes normandes
+A1	emotion T6 Negatif
+T7	emotion 55 95	l’Abeille Liberté réussit à le remorquer
+A2	emotion T7 Positif
+R1	localisation Arg1:T5 Arg2:T2	

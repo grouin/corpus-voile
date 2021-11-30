@@ -1,0 +1,9 @@
+T1	categorie 29 36	voilier
+T2	lieu 51 63	île d’Oléron
+T3	incident 0 11	Disparition
+T4	incident 65 87	DisparitionInquietante
+A1	hashtag T4 Oui
+T5	incident 89 105	disparitionenmer
+A2	hashtag T5 Oui
+T6	emotion 0 36	Disparition inquiétante d’un voilier
+A3	emotion T6 Negatif

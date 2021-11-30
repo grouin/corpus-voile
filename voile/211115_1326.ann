@@ -1,0 +1,11 @@
+T1	personne 7 20	Franck Cammas
+T2	rang 22 28	leader
+T3	course 43 64	Transat Jacques Vabre
+T4	course 101 114	TransatJV2021
+T5	emotion 7 64	Franck Cammas, leader fatigué de la Transat Jacques Vabre
+A1	emotion T5 Negatif
+T6	emotion 69 97	on sort enfin du pot au noir
+A2	emotion T6 Positif
+T7	lieu 86 97	pot au noir
+R1	localisation Arg1:T1 Arg2:T7	
+R2	classement Arg1:T1 Arg2:T2	

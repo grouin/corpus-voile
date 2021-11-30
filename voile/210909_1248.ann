@@ -1,0 +1,13 @@
+T1	course 0 19	Solitaire du Figaro
+T2	course 94 109	LaSolitaire_52e
+T3	personne 21 35	Pierre Quiroga
+T4	etape 45 60	troisième étape
+T5	lieu 63 70	Roscoff
+T6	rang 36 41	gagne
+R1	classement Arg1:T3 Arg2:T6	
+R2	localisation Arg1:T3 Arg2:T5	
+R3	localisation Arg1:T6 Arg2:T5	
+T7	emotion 21 60	Pierre Quiroga gagne la troisième étape
+A1	emotion T7 Positif
+T8	emotion 72 92	au bout de la galère
+A2	emotion T8 Negatif

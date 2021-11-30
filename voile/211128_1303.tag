@@ -1,0 +1,1 @@
+Les arrivées continuent en <voilier>Imoca</voilier> sur la <course>Jacques Vabre</course>. <equipage>Prysmian Group</equipage> termine <rang>6e</rang>, <equipage>Fortinet-Best Western</equipage> <rang>7e</rang> et <equipage>Corum-L'Epargne</equipage> <rang>8e</rang>.

@@ -1,0 +1,5 @@
+T1	course 0 18	Rolex Fastnet Race
+T2	emotion 56 93	Pas le temps d’apprécier le paysage !
+A1	emotion T2 Negatif
+T3	emotion 20 51	Vers un début de course tonique
+A2	emotion T3 Positif

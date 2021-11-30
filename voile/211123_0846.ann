@@ -1,0 +1,12 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 101 120	TransatJacquesVabre
+T3	personne 23 30	Le Roux
+T4	personne 34 41	Macaire
+T5	rang 42 44	2e
+T6	voilier 48 59	Ocean Fifty
+R1	classement Arg1:T4 Arg2:T5	
+R2	classement Arg1:T3 Arg2:T5	
+T7	emotion 23 59	Le Roux et Macaire 2e en Ocean Fifty
+A1	emotion T7 Positif
+T8	emotion 64 97	ça reste des bateaux casse-gueule
+A2	emotion T8 Negatif

@@ -1,0 +1,1 @@
+<categorie>Dériveur</categorie>. Le <voilier>470</voilier> devient mixte : <personne>Camille Lecointre</personne> et <personne>Jérémie Mion</personne> ensemble pour les <evenement>JO de Paris</evenement> 

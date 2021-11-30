@@ -1,0 +1,5 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	personne 23 39	Isabelle Joschke
+T3	type 86 98	en solitaire
+T4	emotion 44 98	Je dirais que c’est plus facile d’évoluer en solitaire
+A1	emotion T4 Positif

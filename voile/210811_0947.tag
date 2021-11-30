@@ -1,0 +1,1 @@
+<course>Rolex Fastnet</course>. Le géant <equipage>Skorpios</equipage> <rang>premier</rang> en <voilier>monocoque</voilier>, @<equipage>ApiviaVoile</equipage> <rang>grand vainqueur</rang> en @<voilier>ImocaGS</voilier> @<organisation>RolexFastnet_Ch</organisation>

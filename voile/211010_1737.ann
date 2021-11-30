@@ -1,0 +1,7 @@
+T1	technique 7 15	Windfoil
+T2	personne 17 31	Nicolas Goyard
+T3	vitesse 42 50	40 nœuds
+T4	categorie 54 61	planche
+T5	technique 65 69	foil
+T6	emotion 17 69	Nicolas Goyard frôle les 40 nœuds en planche à #foil
+A1	emotion T6 Positif

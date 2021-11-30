@@ -1,0 +1,8 @@
+T1	duree 0 9	Trois ans
+T2	type 10 25	autour du monde
+T3	categorie 29 38	catamaran
+T4	fonction 66 73	skipper
+T5	personne 74 89	Gwénolé Gahinet
+R1	skipper Arg1:T5 Arg2:T3	
+T6	emotion 41 62	l’aventure en famille
+A1	emotion T6 Positif

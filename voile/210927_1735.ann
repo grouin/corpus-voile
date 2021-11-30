@@ -1,0 +1,6 @@
+T1	technique 7 14	Foilers
+T2	equipage 17 33	Realteam Sailing
+T3	rang 34 43	vainqueur
+T4	course 69 80	TF35 Trophy
+T5	emotion 17 80	Realteam Sailing vainqueur de la première saison du TF35 Trophy
+A1	emotion T5 Positif

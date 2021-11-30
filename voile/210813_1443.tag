@@ -1,0 +1,1 @@
+VIDÉO. <course>Rolex Fastnet</course>. Incroyable ! Une cinquième <rang>victoire</rang> pour <personne>Alexis Loison</personne> en <voilier>IRC3</voilier> @<organisation>RolexFastnet_Ch</organisation>

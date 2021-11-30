@@ -1,0 +1,1 @@
+ENTRETIEN. À <age>20 ans</age>, la <fonction>navigatrice</fonction> <personne>Violette Dorange</personne> vise déjà le <course>Vendée Globe</course> <date>2024</date> @<course>VendeeGlobe</course> #<course>VendeeGlobe</course>

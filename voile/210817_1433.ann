@@ -1,0 +1,6 @@
+T1	bateau 42 49	Zébulon
+T2	voilier 54 59	cotre
+T3	fonction 75 84	capitaine
+T4	personne 85 89	Nemo
+T5	emotion 17 89	Une navigation à bord de Zébulon, le cotre dont rêvait le capitaine Nemo
+A1	emotion T5 Positif

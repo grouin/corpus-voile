@@ -1,0 +1,8 @@
+T2	lieu 82 97	Sables-d’Olonne
+T3	course 0 12	Vendée Globe
+T4	personne 15 29	pipoceanracing
+T5	course 99 105	VG2020
+R1	localisation Arg1:T4 Arg2:T2	
+T1	distinction 35 45	révélation
+T6	emotion 14 97	@pipoceanracing , la révélation de cette 9e édition est arrivée aux Sables-d’Olonne
+A1	emotion T6 Positif

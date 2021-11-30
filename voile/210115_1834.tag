@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. <personne>Dalin</personne>, <personne>Burton</personne>, <personne>Herrmann</personne> : un <rang>grand favori</rang> et deux <distinction>outsiders</distinction> sur le podium provisoire

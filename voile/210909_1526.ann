@@ -1,0 +1,6 @@
+T1	course 3 12	Solitaire
+T2	course 85 100	LaSolitaire_52e
+T3	personne 14 28	Charlotte Yven
+T4	incident 35 57	échouée sur un caillou
+T5	emotion 14 57	Charlotte Yven s’est échouée sur un caillou
+A1	emotion T5 Negatif

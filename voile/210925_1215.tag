@@ -1,0 +1,1 @@
+<personne>Anthony Marchand</personne> sera le <fonction>co-skipper</fonction> d'<personne>Yves Le Blevec</personne> sur la <course>Transat Jacques Vabre</course> et il y croit : il a déjà appris à dormir en volant à plus de <vitesse>40 nœuds</vitesse>  !

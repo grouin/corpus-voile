@@ -1,0 +1,1 @@
+ENTRETIEN. <course>SailGP</course>. <personne>Hélène Noesmoen</personne> et <personne>Amélie Riou</personne>, deux femmes sur un circuit à très haute vitesse @<equipage>SailGPFRA</equipage> @<course>SailGP</course>

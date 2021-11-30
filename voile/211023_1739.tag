@@ -1,0 +1,1 @@
+Traversée de la <lieu>Manche</lieu> en <voilier>Super-Arlequin</voilier> pour le <fonction>conférencier</fonction> de la <evenement>Cop 26</evenement> qui voulait voyager écologiquement jusqu'à <lieu>Glasgow</lieu>.

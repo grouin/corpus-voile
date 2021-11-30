@@ -1,0 +1,7 @@
+T1	bateau 0 10	L’Hermione
+T2	lieu 31 38	Bayonne
+T3	technique 15 28	en cale sèche
+T4	emotion 54 95	une faiblesse sous la ligne de flottaison
+A1	emotion T4 Negatif
+T5	emotion 0 38	L’Hermione ira en cale sèche à Bayonne
+A2	emotion T5 Positif

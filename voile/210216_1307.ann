@@ -1,0 +1,8 @@
+T1	categorie 10 21	kitesurfeur
+T2	personne 22 34	Clément Huot
+T3	lieu 58 68	cap Fréhel
+R1	localisation Arg1:T2 Arg2:T3	
+T4	categorie 92 103	kitesurfing
+T5	emotion 7 90	Le kitesurfeur Clément Huot saute de la falaise du cap Fréhel, haute de 72 mètres !
+A1	emotion T5 Positif
+#1	AnnotatorNotes T5	impressionnant

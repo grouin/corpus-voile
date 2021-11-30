@@ -1,0 +1,1 @@
+Le <fonction>directeur de course</fonction> de la <course>Solitaire</course>, <personne>Francis Le Goff</personne>, fait le point sur la <etape>deuxième étape</etape> qui part de <lieu>Lorient</lieu> demain <date>dimanche</date>.

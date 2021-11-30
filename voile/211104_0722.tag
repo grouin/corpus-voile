@@ -1,0 +1,1 @@
+L'une des <distinction>légendes</distinction> de la <type>course au large</type>, <personne>Brian Thompson</personne>, va faire la <course>Jacques Vabre</course> sur un <voilier>Class40</voilier>. <organisation>Voiles et Voiliers</organisation> l'a rencontré au <lieu>Havre</lieu>.

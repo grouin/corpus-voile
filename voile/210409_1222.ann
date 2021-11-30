@@ -1,0 +1,7 @@
+T1	lieu 2 15	île Amsterdam
+T2	incident 31 39	incendie
+T3	date 49 53	1792
+T4	fonction 75 81	amiral
+T5	personne 82 97	d’Entrecasteaux
+T6	emotion 0 39	L’île Amsterdam touchée par un incendie
+A1	emotion T6 Negatif

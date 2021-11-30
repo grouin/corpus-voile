@@ -1,0 +1,8 @@
+T1	course 0 12	Mini Transat
+T2	meteo 18 25	tempête
+T3	fonction 62 69	skipper
+T4	incident 76 97	attaqué par une orque
+T5	emotion 59 97	un skipper a été attaqué par une orque
+A1	emotion T5 Negatif
+T6	emotion 15 55	la tempête stoppe net 85 voiliers sur 89
+A2	emotion T6 Negatif

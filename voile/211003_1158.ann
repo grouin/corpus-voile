@@ -1,0 +1,8 @@
+T1	course 0 12	Mini-Transat
+T2	personne 14 26	Georges Kick
+T3	meteo 93 100	tempête
+T4	incident 27 35	s’échoue
+T5	lieu 57 65	espagnol
+R1	localisation Arg1:T2 Arg2:T5	
+T6	emotion 14 65	Georges Kick s’échoue à l’entrée d’un port espagnol
+A1	emotion T6 Negatif

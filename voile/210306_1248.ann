@@ -1,0 +1,10 @@
+T1	fonction 24 35	navigatrice
+T2	personne 36 52	Violette Dorange
+T3	course 66 78	Vendée Globe
+T4	date 79 83	2024
+T5	course 85 96	VendeeGlobe
+T6	course 98 109	VendeeGlobe
+T7	age 13 19	20 ans
+R1	attribut Arg1:T2 Arg2:T7	
+T8	emotion 11 83	À 20 ans, la navigatrice Violette Dorange vise déjà le Vendée Globe 2024
+A1	emotion T8 Positif

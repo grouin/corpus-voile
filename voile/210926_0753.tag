@@ -1,0 +1,1 @@
+Testé pour vous ! <personne>Laurène Coroller</personne> a essayé ( <incident>chavirage</incident> compris ) ces nouvelles bombes à <technique>foils</technique> nommées <voilier>69 F</voilier>. Mission réussie : aucun blessé, foiler ramené au port.

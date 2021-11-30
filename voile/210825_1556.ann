@@ -1,0 +1,8 @@
+T1	fonction 10 17	skipper
+T2	personne 18 28	David Paul
+T3	course 97 112	LaSolitaire_52e
+T4	incident 53 84	filet de pêche qui avait stoppé
+T5	emotion 7 49	Le skipper David Paul libéré en pleine mer
+A1	emotion T5 Positif
+T6	emotion 53 95	filet de pêche qui avait stoppé son bateau
+A2	emotion T6 Negatif

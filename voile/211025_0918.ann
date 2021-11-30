@@ -1,0 +1,6 @@
+T1	categorie 3 11	trimaran
+T2	equipage 12 16	Argo
+T3	course 62 76	RolexMiddleSea
+T4	distinction 30 47	record historique
+T5	emotion 0 78	Le trimaran Argo pulvérise le record historique de la course @RolexMiddleSea !
+A1	emotion T5 Positif

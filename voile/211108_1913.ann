@@ -1,0 +1,9 @@
+T1	course 7 28	Transat Jacques Vabre
+T2	course 104 113	TransatJV
+T3	personne 31 45	LouisBurtonOff
+T4	personne 49 62	Davy Beaudart
+T5	incident 76 89	bateau démâté
+T6	emotion 76 89	bateau démâté
+A1	emotion T6 Negatif
+T7	emotion 93 102	racontent
+A2	emotion T7 Positif

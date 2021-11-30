@@ -1,0 +1,10 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 99 118	TransatJacquesVabre
+T3	equipage 24 40	Banque Populaire
+T4	equipage 44 50	Apivia
+T5	rang 51 58	en tête
+T6	emotion 24 58	Banque Populaire et Apivia en tête
+A1	emotion T6 Positif
+T7	emotion 64 97	toujours pas de vent sur la route
+A2	emotion T7 Negatif
+T8	meteo 80 84	vent

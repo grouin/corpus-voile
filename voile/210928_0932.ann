@@ -1,0 +1,7 @@
+T1	course 0 12	Mini Transat
+T2	lieu 67 75	Canaries
+T3	fonction 90 98	skippers
+T4	fonction 31 37	marins
+T5	type 38 48	solitaires
+T6	emotion 28 75	90 marins solitaires en route vers les Canaries
+A1	emotion T6 Positif

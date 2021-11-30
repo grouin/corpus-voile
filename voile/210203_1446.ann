@@ -1,0 +1,9 @@
+T1	course 7 19	Vendée Globe
+T2	personne 23 35	JeremieBeyou
+T3	equipage 37 43	Charal
+R1	skipper Arg1:T2 Arg2:T3	
+T4	course 78 84	VG2020
+T5	vitesse 68 76	55 nœuds
+T6	meteo 58 65	rafales
+T7	emotion 22 76	@JeremieBeyou (Charal) encaisse des rafales à 55 nœuds
+A1	emotion T7 Negatif

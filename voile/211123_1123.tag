@@ -1,0 +1,1 @@
+VIDÉOS. <course>Transat Jacques Vabre</course>. Les arrivées de <equipage>Koesio</equipage> et <equipage>Leyton</equipage>, <rang>2e</rang> et <rang>3e</rang> en <voilier>Ocean Fifty</voilier> #<course>TransatJacquesVabre</course>

@@ -1,0 +1,6 @@
+T1	incident 11 19	démâtage
+T2	incident 27 36	collision
+T3	type 70 76	régate
+T4	course 91 100	Barcolana
+T5	emotion 8 46	Un démâtage et une collision en direct
+A1	emotion T5 Negatif

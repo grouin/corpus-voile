@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. <personne>Clarisse Crémer</personne> arrivée, elle est la femme la plus rapide de tous les <course>Vendée Globe</course> ! @<personne>ClaSurLAtlantiq</personne> #<course>VG2020</course>

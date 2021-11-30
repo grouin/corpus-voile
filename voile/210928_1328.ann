@@ -1,0 +1,4 @@
+T1	categorie 10 17	voilier
+T2	incident 18 34	heurte un ponton
+T3	emotion 7 62	Un voilier heurte un ponton, le résultat est saisissant
+A1	emotion T3 Negatif

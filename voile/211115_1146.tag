@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. <voilier>Ultim</voilier> : <personne>Cammas</personne> et <personne>Caudrelier</personne> ont perdu les deux tiers de leur avance !#<course>TransatJV2021</course> @<voilier>Ultim32_23</voilier>

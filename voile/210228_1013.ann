@@ -1,0 +1,5 @@
+T1	course 0 13	America’s Cup
+T2	incident 62 73	confinement
+T3	lieu 76 84	Auckland
+T4	emotion 15 84	La 36e édition reportée en raison d’un nouveau confinement à Auckland
+A1	emotion T4 Negatif

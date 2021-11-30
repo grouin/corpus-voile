@@ -1,0 +1,8 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	personne 23 35	Erwan Israël
+T3	fonction 37 44	routeur
+T4	personne 48 54	Cammas
+T5	personne 58 68	Caudrelier
+T6	course 99 118	TransatJacquesVabre
+T7	emotion 73 95	Ils m’impressionnent !
+A1	emotion T7 Positif

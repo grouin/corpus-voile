@@ -1,0 +1,10 @@
+T1	lieu 95 102	Glasgow
+T2	evenement 86 91	COP26
+T3	fonction 122 134	conférencier
+T4	fonction 68 80	conférencier
+T5	evenement 196 229	Conférence mondiale sur le climat
+T6	voilier 3 17	Super Arlequin
+T7	emotion 147 190	il n'aura pas à rougir de son bilan carbone
+A1	emotion T7 Positif
+T8	emotion 0 104	Un Super Arlequin c'est fidèle et ça sert à tout, même à emmener un conférencier à la COP26 de Glasgow !
+A2	emotion T8 Positif

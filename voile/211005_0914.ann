@@ -1,0 +1,7 @@
+T1	personne 29 41	conradcolman
+T2	course 50 62	Vendée Globe
+T3	course 101 112	VendeeGlobe
+T4	emotion 73 97	J’ai une approche unique
+A1	emotion T4 Positif
+#1	AnnotatorNotes T4	un peu présomptueux
+T5	date 63 67	2024

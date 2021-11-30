@@ -1,0 +1,7 @@
+T1	personne 0 12	Maxime Sorel
+T2	rang 24 31	dixième
+T3	meteo 47 53	Lucile
+R1	classement Arg1:T1 Arg2:T2	
+#1	AnnotatorNotes T3	tempête
+T4	emotion 0 66	Maxime Sorel s'offre la dixième place et évite Lucile de justesse.
+A1	emotion T4 Positif

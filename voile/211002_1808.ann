@@ -1,0 +1,9 @@
+T1	course 0 12	Mini-Transat
+T2	fonction 21 29	skippers
+T3	personne 77 88	Melwin Fink
+T4	age 90 96	19 ans
+R1	attribut Arg1:T3 Arg2:T4	
+T5	type 38 46	en série
+T6	pratique 68 74	escale
+T7	emotion 48 98	un seul ne fait pas escale : Melwin Fink, 19 ans !
+A1	emotion T7 Positif

@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. <rang>Victoire</rang> de <equipage>Linkedout</equipage> en <voilier>IMOCA</voilier> : la consécration pour @<personne>ThomasRuyant</personne> et <personne>Lagravière</personne> @444_Morgan #<course>transatjacquesvabre</course>

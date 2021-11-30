@@ -1,0 +1,5 @@
+T1	personne 8 22	GeorgesPernoud
+T2	autre 70 81	ThalassaOff
+T3	autre 45 53	Thalassa
+T4	emotion 0 68	Décès. #GeorgesPernoud figure de l’émission #Thalassa nous a quittés
+A1	emotion T4 Negatif

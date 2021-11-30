@@ -1,0 +1,7 @@
+T1	vitesse 19 27	36 nœuds
+T2	type 41 48	régates
+T3	categorie 0 7	Foilers
+T4	categorie 62 80	catamarans volants
+T5	voilier 81 85	TF35
+T6	emotion 58 92	les catamarans volants TF35 au top
+A1	emotion T6 Positif

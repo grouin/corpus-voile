@@ -1,0 +1,10 @@
+T1	course 7 26	Solitaire du Figaro
+T2	course 99 114	LaSolitaire_52e
+T3	personne 62 76	Charlotte Yven
+T4	date 36 41	jeudi
+T5	date 52 60	dimanche
+T6	incident 28 35	Échouée
+T7	emotion 28 35	Échouée
+A1	emotion T7 Negatif
+T8	emotion 43 51	repartie
+A2	emotion T8 Positif

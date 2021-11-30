@@ -1,0 +1,12 @@
+T1	pratique 0 10	Remorquage
+T2	personne 22 34	Adrien Hardy
+T3	emotion 0 34	Remorquage réussi par Adrien Hardy
+A1	emotion T3 Positif
+#1	AnnotatorNotes T3	même si négatif du point de vue de la course
+T4	incident 48 54	démâté
+T5	course 62 74	Mini Transat
+T6	lieu 88 95	Lorient
+T7	course 97 112	MiniTransat2021
+R1	localisation Arg1:T2 Arg2:T6	
+T8	categorie 40 47	voilier
+R2	skipper Arg1:T2 Arg2:T8	

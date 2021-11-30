@@ -1,0 +1,1 @@
+<course>Rolex Fastnet Race</course>. <personne>Loïck Peyron</personne> et l’équipage de <equipage>No Limit</equipage> à bon port après leur <incident>démâtage</incident> @<organisation>RolexFastnet_Ch</organisation>

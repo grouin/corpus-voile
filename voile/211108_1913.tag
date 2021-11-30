@@ -1,0 +1,1 @@
+VIDÉO. <course>Transat Jacques Vabre</course>. @<personne>LouisBurtonOff</personne> et <personne>Davy Beaudart</personne> filment leur <incident>bateau démâté</incident> et racontent @<course>TransatJV</course>

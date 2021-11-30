@@ -1,0 +1,1 @@
+<course>Rolex Fastnet Race</course>. <incident>Démâtage</incident> de <equipage>Project Rescue Ocean</equipage>, <rang>premier</rang> de la flotte des <voilier>Class40</voilier> @<voilier>AssoClass40</voilier> @<organisation>RolexFastnet_Ch</organisation>

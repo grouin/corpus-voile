@@ -1,0 +1,1 @@
+<course>Trophée Jules Verne</course> : <personne>Yann Guichard</personne> explique pourquoi le <categorie>maxi-trimaran</categorie> <equipage>Sails of Change</equipage> ne part pas @<course>TJV_officiel</course> #<course>Tropheejulesverne</course>

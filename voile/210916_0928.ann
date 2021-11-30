@@ -1,0 +1,5 @@
+T1	lieu 32 40	Bermudes
+T2	personne 89 96	Tabarly
+T3	technique 49 59	gouvernail
+T4	emotion 9 96	Nous avons rejoint les Bermudes avec un gouvernail de fortune grâce au livre de Tabarly
+A1	emotion T4 Positif

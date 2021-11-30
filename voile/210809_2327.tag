@@ -1,0 +1,1 @@
+<course>Rolex Fastnet Race</course>. Le <voilier>Maxi</voilier> <bateau>Edmond de Rothschild</bateau> <rang>premier</rang> à <lieu>Cherbourg</lieu> et <rang>vainqueur</rang> pour la 2e fois @<organisation>RolexFastnet_Ch</organisation> @<equipage>GitanaTeam</equipage>

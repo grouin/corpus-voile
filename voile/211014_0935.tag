@@ -1,0 +1,1 @@
+<technique>Mât</technique> <incident>brisé en mer</incident> récupéré, réparé et réinstallé sur le <categorie>trimaran</categorie> <bateau>Les P’tits Doudous</bateau> d’<personne>Armel Tripon</personne> ! @<personne>ArmelTriponSkip</personne>

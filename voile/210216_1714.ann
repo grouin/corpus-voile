@@ -1,0 +1,9 @@
+T1	bateau 20 29	Unu Mondo
+T2	lieu 49 58	Groenland
+T3	meteo 76 100	réchauffement climatique
+R1	localisation Arg1:T1 Arg2:T2	
+T4	type 0 18	Expédition polaire
+T5	emotion 62 100	des effets du réchauffement climatique
+A1	emotion T5 Negatif
+T6	emotion 20 58	Unu Mondo à la découverte du Groenland
+A2	emotion T6 Positif

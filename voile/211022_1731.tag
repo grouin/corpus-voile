@@ -1,0 +1,1 @@
+ENTRETIEN. <personne>Clarisse Crémer</personne> veut « repartir sur le <course>Vendée Globe</course> avec moins d’angoisse de l’abandon » @<personne>ClaSurLAtlantiq</personne> @<course>VendeeGlobe</course>

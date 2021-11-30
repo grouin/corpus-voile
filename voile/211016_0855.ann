@@ -1,0 +1,5 @@
+T1	bateau 3 8	Belem
+T2	date 16 24	dimanche
+T3	lieu 28 33	Havre
+T4	emotion 0 85	Le Belem arrive dimanche au Havre, il sera aussitôt ouvert à la visite pour le public
+A1	emotion T4 Positif

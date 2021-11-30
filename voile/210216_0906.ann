@@ -1,0 +1,6 @@
+T1	course 7 19	Vendée Globe
+T2	personne 23 37	Alexia_Barrier
+T3	course 87 93	VG2020
+T4	incident 38 54	chute lourdement
+T5	emotion 22 85	@Alexia_Barrier chute lourdement et se fait mal dans son bateau
+A1	emotion T5 Negatif

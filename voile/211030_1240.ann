@@ -1,0 +1,10 @@
+T1	type 19 32	tour du monde
+T2	type 33 44	en équipage
+T3	personne 46 61	Gwénolé Gahinet
+T4	distinction 9 15	record
+R1	attribut Arg1:T3 Arg2:T4	
+T5	type 83 96	tour du monde
+T6	emotion 9 44	record du tour du monde en équipage
+A1	emotion T6 Positif
+T7	emotion 74 124	un autre tour du monde à la voile, mais en famille
+A2	emotion T7 Positif

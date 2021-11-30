@@ -1,0 +1,5 @@
+T1	lieu 25 38	Marie-Galante
+T2	organisation 3 21	distillerie Bielle
+T3	voilier 72 77	yacht
+T4	fonction 50 55	marin
+R1	skipper Arg1:T4 Arg2:T3	

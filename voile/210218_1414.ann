@@ -1,0 +1,9 @@
+T1	bateau 3 9	Phocéa
+T2	personne 30 42	bernardtapie
+T3	personne 48 59	Alain Colas
+T4	lieu 87 95	Malaisie
+T5	incident 60 83	ravagé par un #incendie
+R1	skipper Arg1:T2 Arg2:T1	
+R2	localisation Arg1:T5 Arg2:T4	
+T6	emotion 0 97	Le Phocéa, ancien voilier de #bernardtapie et d’Alain Colas ravagé par un #incendie en Malaisie !
+A1	emotion T6 Negatif

@@ -1,0 +1,1 @@
+<evenement>JO de Tokyo</evenement>. Pas de <meteo>vent</meteo> au <lieu>Japon</lieu>, donc pas de <type>régates</type> <date>ce lundi</date> ! #<evenement>JOTokyo</evenement> #<evenement>JO2021</evenement>

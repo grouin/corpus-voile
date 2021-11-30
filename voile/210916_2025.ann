@@ -1,0 +1,11 @@
+T1	course 0 11	Défi Azimut
+T2	personne 13 26	Charlie Dalin
+T3	personne 30 42	Paul Meilhat
+T4	voilier 91 98	ImocaGS
+T5	personne 44 55	ApiviaVoile
+#1	AnnotatorNotes T5	compte de Charlie Dalin
+T6	distinction 56 65	en pointe
+R1	attribut Arg1:T2 Arg2:T6	
+R2	attribut Arg1:T3 Arg2:T6	
+T7	emotion 13 98	Charlie Dalin et Paul Meilhat @ApiviaVoile en pointe de la grande course des @ImocaGS
+A1	emotion T7 Positif

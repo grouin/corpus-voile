@@ -1,0 +1,9 @@
+T1	course 0 12	Vendée Globe
+T2	personne 44 58	LouisBurtonOff
+T3	personne 77 92	YannickBestaven
+T4	personne 15 27	CharlieDalin
+T5	rang 28 41	mène la danse
+T6	course 126 132	VG2020
+R1	classement Arg1:T4 Arg2:T5	
+T7	emotion 14 41	@CharlieDalin mène la danse
+A1	emotion T7 Positif

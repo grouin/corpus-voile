@@ -1,0 +1,6 @@
+T1	meteo 12 27	tempête Justine
+T2	lieu 32 47	Sables-d'Olonne
+T3	fonction 53 69	ingénieurs météo
+T4	personne 111 123	Maxime Sorel
+T5	emotion 111 145	Maxime Sorel n'entrait pas au port
+A1	emotion T5 Negatif

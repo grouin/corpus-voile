@@ -1,0 +1,5 @@
+T1	meteo 4 17	trombe de mer
+T2	categorie 47 55	voiliers
+T3	emotion 71 85	ça fait peur !
+A1	emotion T3 Negatif
+T4	pratique 56 68	au mouillage

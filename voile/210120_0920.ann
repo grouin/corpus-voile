@@ -1,0 +1,5 @@
+T1	course 0 19	Trophée Jules Verne
+T2	lieu 42 64	cap de Bonne-Espérance
+T3	categorie 73 77	Maxi
+T4	bateau 78 98	Edmond de Rothschild
+R1	localisation Arg1:T4 Arg2:T2	

@@ -1,0 +1,12 @@
+T1	voilier 21 26	cotre
+T2	taille 30 38	9 mètres
+T3	personne 42 64	Nicole Van de Kerchove
+T4	bateau 66 73	Esquilo
+T5	lieu 91 98	Paimpol
+T6	technique 75 88	remis à l’eau
+R1	localisation Arg1:T4 Arg2:T5	
+R2	skipper Arg1:T3 Arg2:T4	
+T7	emotion 10 20	légendaire
+A1	emotion T7 Positif
+T8	emotion 75 88	remis à l’eau
+A2	emotion T8 Positif

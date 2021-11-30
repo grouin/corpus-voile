@@ -1,0 +1,1 @@
+<personne>Boris Herrmann</personne> termine <rang>4e</rang> malgré sa <incident>collision</incident> : trop fort ! Portrait d'un <fonction>gentleman-skipper</fonction> par <personne>Loic Madeline</personne>.

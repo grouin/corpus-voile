@@ -1,0 +1,1 @@
+<incident>Collision</incident> entre un <categorie>voilier</categorie> de <taille>10 mètres</taille> et le <categorie>navire amiral</categorie> de la flotte française. Le <fonction>skipper</fonction> est indemne, la <organisation>Préfecture Maritime</organisation> s'explique.

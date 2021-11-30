@@ -1,0 +1,10 @@
+T1	course 17 26	TransatJV
+T2	personne 68 79	Paul Vatine
+T3	course 100 113	Route du Café
+T4	date 114 118	1999
+T5	emotion 51 79	rendre hommage à Paul Vatine
+A1	emotion T5 Positif
+T6	emotion 81 118	disparu lors de la Route du Café 1999
+A2	emotion T6 Negatif
+T7	incident 81 88	disparu
+T8	etape 3 9	départ

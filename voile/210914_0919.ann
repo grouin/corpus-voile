@@ -1,0 +1,9 @@
+T1	personne 8 22	LouisBurtonOff
+T2	voilier 34 39	IMOCA
+T3	technique 61 82	safran à plan porteur
+T4	voilier 95 102	ImocaGS
+R1	skipper Arg1:T1 Arg2:T2	
+T5	emotion 7 52	@LouisBurtonOff inaugure l’IMOCA 100 % volant
+A1	emotion T5 Positif
+T6	emotion 61 93	safran à plan porteur interdit !
+A2	emotion T6 Negatif

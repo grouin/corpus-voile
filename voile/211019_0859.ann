@@ -1,0 +1,6 @@
+T1	meteo 0 13	Coups de vent
+T2	meteo 17 26	mer forte
+T3	organisation 32 51	Préfecture maritime
+T4	date 78 91	cette semaine
+T5	emotion 0 26	Coups de vent et mer forte
+A1	emotion T5 Negatif

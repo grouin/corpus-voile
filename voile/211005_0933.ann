@@ -1,0 +1,12 @@
+T1	course 0 12	Mini Transat
+T2	incident 14 21	Avaries
+T3	personne 27 42	Basile Bourgnon
+T4	personne 46 59	Victor d’Ersu
+T5	personne 78 92	Irina Gracheva
+T6	rang 93 95	4e
+R1	classement Arg1:T5 Arg2:T6	
+T7	emotion 14 76	Avaries pour Basile Bourgnon et Victor d’Ersu qui se déroutent
+A1	emotion T7 Negatif
+T8	emotion 78 95	Irina Gracheva 4e
+A2	emotion T8 Positif
+#1	AnnotatorNotes T8	positif dans la mesure où elle est arrivée et classée alors que les deux autres se déroutent

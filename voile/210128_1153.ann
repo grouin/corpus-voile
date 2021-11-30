@@ -1,0 +1,8 @@
+T1	personne 0 14	Boris Herrmann
+T2	rang 23 25	4e
+T3	incident 36 45	collision
+T4	fonction 74 91	gentleman-skipper
+T5	personne 96 109	Loic Madeline
+R1	classement Arg1:T1 Arg2:T2	
+T6	emotion 0 59	Boris Herrmann termine 4e malgré sa collision : trop fort !
+A1	emotion T6 Positif

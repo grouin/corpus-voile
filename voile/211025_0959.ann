@@ -1,0 +1,7 @@
+T1	equipage 17 25	Comanche
+T2	organisation 38 50	VPLP-Verdier
+T3	course 60 81	Rolex Middle Sea Race
+T4	rang 51 56	gagne
+T5	categorie 85 94	monocoque
+T6	emotion 0 94	Le voilier géant Comanche dessiné par VPLP-Verdier gagne la Rolex Middle Sea Race en monocoque
+A1	emotion T6 Positif

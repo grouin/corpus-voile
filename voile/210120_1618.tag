@@ -1,0 +1,1 @@
+VIDÉO. <course>Vendée Globe</course>. @<personne>JeremieBeyou</personne> grimpe en haut du <technique>mât</technique> de <equipage>Charal</equipage> pour réparer sa <technique>voile d’avant</technique> #<course>VG2020</course>

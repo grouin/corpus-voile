@@ -1,0 +1,6 @@
+T1	course 61 68	Fastnet
+T2	course 77 98	Transat Jacques Vabre
+T3	equipage 100 110	GitanaTeam
+T4	equipage 0 9	Gitana 17
+T5	emotion 0 40	Gitana 17 entre en chantier de printemps
+A1	emotion T5 Neutre

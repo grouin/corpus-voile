@@ -1,0 +1,6 @@
+T1	incident 0 8	Covid-19
+T2	lieu 11 16	Corse
+T3	date 92 100	17 avril
+T4	autre 73 81	test PCR
+T5	emotion 19 100	les ports de plaisance accessibles uniquement avec un test PCR depuis le 17 avril
+A1	emotion T5 Positif

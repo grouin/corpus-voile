@@ -1,0 +1,13 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 96 105	TransatJV
+T3	equipage 88 94	Sodebo
+T4	equipage 107 119	Sodebo_Voile
+T5	lieu 42 48	Madère
+T6	personne 54 61	Coville
+T7	personne 65 71	Rouxel
+T8	categorie 79 87	trimaran
+T9	technique 23 39	Escale Technique
+T10	emotion 23 48	Escale Technique à Madère
+A1	emotion T10 Negatif
+R1	skipper Arg1:T6 Arg2:T3	
+R2	skipper Arg1:T7 Arg2:T3	

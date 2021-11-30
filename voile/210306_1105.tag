@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. Régime <type>tour du monde</type> : <personne>Jérémie Beyou</personne> a perdu 10 kilos pendant la course @<course>VendeeGlobe</course> #<course>VendeeGlobe</course> @<personne>JeremieBeyou</personne>

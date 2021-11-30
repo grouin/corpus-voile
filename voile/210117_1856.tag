@@ -1,0 +1,1 @@
+Le dernier sac de nourriture de <personne>Damien Seguin</personne> inondé d'eau de mer : rationnements en vue pour le <fonction>skipper</fonction> d'<equipage>APICIL</equipage> mais <personne>Jacques Caraës</personne> n'est pas "trop inquiet" quand même.

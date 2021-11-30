@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. Un petit <categorie>trimaran</categorie> <rang>premier</rang> à <lieu>Fort de France</lieu> ? <equipage>Primonial</equipage> touche au but #<course>TransatJacquesVabre</course>

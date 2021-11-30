@@ -1,0 +1,6 @@
+T1	evenement 7 22	Le Grand Pavois
+T2	lieu 26 37	La Rochelle
+T3	date 56 68	28 septembre
+T4	date 72 81	3 octobre
+T5	emotion 7 81	Le Grand Pavois de La Rochelle aura bien lieu du 28 septembre au 3 octobre
+A1	emotion T5 Positif

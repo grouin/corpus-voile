@@ -1,0 +1,8 @@
+T1	technique 0 8	Wingfoil
+T2	technique 10 18	windfoil
+T3	evenement 66 93	Grand Pavois de La Rochelle
+T4	distinction 32 41	champions
+T5	technique 45 49	foil
+T6	voilier 20 25	ETF26
+T7	emotion 32 49	champions du foil
+A1	emotion T7 Positif

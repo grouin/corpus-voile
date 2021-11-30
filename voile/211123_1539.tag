@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. <personne>Cammas</personne> et <personne>Caudrelier</personne> <rang>vainqueurs</rang> en <voilier>Ultim</voilier> : la <distinction>gloire</distinction> pour <equipage>Gitana</equipage>

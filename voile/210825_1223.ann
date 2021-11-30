@@ -1,0 +1,6 @@
+T1	meteo 0 5	Orage
+T2	meteo 16 21	foehn
+T3	course 46 57	Transquadra
+T4	course 102 115	LaTransquadra
+T5	emotion 24 100	Des concurrents de la Transquadra pris dans un phénomène météo non identifié
+A1	emotion T5 Negatif

@@ -1,0 +1,10 @@
+T1	personne 0 15	Clarisse Crémer
+T2	course 34 46	Vendée Globe
+T3	date 47 51	2024
+T4	voilier 64 69	IMOCA
+T5	technique 72 84	grands foils
+T6	emotion 0 51	Clarisse Crémer sera au départ du Vendée Globe 2024
+A1	emotion T6 Positif
+T7	emotion 64 84	IMOCA à grands foils
+A2	emotion T7 Uncertain
+#1	AnnotatorNotes T7	pas sûr que les foils sont encore un élément positif

@@ -1,0 +1,11 @@
+T1	course 0 12	Vendée Globe
+T2	course 102 108	VG2020
+T3	personne 14 29	Clarisse Crémer
+T4	equipage 31 47	Banque Populaire
+T5	personne 110 125	ClaSurLAtlantiq
+T6	date 61 80	mercredi vers 16h30
+T7	lieu 85 100	Sables-d’Olonne
+R1	skipper Arg1:T3 Arg2:T4	
+R2	localisation Arg1:T3 Arg2:T7	
+T8	emotion 14 100	Clarisse Crémer (Banque Populaire) attendue ce mercredi vers 16h30 aux Sables-d’Olonne
+A1	emotion T8 Positif

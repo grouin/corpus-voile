@@ -1,0 +1,5 @@
+T1	lieu 3 20	canal de Corinthe
+T2	lieu 77 82	Grèce
+T3	incident 64 75	éboulements
+T4	emotion 0 75	Le canal de Corinthe est fermé jusqu’à nouvel ordre suite à des éboulements
+A1	emotion T4 Negatif

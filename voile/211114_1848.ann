@@ -1,0 +1,9 @@
+T1	personne 65 76	Yann Quenet
+T2	lieu 84 96	Océan indien
+T3	bateau 101 109	Baluchon
+T4	categorie 115 122	voilier
+T5	taille 126 142	4 mètres de long
+R1	skipper Arg1:T1 Arg2:T3	
+R2	localisation Arg1:T1 Arg2:T2	
+T6	emotion 0 143	Deuxième et dernière partie du récit de l'épatante navigation de Yann Quenet dans l'Océan indien sur Baluchon, son voilier de 4 mètres de long.
+A1	emotion T6 Positif

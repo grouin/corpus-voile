@@ -1,0 +1,8 @@
+T1	lieu 8 18	La Réunion
+T2	personne 33 44	Yann Quenet
+T3	categorie 79 86	voilier
+T4	taille 90 98	4 mètres
+R1	skipper Arg1:T2 Arg2:T3	
+T5	type 57 70	tour du monde
+T6	emotion 0 99	Cap sur La Réunion, maintenant ! Yann Quenet reprend son tour du monde sur son voilier de 4 mètres.
+A1	emotion T6 Positif

@@ -1,0 +1,10 @@
+T1	personne 0 14	Hugo Dhallenne
+T2	etape 27 41	deuxième étape
+T3	course 82 94	Mini Transat
+T4	rang 15 23	remporte
+R1	classement Arg1:T1 Arg2:T4	
+T5	emotion 0 94	Hugo Dhallenne remporte la deuxième étape et le classement général en Série de la Mini Transat
+A1	emotion T5 Positif
+T6	emotion 96 106	avant jury
+A2	emotion T6 Uncertain
+#1	AnnotatorNotes T6	Est-ce que cela implique que le classement pourrait changer ?

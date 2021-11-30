@@ -1,0 +1,6 @@
+T1	course 0 12	Mini-Transat
+T2	personne 14 26	Denis Hugues
+T3	voilier 41 45	Mini
+T4	course 86 98	Mini-Transat
+T5	emotion 31 98	La Classe Mini est un monde à part qui a son Graal, la Mini-Transat
+A1	emotion T5 Positif

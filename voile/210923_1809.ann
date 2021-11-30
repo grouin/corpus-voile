@@ -1,0 +1,7 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 96 105	TransatJV
+T3	lieu 61 66	Havre
+T4	date 70 80	7 novembre
+T5	emotion 83 94	un record !
+A1	emotion T5 Positif
+T6	fonction 41 47	marins

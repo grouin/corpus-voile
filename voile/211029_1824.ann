@@ -1,0 +1,5 @@
+T1	personne 5 21	isabelle Joschke
+T2	personne 34 49	Fabien Delahaye
+T3	course 66 79	Jacques Vabre
+T4	emotion 0 79	Avec isabelle Joschke cette fois, Fabien Delahaye part pour sa 4e Jacques Vabre
+A1	emotion T4 Positif

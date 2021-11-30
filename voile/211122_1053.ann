@@ -1,0 +1,8 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 93 112	TransatJacquesVabre
+T3	categorie 32 40	trimaran
+T4	rang 41 48	premier
+T5	lieu 51 65	Fort de France
+T6	equipage 68 77	Primonial
+T7	emotion 23 91	Un petit trimaran premier à Fort de France ? Primonial touche au but
+A1	emotion T7 Positif

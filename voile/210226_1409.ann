@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	course 125 131	VG2020
+T3	equipage 108 123	initiativecoeur
+T4	personne 15 29	samanthadavies
+T5	lieu 87 103	Nouvelle-Zélande
+T6	emotion 34 104	J’ai failli définitivement abandonner au large de la Nouvelle-Zélande…
+A1	emotion T6 Negatif

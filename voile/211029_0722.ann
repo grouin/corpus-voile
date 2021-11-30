@@ -1,0 +1,4 @@
+T1	date 34 42	vendredi
+T2	evenement 3 23	Semaine de Marseille
+T3	emotion 0 80	La Semaine de Marseille débute ce vendredi, on annonce du beau monde sur l'eau !
+A1	emotion T3 Positif

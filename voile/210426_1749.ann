@@ -1,0 +1,9 @@
+T1	fonction 22 34	plaisanciers
+T2	categorie 48 54	annexe
+T3	pratique 71 84	hélitreuillés
+T4	lieu 87 96	Granville
+T5	incident 55 70	en panne moteur
+T6	emotion 17 70	Deux plaisanciers à bord d’une annexe en panne moteur
+A1	emotion T6 Negatif
+T7	emotion 71 84	hélitreuillés
+A2	emotion T7 Positif

@@ -1,0 +1,7 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 102 111	TransatJV
+T3	voilier 113 120	ImocaGS
+T4	personne 24 37	FabriceAmedeo
+T5	personne 41 51	L_Berrehar
+T6	emotion 55 100	la sagesse rencontre la fougue de la jeunesse
+A1	emotion T6 Positif

@@ -1,0 +1,1 @@
+<personne>Marc Guillemot</personne> fera la <course>Route du Rhum</course> <date>2022</date> sur un <categorie>cata</categorie> de <taille>52 pieds</taille> qu’il termine dans son chantier @<course>routedurhum</course>

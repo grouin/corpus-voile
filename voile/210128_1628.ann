@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	personne 15 30	ArmelTriponSkip
+T3	meteo 89 100	dépressions
+T4	course 104 110	VG2020
+T5	emotion 35 100	J’ai pris la décision de laisser passer les 2 grosses dépressions
+A1	emotion T5 Negatif
+#1	AnnotatorNotes T5	déception

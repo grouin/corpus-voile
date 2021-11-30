@@ -1,0 +1,7 @@
+T1	personne 0 11	Didac Costa
+T2	course 58 70	Vendée Globe
+T3	fonction 27 34	pompier
+T4	rang 51 54	20e
+R1	classement Arg1:T1 Arg2:T4	
+T5	emotion 0 23	Didac Costa est arrivé.
+A1	emotion T5 Positif

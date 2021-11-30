@@ -1,0 +1,1 @@
+<course>Défi Azimut</course>. <personne>Charlie Dalin</personne> et <personne>Paul Meilhat</personne> sur @<bateau>ApiviaVoile</bateau> <distinction>grands</distinction> <rang>vainqueurs</rang> de la course des <duree>48h</duree> @<course>defiazimut</course> @<voilier>ImocaGS</voilier>

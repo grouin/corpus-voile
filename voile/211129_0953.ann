@@ -1,0 +1,8 @@
+T1	equipage 0 5	MACSF
+T2	lieu 8 22	Fort de France
+T3	meteo 62 69	éclairs
+T4	meteo 77 83	orages
+T5	course 95 114	TransatJacquesVabre
+R1	localisation Arg1:T1 Arg2:T2	
+T6	emotion 27 56	la nuit c’était apocalyptique
+A1	emotion T6 Negatif

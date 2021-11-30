@@ -1,0 +1,8 @@
+T1	course 0 19	Trophée Jules Verne
+T2	personne 22 35	Yann Guichard
+T3	categorie 57 70	maxi-trimaran
+T4	equipage 71 86	Sails of Change
+T5	course 100 112	TJV_officiel
+T6	course 114 131	Tropheejulesverne
+T7	emotion 54 98	le maxi-trimaran Sails of Change ne part pas
+A1	emotion T7 Negatif

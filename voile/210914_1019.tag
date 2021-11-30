@@ -1,0 +1,1 @@
+<course>Solitaire du Figaro</course>. <personne>Macaire</personne> et <personne>Dolan</personne> <rang>en tête</rang> au <lieu>Fastnet</lieu> mais à l’aveugle, très isolés de la flotte @<course>LaSolitaire_52e</course>

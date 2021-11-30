@@ -1,0 +1,6 @@
+T1	personne 39 54	Titouan Lamazou
+T2	lieu 83 92	Venezuela
+T3	bateau 12 35	Écureuil d’Aquitaine II
+R1	skipper Arg1:T1 Arg2:T3	
+T4	emotion 10 92	L’Écureuil d’Aquitaine II de Titouan Lamazou va enfin pouvoir quitter le Venezuela
+A1	emotion T4 Positif

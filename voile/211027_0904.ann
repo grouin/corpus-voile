@@ -1,0 +1,7 @@
+T1	categorie 10 18	trimaran
+T2	bateau 19 39	Edmond de Rothschild
+T3	fonction 49 60	plaisancier
+T4	technique 84 88	foil
+T5	voilier 77 82	Ultim
+T6	emotion 7 75	Le trimaran Edmond de Rothschild évite un plaisancier : « Énorme ! »
+A1	emotion T6 Positif

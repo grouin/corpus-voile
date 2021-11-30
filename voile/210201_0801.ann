@@ -1,0 +1,8 @@
+T1	course 0 12	Vendée Globe
+T2	personne 14 26	Armel Tripon
+T3	rang 34 37	11e
+T4	lieu 42 57	Sables-d’Olonne
+T5	meteo 68 75	tempête
+R1	classement Arg1:T2 Arg2:T3	
+T6	emotion 14 57	Armel Tripon arrive 11e aux Sables-d’Olonne
+A1	emotion T6 Positif

@@ -1,0 +1,8 @@
+T1	personne 0 14	Pierre Quiroga
+T2	course 82 88	Figaro
+T3	lieu 106 113	Roscoff
+T4	date 118 126	dimanche
+T5	etape 61 75	dernière étape
+R1	localisation Arg1:T1 Arg2:T3	
+T6	fonction 33 43	Solitaires
+#1	AnnotatorNotes T6	skippers de la Solitaire

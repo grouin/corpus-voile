@@ -1,0 +1,7 @@
+T1	personne 0 16	Isabelle Joschke
+T2	course 48 60	Vendée Globe
+T3	lieu 77 92	Sables-d'Olonne
+R1	localisation Arg1:T1 Arg2:T3	
+T4	distinction 35 40	héros
+T5	emotion 0 93	Isabelle Joschke sacrée à son tour héros de ce  Vendée Globe en arrivant aux Sables-d'Olonne.
+A1	emotion T5 Positif

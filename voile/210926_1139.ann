@@ -1,0 +1,12 @@
+T1	personne 0 16	Armel Le Cléac'h
+T2	personne 20 35	Kevin Escoffier
+T3	lieu 65 72	Lorient
+T4	course 81 96	défi des Ultims
+T5	rang 36 46	s'imposent
+R1	classement Arg1:T1 Arg2:T5	
+R2	classement Arg1:T2 Arg2:T5	
+R3	localisation Arg1:T2 Arg2:T3	
+R4	localisation Arg1:T1 Arg2:T3	
+R5	localisation Arg1:T5 Arg2:T3	
+T6	emotion 0 97	Armel Le Cléac'h et Kevin Escoffier s'imposent ( de justesse ) à Lorient dans le défi des Ultims.
+A1	emotion T6 Positif

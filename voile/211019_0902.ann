@@ -1,0 +1,10 @@
+T1	bateau 10 22	Cisne Branco
+T2	voilier 36 46	trois-mâts
+T3	organisation 53 71	Marine brésilienne
+T4	lieu 91 99	Équateur
+T5	incident 73 87	heurte un pont
+T6	emotion 24 46	prestigieux trois-mâts
+A1	emotion T6 Positif
+T7	emotion 73 87	heurte un pont
+A2	emotion T7 Negatif
+R1	localisation Arg1:T1 Arg2:T4	

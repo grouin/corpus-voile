@@ -1,0 +1,9 @@
+T1	personne 0 11	Melwin Fink
+T2	course 40 52	Mini Transat
+T3	rang 69 77	victoire
+T4	lieu 80 90	Santa Cruz
+R1	localisation Arg1:T3 Arg2:T4	
+T5	emotion 0 52	Melwin Fink a réussi son hold-up sur la Mini Transat
+A1	emotion T5 Positif
+T6	emotion 69 77	victoire
+A2	emotion T6 Positif

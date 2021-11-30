@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. <incident>Avarie</incident> sur le <equipage>MACSF</equipage> d’<personne>Isabelle Joschke</personne> et <personne>Fabien Delahaye</personne> #<course>TransatJacquesVabre</course>

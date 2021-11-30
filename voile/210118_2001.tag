@@ -1,0 +1,1 @@
+VIDÉO. <course>Trophée Jules Verne</course>. Décollage pour le <categorie>Maxi</categorie> <bateau>Edmond de Rothschild</bateau> en vol à plus de <vitesse>37 nœuds</vitesse> @<equipage>GitanaTeam</equipage> @<course>TJV_officiel</course>

@@ -1,0 +1,9 @@
+T1	voilier 0 5	IMOCA
+T2	personne 8 23	ClaSurLAtlantiq
+T3	course 33 44	VendeeGlobe
+T4	date 45 49	2024
+T5	personne 65 77	CharlieDalin
+T6	emotion 82 105	Un incroyable challenge
+A1	emotion T6 Positif
+T7	bateau 54 60	Apivia
+R1	skipper Arg1:T5 Arg2:T7	

@@ -1,0 +1,1 @@
+<course>Trophée Jules Verne</course>. <organisation>Spindrift</organisation> reporte in extremis le départ du <categorie>maxi-trimaran</categorie> <equipage>Sails of Change</equipage> ! #<course>tropheejulesverne</course>

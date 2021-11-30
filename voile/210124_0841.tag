@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. <personne>Dalin</personne>, <personne>Burton</personne>, <personne>Herrmann</personne> et <personne>Ruyant</personne> toujours <rang>en tête</rang>, <personne>Bestaven</personne> se recale <lieu>au nord</lieu>

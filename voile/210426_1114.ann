@@ -1,0 +1,5 @@
+T1	categorie 3 8	ferry
+T3	lieu 56 62	Calais
+T4	incident 18 43	collision avec un voilier
+T2	emotion 0 62	Un ferry entre en collision avec un voilier au large de Calais
+A1	emotion T2 Negatif

@@ -1,0 +1,1 @@
+<personne>Roland Jourdain</personne> fera la <course>Route du Rhum</course> <date>2022</date> sur un <categorie>voilier</categorie> en fibre végétale, « un autre possible » @<personne>RolandJourdain</personne> @<course>routedurhum</course>

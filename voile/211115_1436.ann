@@ -1,0 +1,10 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 82 101	TransatJacquesVabre
+T3	personne 45 61	Isabelle Joschke
+T4	personne 65 80	Fabien Delahaye
+T5	incident 23 29	Avarie
+T6	equipage 37 42	MACSF
+R1	skipper Arg1:T3 Arg2:T6	
+R2	skipper Arg1:T4 Arg2:T6	
+T7	emotion 23 29	Avarie
+A1	emotion T7 Negatif

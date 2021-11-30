@@ -1,0 +1,10 @@
+T1	personne 0 13	Franck Cammas
+T2	personne 17 35	Charles Caudrelier
+T3	course 62 75	Jacques Vabre
+T4	voilier 85 90	Ultim
+T5	technique 104 108	bôme
+T6	emotion 115 149	c'est peut-être la dernière fois !
+A1	emotion T6 Positif
+#1	AnnotatorNotes T6	Bien que l'expression ait une connotation négative, ne plus avoir besoin d'un équipement est une avancée
+R1	skipper Arg1:T1 Arg2:T4	
+R2	skipper Arg1:T2 Arg2:T4	

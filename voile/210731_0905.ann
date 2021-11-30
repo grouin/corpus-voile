@@ -1,0 +1,9 @@
+T1	personne 0 14	Charline Picon
+T2	lieu 36 44	Enoshima
+T3	rang 16 33	médaille d'argent
+T4	personne 59 71	Didier Ravon
+R1	classement Arg1:T1 Arg2:T3	
+R2	localisation Arg1:T3 Arg2:T2	
+T5	distinction 108 118	championne
+T6	emotion 0 45	Charline Picon, médaille d'argent à Enoshima.
+A1	emotion T6 Positif

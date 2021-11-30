@@ -1,0 +1,8 @@
+T1	personne 0 15	Roland Jourdain
+T2	personne 25 41	Yannick Bestaven
+T3	personne 82 99	Jean-Marie Dauris
+T4	course 55 76	Transat Jacques Vabre
+T5	emotion 0 23	Roland Jourdain forfait
+A1	emotion T5 Negatif
+T6	emotion 25 99	Yannick Bestaven va courir la Transat Jacques Vabre avec Jean-Marie Dauris
+A2	emotion T6 Positif

@@ -1,0 +1,5 @@
+T1	lieu 21 40	Patagonie chilienne
+T2	personne 43 52	Sir-Ernst
+T3	lieu 64 86	péninsule de Brecknock
+T4	categorie 10 17	voilier
+R1	localisation Arg1:T2 Arg2:T3	

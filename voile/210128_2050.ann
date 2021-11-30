@@ -1,0 +1,8 @@
+T1	course 0 12	Vendée Globe
+T2	personne 15 24	JeanLecam
+T3	rang 26 28	8e
+T4	rang 52 54	4e
+T5	course 78 84	VG2020
+R1	classement Arg1:T2 Arg2:T4	
+T6	emotion 14 76	@JeanLecam, 8e à franchir la ligne et 4e au classement général
+A1	emotion T6 Positif

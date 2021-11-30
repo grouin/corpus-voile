@@ -1,0 +1,8 @@
+T1	course 0 18	Rolex Fastnet Race
+T2	incident 30 59	collision avec un plaisancier
+T3	personne 68 76	Bestaven
+T4	personne 77 85	Jourdain
+T5	emotion 61 95	le duo Bestaven/Jourdain abandonne
+A1	emotion T5 Negatif
+T6	emotion 30 59	collision avec un plaisancier
+A2	emotion T6 Negatif

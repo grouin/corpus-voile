@@ -1,0 +1,8 @@
+T1	personne 11 26	Clarisse Crémer
+T2	personne 101 116	ClaSurLAtlantiq
+T3	course 118 129	VendeeGlobe
+T4	course 50 62	Vendée Globe
+T5	emotion 76 97	angoisse de l’abandon
+A1	emotion T5 Negatif
+T6	emotion 11 62	Clarisse Crémer veut « repartir sur le Vendée Globe
+A2	emotion T6 Positif

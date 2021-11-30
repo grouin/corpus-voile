@@ -1,0 +1,6 @@
+T1	voilier 18 31	voilier-cargo
+T2	bateau 0 13	Grain de Sail
+T3	bateau 93 105	Graindesail1
+T4	type 69 91	boucle transatlantique
+T5	emotion 0 91	Grain de Sail, le voilier-cargo breton est reparti pour sa troisième boucle transatlantique
+A1	emotion T5 Positif

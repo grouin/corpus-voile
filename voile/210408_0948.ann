@@ -1,0 +1,7 @@
+T1	personne 18 33	Thomas Traversa
+T2	meteo 47 54	tempête
+T3	lieu 58 65	Espagne
+T4	categorie 7 15	Windsurf
+T5	categorie 92 103	windsurfing
+T6	emotion 18 65	Thomas Traversa affronte une tempête en Espagne
+A1	emotion T6 Negatif

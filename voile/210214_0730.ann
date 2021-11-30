@@ -1,0 +1,6 @@
+T2	lieu 127 142	Sables-d'Olonne
+T3	incident 99 107	naufrage
+T4	personne 27 47	Stéphane Le Diraison
+R1	localisation Arg1:T4 Arg2:T2	
+T1	emotion 91 122	presque naufrage dans le chenal
+A1	emotion T1 Negatif

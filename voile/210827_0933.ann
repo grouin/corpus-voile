@@ -1,0 +1,4 @@
+T1	technique 28 34	quille
+T2	lieu 58 80	rochers de l’île de Ré
+T3	emotion 14 80	J’ai perdu la quille de mon voilier sur les rochers de l’île de Ré
+A1	emotion T3 Negatif

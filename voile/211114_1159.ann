@@ -1,0 +1,9 @@
+T1	personne 33 36	VDH
+T2	lieu 49 54	Brest
+T3	personne 100 111	Eric Defert
+T4	duree 88 94	3 mois
+T5	bateau 20 29	ex Adrien
+R1	skipper Arg1:T3 Arg2:T5	
+R2	localisation Arg1:T3 Arg2:T2	
+T6	emotion 0 112	La seconde vie de l'ex Adrien de VDH qui part de Brest pour une mission scientifique de 3 mois avec Eric Defert.
+A1	emotion T6 Positif

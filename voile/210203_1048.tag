@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. <personne>Clarisse Crémer</personne> (<equipage>Banque Populaire</equipage>) attendue ce <date>mercredi vers 16h30</date> aux <lieu>Sables-d’Olonne</lieu> #<course>VG2020</course> @<personne>ClaSurLAtlantiq</personne>

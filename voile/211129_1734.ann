@@ -1,0 +1,7 @@
+T1	voilier 0 7	Class40
+T2	equipage 9 24	Banque du Léman
+T3	equipage 28 46	Seafrigo-Sogestran
+T4	rang 54 60	podium
+T5	course 78 99	Transat Jacques Vabre
+T6	emotion 9 99	Banque du Léman et Seafrigo-Sogestran sur le podium très serré de la Transat Jacques Vabre
+A1	emotion T6 Positif

@@ -1,0 +1,8 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 99 108	TransatJV
+T3	equipage 110 122	Sodebo_Voile
+T4	equipage 73 79	Sodebo
+T5	incident 51 57	avarie
+T6	equipage 65 69	foil
+T7	emotion 23 97	Des précisions concernant l’avarie sur le foil de Sodebo, et la réparation
+A1	emotion T7 Positif

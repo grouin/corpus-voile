@@ -1,0 +1,9 @@
+T1	course 0 12	Vendée Globe
+T2	personne 14 26	Louis Burton
+T3	rang 27 34	en tête
+T4	personne 36 49	Thomas Ruyant
+R1	classement Arg1:T2 Arg2:T3	
+T5	lieu 60 67	au nord
+R2	localisation Arg1:T4 Arg2:T5	
+T6	emotion 14 34	Louis Burton en tête
+A1	emotion T6 Positif

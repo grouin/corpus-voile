@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. Le carnet de bord de <personne>Sam Davies</personne> et <personne>Nico Lunven</personne> : début de course difficile ! @<course>TransatJV</course> @<equipage>initiativecoeur</equipage>

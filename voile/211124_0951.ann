@@ -1,0 +1,12 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	personne 23 39	Armel Le Cléac’h
+T3	personne 43 58	Kevin Escoffier
+T4	rang 71 79	3e place
+T5	lieu 82 96	Fort de France
+R1	classement Arg1:T2 Arg2:T4	
+R2	classement Arg1:T3 Arg2:T4	
+R3	localisation Arg1:T2 Arg2:T5	
+R4	localisation Arg1:T3 Arg2:T5	
+T6	emotion 23 96	Armel Le Cléac’h et Kevin Escoffier prennent la 3e place à Fort de France
+A1	emotion T6 Positif
+#1	AnnotatorNotes T6	Sur le podium, donc positif

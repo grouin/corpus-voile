@@ -1,0 +1,9 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 101 110	TransatJV
+T3	equipage 112 127	initiativecoeur
+T4	personne 44 54	Sam Davies
+T5	personne 58 69	Nico Lunven
+T6	emotion 72 99	début de course difficile !
+A1	emotion T6 Negatif
+R1	skipper Arg1:T5 Arg2:T3	
+R2	skipper Arg1:T4 Arg2:T3	

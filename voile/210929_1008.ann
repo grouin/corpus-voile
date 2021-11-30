@@ -1,0 +1,6 @@
+T1	categorie 3 10	voilier
+T2	course 17 29	Mini Transat
+T3	incident 32 38	démâté
+T4	incident 63 70	avaries
+T5	emotion 0 70	Un voilier de la Mini Transat a démâté, d’autres subissent des avaries
+A1	emotion T5 Negatif

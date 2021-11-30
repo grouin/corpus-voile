@@ -1,0 +1,7 @@
+T1	incident 28 39	perd la vie
+T2	lieu 52 70	Longeville-sur-mer
+T3	categorie 18 27	kayakiste
+T4	lieu 72 78	Vendée
+R1	localisation Arg1:T1 Arg2:T2	
+T5	emotion 0 79	Drame en mer : un kayakiste perd la vie au large de Longeville-sur-mer (Vendée)
+A1	emotion T5 Negatif

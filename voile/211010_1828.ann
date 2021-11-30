@@ -1,0 +1,9 @@
+T1	incident 12 22	chavirages
+T2	incident 30 39	collision
+T3	course 83 89	SailGP
+T4	emotion 12 22	chavirages
+A1	emotion T4 Negatif
+T5	emotion 30 58	collision évitée de justesse
+A2	emotion T5 Positif
+T6	emotion 61 89	folle journée sur le @SailGP
+A3	emotion T6 Positif

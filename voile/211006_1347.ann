@@ -1,0 +1,9 @@
+T1	categorie 3 10	voilier
+T2	incident 11 22	en détresse
+T3	meteo 31 44	mauvais temps
+T4	fonction 52 58	marins
+T5	lieu 78 91	Perros-Guirec
+T6	emotion 47 65	deux marins sauvés
+A1	emotion T6 Positif
+T7	emotion 0 44	Un voilier en détresse dans le mauvais temps
+A2	emotion T7 Negatif

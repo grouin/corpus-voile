@@ -1,0 +1,7 @@
+T1	voilier 49 54	IMOCA
+T2	voilier 70 77	ImocaGS
+T3	meteo 63 68	brise
+T4	equipage 79 89	VoileMACSF
+T5	duree 27 36	72 heures
+T6	emotion 9 22	C’est chaud !
+A1	emotion T6 Uncertain

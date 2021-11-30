@@ -1,0 +1,1 @@
+VIDÉO. <course>Mini Transat</course>. <personne>Christian Kargl</personne> termine <rang>deuxième</rang> des <categorie>Série</categorie>, loin derrière le jeune <personne>Melwin Fink</personne> @<course>MiniTransat2021</course>

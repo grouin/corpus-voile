@@ -1,0 +1,1 @@
+Examen de <meteo>tempête</meteo> réussi pour le <voilier>Figaro 3</voilier>. <date>La semaine dernière</date>, <personne>Sophie Faguet</personne> et <personne>Pierre Leboucher</personne> ont essuyé <vitesse>60 nœuds</vitesse> de <meteo>vent</meteo> en course et le bateau a tenu. En plus, ils ont <rang>gagné</rang> le <course>Tour d'Italie</course>. Chapeau bas, deux fois !

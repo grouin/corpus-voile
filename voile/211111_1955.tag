@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. <technique>Escale Technique</technique> à <lieu>Madère</lieu> pour <personne>Coville</personne> et <personne>Rouxel</personne> sur le <categorie>trimaran</categorie> <equipage>Sodebo</equipage> @<course>TransatJV</course> @<equipage>Sodebo_Voile</equipage>

@@ -1,0 +1,1 @@
+EXPLOIT. <personne>Lomane Valade</personne>, <age>14 ans</age>, <distinction>championne du monde</distinction> et <distinction>triple championne de France</distinction> d’<voilier>Optimist</voilier> ! @<organisation>FFVoile</organisation>

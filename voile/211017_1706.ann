@@ -1,0 +1,7 @@
+T1	fonction 9 28	directeur technique
+T2	organisation 32 35	NKE
+T3	personne 37 49	Paul Fraisse
+T4	voilier 81 89	Ministes
+T5	lieu 127 135	canarien
+T6	emotion 0 135	L'ancien directeur technique de NKE, Paul Fraisse, n'est pas pessimiste pour les Ministes ensevelis sous les cendres du volcan canarien
+A1	emotion T6 Positif

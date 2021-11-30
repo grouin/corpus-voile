@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. Coup dur pour <personne>Kito de Pavant</personne> et <personne>Gwen Gbick</personne> contraints à l’abandon sur <incident>avarie</incident> #<course>TransatJacquesVabre</course>

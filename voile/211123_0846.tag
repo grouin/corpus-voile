@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. <personne>Le Roux</personne> et <personne>Macaire</personne> <rang>2e</rang> en <voilier>Ocean Fifty</voilier> : « ça reste des bateaux casse-gueule » #<course>TransatJacquesVabre</course>

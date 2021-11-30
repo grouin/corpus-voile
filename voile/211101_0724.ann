@@ -1,0 +1,6 @@
+T1	type 54 69	course au large
+T2	course 103 116	Jacques Vabre
+T3	distinction 4 12	amateurs
+T4	distinction 41 47	cadors
+T5	emotion 0 69	Des amateurs qui viennent se frotter aux cadors de la course au large
+A1	emotion T5 Positif

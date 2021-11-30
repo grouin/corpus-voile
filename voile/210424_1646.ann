@@ -1,0 +1,7 @@
+T1	course 11 17	SailGP
+T2	course 111 117	SailGP
+T3	equipage 100 109	SailGPFRA
+T4	personne 19 34	Hélène Noesmoen
+T5	personne 38 49	Amélie Riou
+T6	emotion 19 98	Hélène Noesmoen et Amélie Riou, deux femmes sur un circuit à très haute vitesse
+A1	emotion T6 Positif

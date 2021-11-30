@@ -1,0 +1,1 @@
+<rang>9e place</rang> sur la <course>Jacques Vabre</course> pour le <rang>vainqueur</rang> du dernier <course>Vendée Globe</course>, juste devant <personne>Fabrice Amedeo</personne> qui avait dû abandonner sur ce tour du monde <type>en solitaire</type>.

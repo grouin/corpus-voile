@@ -1,0 +1,1 @@
+<bateau>BELEM</bateau>. À <age>34 ans</age> il devient <fonction>capitaine</fonction> du <bateau>Belem</bateau> ! <personne>Mathieu Combot</personne> raconte le fameux <voilier>trois-mâts</voilier> @<organisation>troismats_Belem</organisation>

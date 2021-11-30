@@ -1,0 +1,1 @@
+VIDÉO. <personne>Pierre Leboucher</personne>, <rang>leader</rang> de La <course>Solitaire</course>, <incident>dérouté</incident> par un <categorie>navire</categorie> de la <organisation>Marine Nationale</organisation> @<course>LaSolitaire_52e</course>

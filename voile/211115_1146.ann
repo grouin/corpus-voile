@@ -1,0 +1,8 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 94 107	TransatJV2021
+T3	personne 31 37	Cammas
+T4	personne 41 51	Caudrelier
+T5	voilier 23 28	Ultim
+T6	voilier 109 119	Ultim32_23
+T7	emotion 31 91	Cammas et Caudrelier ont perdu les deux tiers de leur avance
+A1	emotion T7 Negatif

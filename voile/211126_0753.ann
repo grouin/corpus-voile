@@ -1,0 +1,10 @@
+T1	rang 0 8	4e place
+T2	voilier 18 23	Ultim
+T3	personne 47 61	Yves Le Blevec
+T4	personne 65 81	Anthony Marchand
+T5	lieu 132 145	La Martinique
+T6	emotion 26 41	objectif rempli
+T7	incident 121 128	émeutes
+A1	emotion T6 Positif
+T8	emotion 121 145	émeutes de La Martinique
+A2	emotion T8 Negatif

@@ -1,0 +1,1 @@
+<course>Défi Azimut Ultim</course>. <personne>Armel le Cléac'h</personne> premier au way point des <lieu>Sables-d'Olonne</lieu>, <personne>François gabart</personne> est rentré à <lieu>Concarneau</lieu>.

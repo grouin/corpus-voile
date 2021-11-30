@@ -1,0 +1,1 @@
+VIDÉO. Essai. <voilier>Astus 22.5</voilier>, un <distinction>petit</distinction> <categorie>trimaran</categorie> <distinction>repliable et rapide</distinction> signé @<organisation>VPLPYachtDesign</organisation>

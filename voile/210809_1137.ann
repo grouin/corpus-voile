@@ -1,0 +1,8 @@
+T1	course 0 18	Rolex Fastnet Race
+T2	personne 20 32	Loïck Peyron
+T3	equipage 50 58	No Limit
+T4	incident 81 89	démâtage
+T5	organisation 91 106	RolexFastnet_Ch
+#1	AnnotatorNotes T5	Compte officiel de l’arrivée
+T6	emotion 20 89	Loïck Peyron et l’équipage de No Limit à bon port après leur démâtage
+A1	emotion T6 Positif

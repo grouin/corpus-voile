@@ -1,0 +1,11 @@
+T1	course 8 29	Transat Jacques Vabre
+T2	course 90 109	TransatJacquesVabre
+T3	rang 65 67	2e
+T4	rang 71 73	3e
+T5	voilier 77 88	Ocean Fifty
+T6	equipage 47 53	Koesio
+T7	equipage 57 63	Leyton
+R1	classement Arg1:T6 Arg2:T3	
+R2	classement Arg1:T7 Arg2:T4	
+T8	emotion 31 88	Les arrivées de Koesio et Leyton, 2e et 3e en Ocean Fifty
+A1	emotion T8 Positif

@@ -1,0 +1,9 @@
+T1	course 7 28	Transat Jacques Vabre
+T2	categorie 56 60	Maxi
+T3	bateau 61 81	Edmond de Rothschild
+T4	lieu 84 98	Fort de France
+T5	rang 43 52	vainqueur
+R2	localisation Arg1:T3 Arg2:T4	
+T6	emotion 30 98	L’arrivée en vainqueur du Maxi Edmond de Rothschild à Fort de France
+A1	emotion T6 Positif
+#1	AnnotatorNotes T3	Il s'agit du nom du bateau. L'équipage est Gitana (le nom est absent de ce tweet)

@@ -1,0 +1,12 @@
+T1	course 0 18	Rolex Fastnet Race
+T2	bateau 28 48	Edmond de Rothschild
+T3	lieu 59 68	Cherbourg
+T4	rang 49 56	premier
+T5	voilier 23 27	Maxi
+R1	localisation Arg1:T2 Arg2:T3	
+R2	localisation Arg1:T4 Arg2:T3	
+T6	rang 72 81	vainqueur
+T7	organisation 99 114	RolexFastnet_Ch
+T8	equipage 116 126	GitanaTeam
+T9	emotion 20 114	Le Maxi Edmond de Rothschild premier à Cherbourg et vainqueur pour la 2e fois @RolexFastnet_Ch
+A1	emotion T9 Positif

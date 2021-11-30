@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. <incident>Violente collision avec un Ofni</incident> pour <personne>Thomas Coville</personne> et <personne>Thomas Rouxel</personne> @<course>TransatJV</course> @<equipage>Sodebo_Voile</equipage>

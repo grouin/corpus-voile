@@ -1,0 +1,11 @@
+T1	evenement 0 11	JO de Tokyo
+T2	lieu 28 33	Japon
+T3	type 47 54	régates
+T4	evenement 67 74	JOTokyo
+T5	evenement 76 82	JO2021
+A1	hashtag T4 Oui
+A2	hashtag T5 Oui
+T6	date 55 63	ce lundi
+T7	meteo 20 24	vent
+T8	emotion 13 65	Pas de vent au Japon, donc pas de régates ce lundi !
+A3	emotion T8 Negatif

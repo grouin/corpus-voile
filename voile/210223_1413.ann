@@ -1,0 +1,9 @@
+T1	course 0 12	Mini-Transat
+T2	lieu 64 77	Bretagne Nord
+T3	lieu 81 88	Roscoff
+T4	categorie 90 100	ClasseMini
+T5	course 102 117	MiniTransat2021
+T6	lieu 119 131	VilleRoscoff
+T7	categorie 20 28	Ministes
+T8	emotion 14 88	Les « Ministes » peuvent désormais s’entraîner en Bretagne Nord, à Roscoff
+A1	emotion T8 Positif

@@ -1,0 +1,8 @@
+T2	personne 15 28	Jérémie Beyou
+T4	lieu 44 59	Sables-d’Olonne
+T5	course 0 12	Vendée Globe
+T1	rang 36 39	13e
+R1	classement Arg1:T2 Arg2:T1	
+R2	localisation Arg1:T2 Arg2:T4	
+T3	emotion 15 59	Jérémie Beyou arrive 13e aux Sables-d’Olonne
+A1	emotion T3 Positif

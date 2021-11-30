@@ -1,0 +1,9 @@
+T1	course 0 12	Vendée Globe
+T2	personne 14 26	Louis Burton
+T3	rang 28 36	deuxième
+T4	lieu 41 56	Sables-d’Olonne
+T5	course 58 64	VG2020
+T6	personne 66 80	LouisBurtonOff
+R1	classement Arg1:T2 Arg2:T3	
+T7	emotion 14 56	Louis Burton, deuxième aux Sables-d’Olonne
+A1	emotion T7 Positif

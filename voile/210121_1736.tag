@@ -1,0 +1,1 @@
+<course>Trophée Jules Verne</course>. Le <categorie>Maxi</categorie> <bateau>Edmond de Rothschild</bateau> à <lieu>Bonne-Espérance</lieu> en un temps record @<course>TJV_officiel</course> @<equipage>GitanaTeam</equipage>

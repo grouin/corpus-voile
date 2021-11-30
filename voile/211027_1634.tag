@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. Le <fonction>skipper</fonction> suisse @<personne>AlanRoura</personne> achète l’<voilier>IMOCA</voilier> <equipage>Hugo Boss</equipage> d’ @<personne>AlexThomson99</personne> ! @<voilier>ImocaGS</voilier>

@@ -1,0 +1,8 @@
+T1	course 0 19	Trophée Jules Verne
+T2	lieu 29 37	Cap Vert
+T3	categorie 42 50	trimaran
+T4	equipage 58 67	Gitana 17
+T5	vitesse 79 87	34 nœuds
+T6	course 99 111	TJV_officiel
+T7	equipage 113 123	GitanaTeam
+R1	localisation Arg1:T4 Arg2:T2	

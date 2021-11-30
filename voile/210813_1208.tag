@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. <voilier>Class40</voilier> : <personne>Amélie Grassi</personne> embarque <personne>Marie Riou</personne> à bord de son <bateau>plan Raison</bateau> @<voilier>AssoClass40</voilier> @<course>TransatJV_fr</course>

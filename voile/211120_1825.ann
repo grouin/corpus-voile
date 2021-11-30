@@ -1,0 +1,17 @@
+T1	voilier 33 41	Figaro 3
+T2	personne 64 77	Sophie Faguet
+T3	personne 81 97	Pierre Leboucher
+T4	vitesse 109 117	60 nœuds
+T5	meteo 121 125	vent
+T6	course 183 196	Tour d'Italie
+T7	rang 174 179	gagné
+T8	meteo 10 17	tempête
+T9	date 43 62	La semaine dernière
+R1	skipper Arg1:T2 Arg2:T1	
+R2	skipper Arg1:T3 Arg2:T1	
+T10	emotion 0 156	Examen de tempête réussi pour le Figaro 3. La semaine dernière, Sophie Faguet et Pierre Leboucher ont essuyé 60 nœuds de vent en course et le bateau a tenu.
+A1	emotion T10 Positif
+T11	emotion 166 196	ils ont gagné le Tour d'Italie
+A2	emotion T11 Positif
+R3	classement Arg1:T3 Arg2:T7	
+R4	classement Arg1:T2 Arg2:T7	

@@ -1,0 +1,6 @@
+T1	lieu 60 72	Saint-Tropez
+T2	voilier 10 18	Canadair
+T3	voilier 28 47	navire de plaisance
+T4	fonction 77 92	Préfet maritime
+T5	emotion 7 47	Un Canadair frôle un navire de plaisance
+A1	emotion T5 Negatif

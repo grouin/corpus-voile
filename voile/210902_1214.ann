@@ -1,0 +1,9 @@
+T1	organisation 20 24	SNSM
+T2	lieu 71 80	Deauville
+T3	organisation 82 97	SauveteursenMer
+T4	incident 31 63	quatre naufragés passés à la mer
+R1	localisation Arg1:T4 Arg2:T2	
+T5	emotion 0 15	Le bateau coule
+A1	emotion T5 Negatif
+T6	emotion 17 63	la SNSM sauve quatre naufragés passés à la mer
+A2	emotion T6 Positif

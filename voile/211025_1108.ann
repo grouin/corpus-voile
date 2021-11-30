@@ -1,0 +1,7 @@
+T1	course 0 12	VENDÉE GLOBE
+T2	course 81 92	VendeeGlobe
+T3	personne 33 45	Alex Thomson
+T4	personne 94 107	AlexThomson99
+T5	type 62 77	course au large
+T6	emotion 14 79	Coup de tonnerre : Alex Thomson se retire de la course au large !
+A1	emotion T6 Negatif

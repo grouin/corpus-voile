@@ -1,0 +1,6 @@
+T1	course 3 20	Mini-Transat 2021
+T2	fonction 39 58	directeur de course
+T3	personne 60 72	Denis Hugues
+T4	personne 114 128	Serge Messager
+T5	emotion 0 34	La Mini-Transat 2021 est terminée.
+A1	emotion T5 Positif

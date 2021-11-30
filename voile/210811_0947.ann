@@ -1,0 +1,12 @@
+T1	course 0 13	Rolex Fastnet
+T2	voilier 44 53	monocoque
+T3	equipage 24 32	Skorpios
+T4	equipage 56 67	ApiviaVoile
+T5	voilier 88 95	ImocaGS
+T6	rang 68 83	grand vainqueur
+T7	rang 33 40	premier
+T8	organisation 97 112	RolexFastnet_Ch
+T9	emotion 15 53	Le géant Skorpios premier en monocoque
+A1	emotion T9 Positif
+T10	emotion 55 95	@ApiviaVoile grand vainqueur en @ImocaGS
+A2	emotion T10 Positif

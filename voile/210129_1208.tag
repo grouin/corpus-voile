@@ -1,0 +1,1 @@
+VIDÉO. <course>Vendée Globe</course>. @<personne>AlexThomson99</personne> , le <distinction>favori</distinction> déchu félicite tous les <fonction>skippers</fonction> arrivés aux <lieu>Sables</lieu> #<course>VG2020</course>

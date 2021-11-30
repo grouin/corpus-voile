@@ -1,0 +1,7 @@
+T1	voilier 26 40	Super-Arlequin
+T2	fonction 49 61	conférencier
+T3	evenement 68 74	Cop 26
+T4	lieu 118 125	Glasgow
+T5	lieu 16 22	Manche
+T6	emotion 79 125	voulait voyager écologiquement jusqu'à Glasgow
+A1	emotion T6 Positif

@@ -1,0 +1,7 @@
+T1	course 0 12	Vendée Globe
+T2	personne 14 28	Alexia Barrier
+T3	rang 56 68	24e position
+T4	type 39 52	tour du monde
+R1	classement Arg1:T2 Arg2:T3	
+T5	emotion 14 52	Alexia Barrier boucle le tour du monde
+A1	emotion T5 Positif

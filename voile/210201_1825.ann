@@ -1,0 +1,7 @@
+T1	course 7 19	Vendée Globe
+T2	personne 22 37	ClaSurLAtlantiq
+T3	course 82 88	VG2020
+T4	meteo 57 62	houle
+T5	emotion 42 78	7, 8 mètres de houle ça le fait bien
+A1	emotion T5 Positif
+#1	AnnotatorNotes T5	a priori, épreuve positive

@@ -1,0 +1,10 @@
+T1	technique 0 3	Mât
+T2	categorie 55 63	trimaran
+T3	bateau 64 82	Les P’tits Doudous
+T4	personne 85 97	Armel Tripon
+T5	personne 101 116	ArmelTriponSkip
+T6	incident 4 16	brisé en mer
+T7	emotion 0 16	Mât brisé en mer
+A1	emotion T7 Negatif
+T8	emotion 17 47	récupéré, réparé et réinstallé
+A2	emotion T8 Positif

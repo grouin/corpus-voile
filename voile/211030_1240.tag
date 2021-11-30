@@ -1,0 +1,1 @@
+Après le <distinction>record</distinction> du <type>tour du monde</type> <type>en équipage</type>, <personne>Gwénolé Gahinet</personne> s'attaque à un autre <type>tour du monde</type> à la voile, mais en famille cette fois. Il raconte.

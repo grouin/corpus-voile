@@ -1,0 +1,11 @@
+T1	personne 11 25	Yves Le Blevec
+T2	personne 29 45	Anthony Marchand
+T3	rang 54 56	4e
+T4	lieu 59 73	Fort de France
+T5	equipage 2 8	Actual
+R1	skipper Arg1:T1 Arg2:T5	
+R2	skipper Arg1:T2 Arg2:T5	
+R3	classement Arg1:T5 Arg2:T3	
+R4	localisation Arg1:T5 Arg2:T4	
+T6	emotion 0 74	L'Actual d'Yves Le Blevec et Anthony Marchand termine 4e à Fort de France.
+A1	emotion T6 Positif

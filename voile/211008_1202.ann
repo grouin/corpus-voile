@@ -1,0 +1,7 @@
+T1	vitesse 32 40	44 nœuds
+T2	voilier 46 58	SodeboUltim3
+T3	duree 61 69	30 jours
+T4	course 76 97	Transat Jacques Vabre
+T5	equipage 99 111	Sodebo_Voile
+T6	emotion 7 40	Une navigation à plus de 44 nœuds
+A1	emotion T6 Positif

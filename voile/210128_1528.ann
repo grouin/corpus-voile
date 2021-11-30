@@ -1,0 +1,7 @@
+T1	course 7 19	Vendée Globe
+T2	course 95 101	VG2020
+T3	lieu 78 93	Sables-d’Olonne
+T4	personne 58 73	YannickBestaven
+T5	emotion 22 73	l’émouvante arrivée victorieuse de @YannickBestaven
+A1	emotion T5 Uncertain
+#1	AnnotatorNotes T5	émouvant, à la fois triste et joyeux

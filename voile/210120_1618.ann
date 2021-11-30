@@ -1,0 +1,9 @@
+T1	course 7 19	Vendée Globe
+T2	personne 22 34	JeremieBeyou
+T3	technique 53 56	mât
+T4	equipage 60 66	Charal
+T5	technique 83 96	voile d’avant
+T6	course 98 104	VG2020
+R1	skipper Arg1:T2 Arg2:T4	
+T7	emotion 21 96	@JeremieBeyou grimpe en haut du mât de Charal pour réparer sa voile d’avant
+A1	emotion T7 Positif

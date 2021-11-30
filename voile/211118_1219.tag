@@ -1,0 +1,1 @@
+<course>Route du Rhum</course>. <personne>Corentin Douguet</personne> sous les couleurs de <organisation>Groupe Quéguiner</organisation> avec un nouveau <voilier>Class40</voilier> @<personne>corentindouguet</personne> @<organisation>GroupeQueguiner</organisation> @<voilier>AssoClass40</voilier>

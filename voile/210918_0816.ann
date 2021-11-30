@@ -1,0 +1,15 @@
+T1	course 0 11	Défi Azimut
+T2	course 100 110	defiazimut
+T3	personne 13 26	Charlie Dalin
+T4	personne 30 42	Paul Meilhat
+T5	rang 67 77	vainqueurs
+T6	distinction 60 66	grands
+T7	bateau 48 59	ApiviaVoile
+T8	voilier 112 119	ImocaGS
+R1	skipper Arg1:T4 Arg2:T7	
+R2	skipper Arg1:T3 Arg2:T7	
+R3	classement Arg1:T4 Arg2:T5	
+R4	classement Arg1:T3 Arg2:T5	
+T9	duree 95 98	48h
+T10	emotion 13 77	Charlie Dalin et Paul Meilhat sur @ApiviaVoile grands vainqueurs
+A1	emotion T10 Positif

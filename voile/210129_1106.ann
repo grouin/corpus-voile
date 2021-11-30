@@ -1,0 +1,8 @@
+T1	course 0 12	Vendée Globe
+T2	personne 15 23	BDutreux
+T3	rang 25 27	9e
+T4	lieu 32 47	Sables-d’Olonne
+T5	course 49 55	VG2020
+R1	classement Arg1:T2 Arg2:T3	
+T6	emotion 14 47	@BDutreux, 9e aux Sables-d’Olonne
+A1	emotion T6 Positif

@@ -1,0 +1,14 @@
+T1	evenement 0 11	JO de Tokyo
+T2	evenement 150 157	JOTokyo
+T3	personne 19 36	Camille Lecointre
+T4	personne 40 55	Aloïse Retornaz
+T5	rang 67 73	bronze
+T6	voilier 13 16	470
+R1	classement Arg1:T4 Arg2:T5	
+R2	classement Arg1:T3 Arg2:T5	
+T7	personne 117 132	CamilleLecointr
+T8	personne 134 148	AloiseRetornaz
+T9	equipage 102 115	470objectifOR
+#1	AnnotatorNotes T9	Camille Lecointre & Aloïse Retornaz - Tokyo 2020
+T10	emotion 19 73	Camille Lecointre et Aloïse Retornaz restent en bronze
+A1	emotion T10 Positif

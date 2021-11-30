@@ -1,0 +1,7 @@
+T1	personne 0 16	Isabelle Joschke
+T2	lieu 40 46	Sables
+T3	personne 48 61	Alain Gautier
+T4	fonction 67 72	coach
+R1	localisation Arg1:T1 Arg2:T2	
+T5	emotion 48 112	Alain Gautier, son coach, lui envoie déjà des premiers lauriers.
+A1	emotion T5 Positif

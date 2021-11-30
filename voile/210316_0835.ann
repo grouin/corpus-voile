@@ -1,0 +1,7 @@
+T1	technique 25 35	gouvernail
+T2	type 71 78	transat
+T3	categorie 86 91	cargo
+T4	emotion 15 35	Privés de gouvernail
+A1	emotion T4 Negatif
+T5	emotion 37 91	nous avons été dépannés en pleine transat par un cargo
+A2	emotion T5 Positif

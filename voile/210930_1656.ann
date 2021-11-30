@@ -1,0 +1,5 @@
+T1	duree 6 15	107 jours
+T2	personne 24 37	Guirec Soudée
+T3	type 50 75	traversée de l’Atlantique
+T4	emotion 24 75	Guirec Soudée a bouclé sa traversée de l’Atlantique
+A1	emotion T4 Positif

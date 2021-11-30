@@ -1,0 +1,9 @@
+T1	course 0 13	Jacques Vabre
+T2	course 102 121	TransatJacquesVabre
+T3	rang 33 39	leader
+T4	personne 15 31	Sébastien Rogues
+T5	lieu 88 98	la Barbade
+T6	emotion 33 39	leader
+A1	emotion T6 Positif
+R1	localisation Arg1:T4 Arg2:T5	
+R2	classement Arg1:T4 Arg2:T3	

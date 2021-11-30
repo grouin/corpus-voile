@@ -1,0 +1,11 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 99 122	transatjacquesvabre2021
+T3	vitesse 89 97	35 nœuds
+T4	categorie 26 34	trimaran
+T5	personne 38 48	Le Cléac’h
+T6	personne 52 61	Escoffier
+R1	skipper Arg1:T5 Arg2:T4	
+R2	skipper Arg1:T6 Arg2:T4	
+T7	incident 66 84	tapé un petit truc
+T8	emotion 23 97	Le trimaran de Le Cléac’h et Escoffier a « tapé un petit truc » à 35 nœuds
+A1	emotion T8 Negatif

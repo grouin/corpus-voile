@@ -1,0 +1,1 @@
+VIDÉO. Le légendaire <voilier>cotre</voilier> de <taille>9 mètres</taille> de <personne>Nicole Van de Kerchove</personne>, <bateau>Esquilo</bateau>, <technique>remis à l’eau</technique> à <lieu>Paimpol</lieu>

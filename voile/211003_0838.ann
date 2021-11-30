@@ -1,0 +1,6 @@
+T1	course 0 17	Golden Globe Race
+T2	rang 33 41	victoire
+T3	personne 43 55	Simon Curwen
+T4	type 68 81	tour du monde
+T5	lieu 85 97	Bretagne Sud
+R1	localisation Arg1:T3 Arg2:T5	

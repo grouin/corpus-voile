@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. @<personne>samanthadavies</personne> : « J’ai failli définitivement abandonner au large de la <lieu>Nouvelle-Zélande</lieu>… » @<equipage>initiativecoeur</equipage> #<course>VG2020</course>

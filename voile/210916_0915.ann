@@ -1,0 +1,3 @@
+T1	incident 24 59	prend feu et se consume entièrement
+T2	emotion 7 59	Un grand voilier prend feu et se consume entièrement
+A1	emotion T2 Negatif

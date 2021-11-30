@@ -1,0 +1,11 @@
+T1	type 24 48	tour du monde à l'envers
+T2	meteo 57 62	vents
+T3	categorie 89 99	multicoque
+T4	meteo 66 84	courants dominants
+T5	duree 162 173	Quatre mois
+T6	emotion 130 160	personne ne l'a jamais réussie
+A1	emotion T6 Negatif
+T7	emotion 102 125	Une aventure si extrême
+A2	emotion T7 Positif
+T8	emotion 162 207	Quatre mois de lutte extrême en perspective !
+A3	emotion T8 Uncertain

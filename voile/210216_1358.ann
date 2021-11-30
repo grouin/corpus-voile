@@ -1,0 +1,11 @@
+T1	course 0 12	Vendée Globe
+T2	course 102 108	VG2020
+T3	personne 14 26	Louis Burton
+T4	bateau 35 57	L’Occitane en Provence
+T5	personne 60 72	Armel Tripon
+T6	bateau 85 100	Bureau Vallée 3
+T7	organisation 110 122	bureauvallee
+T8	personne 124 138	LouisBurtonOff
+R1	skipper Arg1:T5 Arg2:T4	
+T9	emotion 14 100	Louis Burton rachète L’Occitane en Provence d’Armel Tripon qui devient Bureau Vallée 3
+A1	emotion T9 Neutre

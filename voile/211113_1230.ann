@@ -1,0 +1,10 @@
+T1	equipage 0 9	LinkedOut
+T2	voilier 39 44	Imoca
+T3	course 53 74	Transat Jacques Vabre
+T4	equipage 80 86	Charal
+T5	equipage 90 96	Apivia
+T6	emotion 0 44	LinkedOut continue de mener le bal des Imoca
+A1	emotion T6 Positif
+T7	emotion 80 147	Charal et Apivia sont en chasse derrière, de plus en plus menaçants
+A2	emotion T7 Uncertain
+#1	AnnotatorNotes T7	Négatif pour le candidat en tête, positif pour les deux challengers

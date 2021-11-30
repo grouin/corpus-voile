@@ -1,0 +1,1 @@
+<voilier>ULTIM</voilier>. Le <voilier>Maxi</voilier> <bateau>Edmond de Rothschild</bateau> <incident>a heurté un OFNI</incident>, <bateau>Banque Populaire XI</bateau> a un <incident>problème</incident> de <technique>dérive</technique>

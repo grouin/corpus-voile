@@ -1,0 +1,7 @@
+T1	course 0 12	Mini Transat
+T2	fonction 27 35	skippers
+T3	lieu 64 73	espagnols
+T4	meteo 87 97	gros temps
+T5	pratique 36 48	se déroutent
+T6	emotion 15 99	de nombreux skippers se déroutent vers des ports espagnols pour fuir le gros temps !
+A1	emotion T6 Negatif

@@ -1,0 +1,11 @@
+T1	course 7 20	Jacques Vabre
+T2	personne 22 28	Cammas
+T3	personne 32 42	Caudrelier
+T4	lieu 61 71	Martinique
+T5	rang 89 96	favoris
+R1	localisation Arg1:T3 Arg2:T4	
+R2	localisation Arg1:T2 Arg2:T4	
+R3	classement Arg1:T3 Arg2:T5	
+R4	classement Arg1:T2 Arg2:T5	
+T6	emotion 22 96	Cammas et Caudrelier remontent vers la Martinique, plus que jamais favoris
+A1	emotion T6 Positif

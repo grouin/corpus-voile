@@ -1,0 +1,1 @@
+<personne>Franck Cammas</personne> et <personne>Charles Caudrelier</personne> prendront le départ de la <course>Jacques Vabre</course> sur leur <voilier>Ultim</voilier> équipé d'une <technique>bôme</technique>, mais c'est peut-être la dernière fois !

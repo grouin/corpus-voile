@@ -1,0 +1,6 @@
+T1	type 20 35	transatlantique
+T2	lieu 42 60	La Trinité-sur-Mer
+T3	lieu 67 77	Martinique
+T4	date 89 93	2022
+T5	emotion 8 93	La nouvelle transatlantique entre La Trinité-sur-Mer et la Martinique reportée à 2022
+A1	emotion T5 Negatif

@@ -1,0 +1,9 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	type 30 34	duos
+T3	etape 47 53	départ
+T4	course 98 107	TransatJV
+T5	emotion 23 64	Les 79 duos ont pris un départ magnifique
+A1	emotion T5 Positif
+T6	emotion 71 96	un casse-tête stratégique
+A2	emotion T6 Uncertain
+#1	AnnotatorNotes T6	pas nécessairement négatif, implique qu'il y aura des choix à faire

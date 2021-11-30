@@ -1,0 +1,9 @@
+T1	personne 32 45	Damien Seguin
+T2	fonction 97 104	skipper
+T3	equipage 107 113	APICIL
+T4	personne 119 133	Jacques Caraës
+R1	skipper Arg1:T1 Arg2:T3	
+T5	emotion 0 65	Le dernier sac de nourriture de Damien Seguin inondé d'eau de mer
+A1	emotion T5 Negatif
+T6	emotion 119 169	Jacques Caraës n'est pas "trop inquiet" quand même
+A2	emotion T6 Positif

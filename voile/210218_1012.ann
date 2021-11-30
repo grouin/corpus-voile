@@ -1,0 +1,6 @@
+T1	course 0 12	Vendée Globe
+T2	course 101 107	VG2020
+T3	personne 15 28	MerronMiranda
+T4	type 57 70	tour du monde
+T5	emotion 14 40	@MerronMiranda est arrivée
+A1	emotion T5 Positif

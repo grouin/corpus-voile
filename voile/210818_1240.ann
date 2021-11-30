@@ -1,0 +1,8 @@
+T1	lieu 48 64	rocher de Bandol
+T2	incident 74 97	naufrage de leur bateau
+T3	pratique 10 19	sauvetage
+T4	fonction 28 40	plaisanciers
+T5	emotion 7 64	Le sauvetage de deux plaisanciers sur un rocher de Bandol
+A1	emotion T5 Positif
+T6	emotion 74 97	naufrage de leur bateau
+A2	emotion T6 Negatif

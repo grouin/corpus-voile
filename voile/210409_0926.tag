@@ -1,0 +1,1 @@
+<course>Sardinha Cup</course>. <personne>Xavier Macaire</personne> et <personne>Morgan Lagravière</personne> <rang>remportent</rang> la <etape>première manche</etape> @<course>CupSardinha</course> @<categorie>ClasseFigaroben</categorie>

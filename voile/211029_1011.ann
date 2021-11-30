@@ -1,0 +1,6 @@
+T1	fonction 3 8	maire
+T2	lieu 12 17	Havre
+T3	personne 19 35	Edouard Philippe
+T4	personne 58 71	Charlie Dalin
+T5	emotion 94 119	Personne ne tombe à l'eau
+A1	emotion T5 Positif

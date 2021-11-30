@@ -1,0 +1,10 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	equipage 43 56	Crédit Mutuel
+T3	technique 89 95	quille
+T4	course 97 116	transatjacquesvabre
+T5	incident 23 37	Avarie majeure
+T6	incident 62 79	choc avec un OFNI
+T7	emotion 23 37	Avarie majeure
+A1	emotion T7 Negatif
+T8	emotion 62 79	choc avec un OFNI
+A2	emotion T8 Negatif

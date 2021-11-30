@@ -1,0 +1,5 @@
+T1	evenement 0 22	Voiles de Saint-Tropez
+T2	categorie 39 47	voiliers
+T3	lieu 75 83	St-Trop’
+T4	emotion 24 83	Les plus beaux voiliers du monde ont rendez-vous à St-Trop’
+A1	emotion T4 Positif

@@ -1,0 +1,1 @@
+<course>Vendée Globe</course>. <personne>Armel Tripon</personne> et <organisation>Airbus</organisation> veulent faire un <voilier>IMOCA</voilier> avec le carbone déclassé des avions @<personne>ArmelTriponSkip</personne>

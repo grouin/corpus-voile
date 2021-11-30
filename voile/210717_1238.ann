@@ -1,0 +1,12 @@
+T1	personne 9 22	Lomane Valade
+T2	age 24 30	14 ans
+T4	voilier 85 93	Optimist
+T5	organisation 97 104	FFVoile
+R1	skipper Arg1:T1 Arg2:T4	
+R2	attribut Arg1:T1 Arg2:T2	
+T6	distinction 32 51	championne du monde
+T7	distinction 55 82	triple championne de France
+R3	attribut Arg1:T1 Arg2:T6	
+R4	attribut Arg1:T1 Arg2:T7	
+T3	emotion 9 95	Lomane Valade, 14 ans, championne du monde et triple championne de France d’Optimist !
+A1	emotion T3 Positif

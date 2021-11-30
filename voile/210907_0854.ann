@@ -1,0 +1,7 @@
+T1	course 0 19	Solitaire du Figaro
+T2	course 69 84	LaSolitaire_52e
+T3	lieu 48 67	Sud de l’Angleterre
+T4	personne 22 35	MacaireXavier
+R1	localisation Arg1:T4 Arg2:T3	
+T5	emotion 21 67	@MacaireXavier impérial au Sud de l’Angleterre
+A1	emotion T5 Positif

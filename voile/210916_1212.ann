@@ -1,0 +1,10 @@
+T1	bateau 0 5	BELEM
+T2	age 9 15	34 ans
+T3	fonction 27 36	capitaine
+T4	bateau 40 45	Belem
+T5	personne 48 62	Mathieu Combot
+T6	organisation 93 108	troismats_Belem
+T7	voilier 81 91	trois-mâts
+R1	attribut Arg1:T5 Arg2:T2	
+R2	skipper Arg1:T5 Arg2:T4	
+R3	skipper Arg1:T5 Arg2:T7	

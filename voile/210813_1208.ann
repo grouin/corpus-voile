@@ -1,0 +1,11 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	voilier 23 30	Class40
+T3	personne 33 46	Amélie Grassi
+T4	personne 56 66	Marie Riou
+T5	bateau 81 92	plan Raison
+T6	voilier 94 105	AssoClass40
+R1	skipper Arg1:T3 Arg2:T5	
+T7	course 107 119	TransatJV_fr
+#1	AnnotatorNotes T7	Compte Twitter officiel de la Transat Jacques Vabre Normandie Le Havre
+T8	emotion 33 92	Amélie Grassi embarque Marie Riou à bord de son plan Raison
+A1	emotion T8 Positif

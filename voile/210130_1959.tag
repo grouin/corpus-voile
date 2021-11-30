@@ -1,0 +1,1 @@
+Vidéo de la <meteo>tempête Justine</meteo> aux <lieu>Sables-d'Olonne</lieu>. Les <fonction>ingénieurs météo</fonction> avaient raison : à quelques heures près, <personne>Maxime Sorel</personne> n'entrait pas au port.

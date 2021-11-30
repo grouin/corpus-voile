@@ -1,0 +1,1 @@
+<equipage>LinkedOut</equipage> continue de mener le bal des <voilier>Imoca</voilier> dans la <course>Transat Jacques Vabre</course> mais <equipage>Charal</equipage> et <equipage>Apivia</equipage> sont en chasse derrière, de plus en plus menaçants.

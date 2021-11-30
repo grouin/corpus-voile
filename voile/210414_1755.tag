@@ -1,0 +1,1 @@
+ENTRETIEN. <personne>Yves Le Blevec</personne>, <fonction>skipper</fonction> d’<equipage>Actual Ultim 3</equipage> : « J’ai tout pour la gagne ! » @<personne>yvesleblevec</personne> @<equipage>team_actual_</equipage> @<voilier>Ultim32_23</voilier>

@@ -1,0 +1,9 @@
+T1	personne 0 12	Billy Besson
+T2	organisation 25 38	France SailGP
+T3	organisation 83 92	SailGPFRA
+T4	course 94 100	SailGP
+T5	personne 102 114	besson_billy
+T6	emotion 43 79	C’est brutal, je suis tombé des nues
+A1	emotion T6 Negatif
+T7	emotion 0 38	Billy Besson débarqué de France SailGP
+A2	emotion T7 Negatif

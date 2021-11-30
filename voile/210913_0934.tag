@@ -1,0 +1,1 @@
+<course>Mini Transat</course>. <personne>Basile Bourgnon</personne> dans le sillage de son idole : son célèbre père <personne>Laurent Bourgnon</personne> @<course>MiniTransat2021</course> @<voilier>ClasseMini</voilier>

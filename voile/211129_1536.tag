@@ -1,0 +1,1 @@
+<voilier>IMOCA</voilier>. @<personne>ClaSurLAtlantiq</personne> fera le @<course>VendeeGlobe</course> <date>2024</date> sur <bateau>Apivia</bateau> de @<personne>CharlieDalin</personne> : « Un incroyable challenge »

@@ -1,0 +1,8 @@
+T1	course 7 19	Vendée Globe
+T2	personne 32 46	Boris Herrmann
+T3	lieu 71 86	Sables-d’Olonne
+T4	course 88 94	VG2020
+T5	rang 60 66	podium
+R1	classement Arg1:T2 Arg2:T5	
+T6	emotion 21 66	L’Allemand Boris Herrmann file vers le podium
+A1	emotion T6 Positif

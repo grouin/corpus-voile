@@ -1,0 +1,9 @@
+T1	personne 0 16	Anthony Marchand
+T2	personne 38 52	Yves Le Blevec
+T3	course 60 81	Transat Jacques Vabre
+T4	fonction 25 35	co-skipper
+T5	vitesse 144 152	40 nœuds
+T6	emotion 98 155	il a déjà appris à dormir en volant à plus de 40 nœuds  !
+A1	emotion T6 Positif
+T7	emotion 0 81	Anthony Marchand sera le co-skipper d'Yves Le Blevec sur la Transat Jacques Vabre
+A2	emotion T7 Positif

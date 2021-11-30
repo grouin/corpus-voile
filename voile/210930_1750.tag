@@ -1,0 +1,1 @@
+<personne>Billy Besson</personne> débarqué de <organisation>France SailGP</organisation> : « C’est brutal, je suis tombé des nues » @<organisation>SailGPFRA</organisation> @<course>SailGP</course> @<personne>besson_billy</personne>

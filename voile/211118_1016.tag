@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. <personne>Erwan Israël</personne>, <fonction>routeur</fonction> de <personne>Cammas</personne> et <personne>Caudrelier</personne> : « Ils m’impressionnent ! » #<course>TransatJacquesVabre</course>

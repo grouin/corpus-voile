@@ -1,0 +1,8 @@
+T1	personne 12 27	JustineMettraux
+T2	course 73 85	Vendée Globe
+T3	date 86 90	2024
+T4	course 94 100	VG2024
+T5	voilier 49 56	ImocaGS
+R1	skipper Arg1:T1 Arg2:T5	
+T6	emotion 61 90	Je pense au Vendée Globe 2024
+A1	emotion T6 Positif

@@ -1,0 +1,1 @@
+Départ <date>samedi</date> à 14h00 de <lieu>Lorient</lieu> des quatre ( ou cinq ?) <voilier>Ultims</voilier> pour un <type>régate océanique</type> de <duree>24 heures</duree> : détails et explications avec <personne>Gildas Morvan</personne>, <fonction>co-directeur de course</fonction>.

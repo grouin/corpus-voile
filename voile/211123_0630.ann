@@ -1,0 +1,10 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	categorie 26 34	trimaran
+T3	equipage 35 44	Primonial
+T4	rang 45 53	remporte
+T5	course 57 78	Transat Jacques Vabre
+T6	voilier 82 93	Ocean Fifty
+T7	course 95 114	TransatJacquesVabre
+R1	classement Arg1:T3 Arg2:T4	
+T8	emotion 23 93	Le trimaran Primonial remporte la Transat Jacques Vabre en Ocean Fifty
+A1	emotion T8 Positif

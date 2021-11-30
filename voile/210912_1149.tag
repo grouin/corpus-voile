@@ -1,0 +1,1 @@
+<personne>Pierre Quiroga</personne> et sa meute de 33 <fonction>Solitaires</fonction> s'attaquent à la <etape>dernière étape</etape> de la <course>Figaro</course>. Départ 16h00 de <lieu>Roscoff</lieu>, ce <date>dimanche</date>.

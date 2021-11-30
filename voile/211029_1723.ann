@@ -1,0 +1,7 @@
+T1	meteo 25 31	pétole
+T2	etape 41 55	deuxième étape
+T3	course 62 74	Mini-transat
+T4	emotion 0 10	Bon départ
+A1	emotion T4 Positif
+T5	emotion 17 31	dans la pétole
+A2	emotion T5 Negatif

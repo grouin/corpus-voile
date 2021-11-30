@@ -1,0 +1,10 @@
+T1	fonction 87 94	skipper
+T2	organisation 111 130	Préfecture Maritime
+T3	emotion 84 106	Le skipper est indemne
+A1	emotion T3 Positif
+T4	emotion 0 82	Collision entre un voilier de 10 mètres et le navire amiral de la flotte française
+A2	emotion T4 Negatif
+T5	incident 0 9	Collision
+T6	categorie 19 26	voilier
+T7	categorie 46 59	navire amiral
+T8	taille 30 39	10 mètres

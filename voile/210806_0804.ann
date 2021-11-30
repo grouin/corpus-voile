@@ -1,0 +1,12 @@
+T1	personne 0 12	Benoît Marie
+T2	personne 16 28	Armel Tripon
+T3	lieu 50 55	Lagos
+T4	incident 29 37	démâtent
+R1	localisation Arg1:T2 Arg2:T3	
+R2	localisation Arg1:T1 Arg2:T3	
+T5	pratique 92 102	remorquage
+T6	lieu 57 65	Portugal
+T7	emotion 68 113	Tout va bien à bord, le remorquage a commencé
+A1	emotion T7 Positif
+T8	emotion 0 37	Benoît Marie et Armel Tripon démâtent
+A2	emotion T8 Negatif

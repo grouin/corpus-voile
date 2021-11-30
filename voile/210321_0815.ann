@@ -1,0 +1,8 @@
+T1	personne 0 14	Marc Guillemot
+T2	course 23 36	Route du Rhum
+T3	date 37 41	2022
+T4	categorie 49 53	cata
+T5	taille 57 65	52 pieds
+T6	course 99 110	routedurhum
+T7	emotion 66 97	qu’il termine dans son chantier
+A1	emotion T7 Positif

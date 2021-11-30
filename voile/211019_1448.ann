@@ -1,0 +1,8 @@
+T1	personne 0 15	Roland Jourdain
+T2	course 24 37	Route du Rhum
+T3	date 38 42	2022
+T4	categorie 50 57	voilier
+T5	personne 100 114	RolandJourdain
+T6	course 116 127	routedurhum
+T7	emotion 0 75	Roland Jourdain fera la Route du Rhum 2022 sur un voilier en fibre végétale
+A1	emotion T7 Positif

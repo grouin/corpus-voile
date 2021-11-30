@@ -1,0 +1,1 @@
+Deuxième et dernière partie du récit de l'épatante navigation de <personne>Yann Quenet</personne> dans l'<lieu>Océan indien</lieu> sur <bateau>Baluchon</bateau>, son <categorie>voilier</categorie> de <taille>4 mètres de long</taille>.

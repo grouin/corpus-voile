@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. Le <categorie>trimaran</categorie> <equipage>Primonial</equipage> <rang>remporte</rang> la <course>Transat Jacques Vabre</course> en <voilier>Ocean Fifty</voilier> #<course>TransatJacquesVabre</course>
