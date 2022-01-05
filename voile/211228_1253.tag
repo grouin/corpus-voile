@@ -1,0 +1,1 @@
+Ce <fonction>plaisancier</fonction> de <lieu>Bretagne Nord</lieu> a réalisé son vieux rêve : passer le <lieu>cap Horn</lieu> à la voile sur son <categorie>voilier</categorie> de <taille>29 pieds</taille>. Il trouve que son exploit est ordinaire. Pas nous !

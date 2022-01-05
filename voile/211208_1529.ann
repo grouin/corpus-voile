@@ -1,0 +1,8 @@
+T1	course 20 39	Trophée Jules Verne
+T2	categorie 48 52	Maxi
+T3	voilier 53 73	Edmond de Rothschild
+T4	incident 88 94	avarie
+T5	course 96 108	TJV_officiel
+T6	equipage 110 120	GitanaTeam
+T7	emotion 0 94	Pas de tentative de Trophée Jules Verne pour le Maxi Edmond de Rothschild victime d’une avarie
+A1	emotion T7 Negatif

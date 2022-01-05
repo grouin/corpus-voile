@@ -1,0 +1,1 @@
+La <voilier>goélette</voilier> <bateau>Tara</bateau> est arrivée à <lieu>Ushuaia</lieu>, la dernière ville avant l'<lieu>Antarctique</lieu>. Carnet de bord d'un <fonction>photographe</fonction> embarqué.

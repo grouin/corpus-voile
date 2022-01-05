@@ -1,0 +1,9 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	voilier 25 30	IMOCA
+T3	equipage 31 55	Kostum – Lantana Paysage
+T4	personne 59 68	Louis Duc
+T5	technique 84 100	convoyage retour
+T6	incident 69 75	démâte
+T7	emotion 69 75	démâte
+A1	emotion T7 Negatif
+R1	skipper Arg1:T4 Arg2:T3	

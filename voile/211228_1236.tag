@@ -1,0 +1,1 @@
+<bateau>L'Esprit d'Equipe</bateau>, <rang>vainqueur</rang> de la <course>Whitbread 86</course>, est en <pratique>refit</pratique> à <lieu>Port-Bourgenay</lieu>. Il est encore temps d'aller visiter le chantier de ce <categorie>voilier de légende</categorie>.

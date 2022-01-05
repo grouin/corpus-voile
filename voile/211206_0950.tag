@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. Un <categorie>voilier</categorie> <incident>à l’abandon</incident> repéré dans l’<lieu>Atlantique</lieu> par un <voilier>Imoca</voilier> en <pratique>convoyage</pratique>

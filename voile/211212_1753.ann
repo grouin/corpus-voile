@@ -1,0 +1,6 @@
+T1	personne 0 14	Antoine Albeau
+T2	vitesse 91 99	65 nœuds
+T3	evenement 142 148	Nautic
+T4	personne 168 181	Loic Madeline
+T5	emotion 0 88	Antoine Albeau s'est donné deux ans pour battre le record du monde de vitesse à la voile
+A1	emotion T5 Positif

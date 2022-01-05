@@ -1,0 +1,1 @@
+<course>Figaro</course>. La <fonction>navigatrice</fonction> <personne>Chloé Le Bars</personne> <rang>remporte</rang> le <course>Challenge Océane</course> et prend la barre d’un <voilier>Figaro 3</voilier>

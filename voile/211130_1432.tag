@@ -1,0 +1,1 @@
+<course>Trophée Jules Verne</course>. Le <categorie>maxi trimaran</categorie> <bateau>Sails of Change</bateau> de <organisation>Spindrift</organisation> part <type>autour du monde</type> ce <date>mardi</date> ! #<course>tropheejulesverne</course>  @<organisation>spindriftracing</organisation>

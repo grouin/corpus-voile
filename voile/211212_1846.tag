@@ -1,0 +1,1 @@
+Comme chez nos amis anglo-saxons, les courses de <categorie>voiliers prestigieux</categorie> pourraient bien (re)devenir à la mode en <lieu>France</lieu>. La <organisation>FFVoile</organisation> va s'y atteler, en tout cas.

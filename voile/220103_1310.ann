@@ -1,0 +1,7 @@
+T1	personne 0 11	Jean Le Cam
+T2	course 72 84	Vendée Globe
+T3	date 85 89	2024
+T4	personne 91 100	JeanLecam
+T5	course 102 113	VendeeGlobe
+T6	emotion 0 89	Jean Le Cam cherche à lever 4 millions d’euros pour son futur bateau du Vendée Globe 2024
+A1	emotion T6 Positif

@@ -1,0 +1,9 @@
+T1	course 0 6	Figaro
+T2	fonction 11 22	navigatrice
+T3	personne 23 36	Chloé Le Bars
+T4	rang 37 45	remporte
+T5	voilier 89 97	Figaro 3
+T6	course 49 65	Challenge Océane
+T7	emotion 8 97	La navigatrice Chloé Le Bars remporte le Challenge Océane et prend la barre d’un Figaro 3
+A1	emotion T7 Positif
+R1	classement Arg1:T3 Arg2:T4	

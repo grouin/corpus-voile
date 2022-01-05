@@ -1,0 +1,9 @@
+T1	course 0 21	Transat Jacques Vabre
+T2	course 84 103	TransatJacquesVabre
+T3	equipage 36 49	Crédit Mutuel
+T4	incident 23 32	Collision
+T5	emotion 23 32	Collision
+A1	emotion T5 Negatif
+T6	emotion 61 80	c’était une baleine
+A2	emotion T6 Uncertain
+#1	AnnotatorNotes T6	Ferait presque sourire

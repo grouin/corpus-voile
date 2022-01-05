@@ -1,0 +1,8 @@
+T1	course 39 51	Mini-Transat
+T2	personne 103 116	Pierre Le Roy
+T3	rang 74 80	gagnée
+R1	classement Arg1:T2 Arg2:T3	
+T4	emotion 53 117	Surtout quand on l'a gagnée. C'est arrivé aussi à Pierre Le Roy.
+A1	emotion T4 Positif
+T5	emotion 0 52	On est plus le même avant et après une Mini-Transat.
+A2	emotion T5 Uncertain

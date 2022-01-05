@@ -1,0 +1,1 @@
+La saison <date>2021</date> aura été un bon cru pour les <fonction>archis</fonction> de la maison <organisation>VPLP</organisation>. Coup double en <date>2022</date> avec la <course>Route du Rhum</course> ? Ils font le point.

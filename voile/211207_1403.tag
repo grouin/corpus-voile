@@ -1,0 +1,1 @@
+Le <fonction>président de la République</fonction> décore <personne>Bestaven</personne> et <personne>Le Cam</personne> de la <distinction>Légion d’honneur</distinction> : ambiance à l’<lieu>Élysée</lieu>

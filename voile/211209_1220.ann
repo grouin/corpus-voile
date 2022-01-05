@@ -1,0 +1,6 @@
+T1	fonction 10 18	chanteur
+T2	personne 19 26	Antoine
+T3	pratique 39 46	escales
+T4	type 61 76	autour du monde
+T5	emotion 7 76	Le chanteur Antoine raconte ses escales coups de cœur autour du monde
+A1	emotion T5 Positif

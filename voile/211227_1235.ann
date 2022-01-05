@@ -1,0 +1,6 @@
+T1	course 23 36	Sydney Hobart
+T2	incident 0 6	Casses
+T3	personne 53 64	Lionel Péan
+T4	categorie 85 89	Maxi
+T5	emotion 0 36	Casses en série sur la Sydney Hobart
+A1	emotion T5 Negatif

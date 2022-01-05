@@ -1,0 +1,7 @@
+T1	lieu 0 25	Port-Saint-Louis-du-Rhône
+T2	categorie 49 59	catamarans
+T3	pratique 41 46	panne
+T4	taille 63 73	500 mètres
+T5	emotion 0 73	Port-Saint-Louis-du-Rhône s’équipe d’une panne à catamarans de 500 mètres
+A1	emotion T5 Positif
+#1	AnnotatorNotes T3	aménagement portuaire

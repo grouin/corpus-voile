@@ -1,0 +1,7 @@
+T1	fonction 3 14	plaisancier
+T2	lieu 18 31	Bretagne Nord
+T3	lieu 69 77	cap Horn
+T4	categorie 97 104	voilier
+T5	taille 108 116	29 pieds
+T6	emotion 0 117	Ce plaisancier de Bretagne Nord a réalisé son vieux rêve : passer le cap Horn à la voile sur son voilier de 29 pieds.
+A1	emotion T6 Positif

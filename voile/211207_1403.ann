@@ -1,0 +1,11 @@
+T1	fonction 3 29	président de la République
+T2	personne 37 45	Bestaven
+T3	personne 49 55	Le Cam
+T4	distinction 62 78	Légion d’honneur
+T5	lieu 94 100	Élysée
+R1	attribut Arg1:T3 Arg2:T4	
+R2	attribut Arg1:T2 Arg2:T4	
+R3	localisation Arg1:T3 Arg2:T5	
+R4	localisation Arg1:T2 Arg2:T5	
+T6	emotion 0 78	Le président de la République décore Bestaven et Le Cam de la Légion d’honneur
+A1	emotion T6 Positif

@@ -1,0 +1,1 @@
+<voilier>IMOCA</voilier>. <personne>Louis Duc</personne> utilise une <technique>aile de kite</technique> pour <pratique>tracter</pratique> son grand bateau sous <technique>gréement de fortune</technique>

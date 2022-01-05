@@ -1,0 +1,11 @@
+T1	course 0 12	Vendée Globe
+T2	date 13 17	2024
+T3	personne 19 37	Tanguy Le Turquais
+T4	voilier 48 53	IMOCA
+T5	equipage 54 67	Groupe Apicil
+T6	personne 71 84	Damien Seguin
+T7	personne 86 101	tanguyleturquai
+T8	equipage 103 116	sailingdamien
+T9	course 118 129	VendeeGlobe
+T10	emotion 19 84	Tanguy Le Turquais rachète l’IMOCA Groupe Apicil de Damien Seguin
+A1	emotion T10 Positif

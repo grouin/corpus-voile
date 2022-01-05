@@ -1,0 +1,7 @@
+T1	personne 31 36	Frers
+T2	fonction 14 25	architectes
+T3	bateau 73 80	Recluta
+T4	emotion 82 124	Une saga qui finit bien, quelle histoire !
+A1	emotion T4 Positif
+T5	categorie 56 63	voilier
+R1	skipper Arg1:T1 Arg2:T3	

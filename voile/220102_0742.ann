@@ -1,0 +1,8 @@
+T1	voilier 3 11	goélette
+T2	bateau 12 16	Tara
+T3	lieu 31 38	Ushuaia
+T4	lieu 66 77	Antarctique
+T5	fonction 99 110	photographe
+T6	emotion 0 38	La goélette Tara est arrivée à Ushuaia
+A1	emotion T6 Positif
+R1	localisation Arg1:T2 Arg2:T3	

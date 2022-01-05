@@ -1,0 +1,5 @@
+T1	categorie 12 19	bateaux
+T2	lieu 59 69	Portsmouth
+T3	incident 20 36	partent en fumée
+T4	emotion 7 69	Deux bateaux partent en fumée sur le terre-plein de Portsmouth
+A1	emotion T4 Negatif

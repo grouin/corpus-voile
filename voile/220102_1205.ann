@@ -1,0 +1,7 @@
+T1	fonction 0 19	Apprenti(e)-matelot
+T2	voilier 46 51	Belem
+T3	date 55 59	2022
+T4	lieu 68 78	Grand Nord
+T5	type 29 38	croisière
+T6	emotion 0 112	Apprenti(e)-matelot pour une croisière sur le Belem en 2022 vers le Grand Nord, ça vous tente ? C'est possible !
+A1	emotion T6 Positif

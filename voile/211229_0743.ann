@@ -1,0 +1,8 @@
+T1	bateau 9 14	V & B
+T2	personne 18 30	Maxime Sorel
+T3	personne 80 88	F.Gabart
+T4	lieu 91 101	Concarneau
+T5	emotion 0 102	Le futur V & B de Maxime Sorel est en train de voir le jour dans le chantier de F.Gabart à Concarneau.
+A1	emotion T5 Positif
+R1	skipper Arg1:T2 Arg2:T1	
+R2	localisation Arg1:T3 Arg2:T4	

@@ -1,0 +1,8 @@
+T1	personne 11 23	Louis Burton
+T2	incident 45 53	démâtage
+T3	equipage 69 84	Bureau Vallée 3
+R1	skipper Arg1:T1 Arg2:T3	
+T4	emotion 45 53	démâtage
+A1	emotion T4 Negatif
+T5	emotion 11 41	Louis Burton révèle les causes
+A2	emotion T5 Positif

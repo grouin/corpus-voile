@@ -1,0 +1,9 @@
+T1	course 0 12	Mini Transat
+T2	personne 14 27	Pierre Le Roy
+T3	rang 29 38	vainqueur
+T4	categorie 42 51	prototype
+T5	emotion 14 51	Pierre Le Roy, vainqueur en prototype
+A1	emotion T5 Positif
+T6	emotion 56 96	Je suis prêt à passer au stade supérieur
+A2	emotion T6 Positif
+R1	classement Arg1:T2 Arg2:T3	

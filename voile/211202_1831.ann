@@ -1,0 +1,6 @@
+T1	technique 33 37	bôme
+T2	fonction 42 47	marin
+T3	course 51 66	Rallye de l’ARC
+T4	incident 67 80	décède en mer
+T5	emotion 19 80	heurté par la bôme, un marin du Rallye de l’ARC décède en mer
+A1	emotion T5 Negatif

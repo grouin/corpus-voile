@@ -1,0 +1,9 @@
+T1	meteo 10 23	tempête Barra
+T2	lieu 31 47	phare du Fastnet
+T3	vitesse 73 81	84 nœuds
+T4	vitesse 87 95	155 km/h
+T5	meteo 50 60	mer énorme
+T6	meteo 64 70	rafale
+R1	localisation Arg1:T1 Arg2:T2	
+T7	emotion 50 97	mer énorme et rafale à 84 nœuds soit 155 km/h !
+A1	emotion T7 Negatif

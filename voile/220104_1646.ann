@@ -1,0 +1,9 @@
+T1	personne 7 16	Louis Duc
+T2	voilier 0 5	IMOCA
+T3	technique 77 96	gréement de fortune
+T4	technique 29 41	aile de kite
+T5	pratique 47 54	tracter
+T6	emotion 7 71	Louis Duc utilise une aile de kite pour tracter son grand bateau
+A1	emotion T6 Positif
+T7	emotion 72 96	sous gréement de fortune
+A2	emotion T7 Negatif

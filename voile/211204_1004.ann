@@ -1,0 +1,9 @@
+T1	lieu 9 16	Lorient
+T2	type 57 70	tour du monde
+T3	voilier 76 87	AssoClass40
+T4	course 0 7	GLOBE40
+T5	organisation 89 101	LorientAgglo
+T6	etape 32 40	prologue
+T7	etape 46 53	arrivée
+T8	emotion 9 87	Lorient accueillera le prologue et l’arrivée du tour du monde des @AssoClass40
+A1	emotion T8 Positif

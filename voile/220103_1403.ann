@@ -1,0 +1,7 @@
+T1	type 0 24	Tour du monde à l’envers
+T2	personne 26 41	Romain Pilliard
+T3	personne 45 55	Alex Pella
+T4	date 95 100	mardi
+T5	equipage 102 117	USEITAGAIN_SAIL
+T6	emotion 26 100	Romain Pilliard et Alex Pella passent en code vert : départ possible mardi
+A1	emotion T6 Positif

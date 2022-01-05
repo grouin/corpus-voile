@@ -1,0 +1,5 @@
+T1	personne 0 15	Géry Trentesaux
+T2	fonction 16 25	président
+T3	organisation 32 40	UNCLarge
+T4	emotion 45 99	Il manque un vrai bateau école pour la course au large
+A1	emotion T4 Negatif

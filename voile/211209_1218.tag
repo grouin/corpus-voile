@@ -1,0 +1,1 @@
+<course>Vendée Globe</course> <date>2024</date>. <personne>Tanguy Le Turquais</personne> rachète l’<voilier>IMOCA</voilier> <equipage>Groupe Apicil</equipage> de <personne>Damien Seguin</personne> @<personne>tanguyleturquai</personne> @<equipage>sailingdamien</equipage> @<course>VendeeGlobe</course>

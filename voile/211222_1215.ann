@@ -1,0 +1,6 @@
+T1	evenement 0 14	Salon nautique
+T2	evenement 52 56	Boot
+T3	lieu 65 75	Düsseldorf
+T4	incident 86 91	covid
+T5	emotion 16 56	Les grands constructeurs absents du Boot
+A1	emotion T5 Negatif

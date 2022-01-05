@@ -1,0 +1,7 @@
+T1	lieu 33 39	Manche
+T2	lieu 43 54	mer du Nord
+T3	meteo 7 29	Mer forte à très forte
+T4	emotion 57 96	la préfecture déconseille la navigation
+A1	emotion T4 Negatif
+R1	localisation Arg1:T3 Arg2:T1	
+R2	localisation Arg1:T3 Arg2:T2	

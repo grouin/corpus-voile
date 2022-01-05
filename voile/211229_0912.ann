@@ -1,0 +1,7 @@
+T1	course 52 65	Sydney Hobart
+T2	bateau 30 40	Black Jack
+T3	personne 129 140	Lionel Péan
+T4	fonction 99 109	consultant
+T5	emotion 0 65	Les honneurs de la ligne pour Black Jack sur la 76e Sydney Hobart
+A1	emotion T5 Positif
+T6	rang 4 24	honneurs de la ligne

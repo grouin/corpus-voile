@@ -1,0 +1,6 @@
+T1	age 2 8	24 ans
+T2	personne 10 22	Tamara Klink
+T3	lieu 36 46	Atlantique
+T4	type 47 54	en solo
+T5	emotion 0 97	À 24 ans, Tamara Klink a traversé l’Atlantique en solo sur un bateau acheté « le prix d’un vélo »
+A1	emotion T5 Positif

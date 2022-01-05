@@ -1,0 +1,10 @@
+T1	categorie 14 21	voilier
+T2	equipage 22 28	Charal
+T3	personne 32 45	Jérémie Beyou
+T4	lieu 86 99	La Martinique
+T5	incident 48 62	heurté un OFNI
+T6	emotion 11 62	Le voilier Charal de Jérémie Beyou a heurté un OFNI
+A1	emotion T6 Negatif
+T7	emotion 66 99	fait demi-tour vers La Martinique
+A2	emotion T7 Neutre
+R1	skipper Arg1:T3 Arg2:T2	

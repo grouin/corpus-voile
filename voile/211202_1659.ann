@@ -1,0 +1,5 @@
+T1	technique 28 34	safran
+T2	fonction 64 71	skipper
+T3	personne 72 86	Antoine Cornic
+T4	emotion 2 50	Deux orques ont dévoré un safran de notre bateau
+A1	emotion T4 Negatif

@@ -1,0 +1,9 @@
+T1	course 35 47	Whitbread 86
+T2	pratique 56 61	refit
+T3	lieu 64 78	Port-Bourgenay
+T4	categorie 134 152	voilier de légende
+T5	bateau 0 17	L'Esprit d'Equipe
+T6	rang 19 28	vainqueur
+T7	emotion 0 79	L'Esprit d'Equipe, vainqueur de la Whitbread 86, est en refit à Port-Bourgenay.
+A1	emotion T7 Positif
+R1	localisation Arg1:T5 Arg2:T3	

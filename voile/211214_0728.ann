@@ -1,0 +1,9 @@
+T1	personne 25 30	Matéo
+T2	age 32 38	16 ans
+T3	lieu 49 58	Sardaigne
+T4	type 81 102	championnats du monde
+T5	voilier 105 115	Open Skiff
+R1	attribut Arg1:T1 Arg2:T2	
+R2	localisation Arg1:T1 Arg2:T3	
+T6	emotion 0 116	La formidable odyssée de Matéo, 16 ans, parti en Sardaigne disputer ses premiers championnats du monde d'Open Skiff.
+A1	emotion T6 Positif

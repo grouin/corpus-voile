@@ -1,0 +1,6 @@
+T1	categorie 10 30	voilier de croisière
+T2	lieu 56 69	port du Havre
+T3	incident 31 52	fracassé sur la digue
+T4	emotion 7 69	Un voilier de croisière fracassé sur la digue du port du Havre
+A1	emotion T4 Negatif
+R1	localisation Arg1:T3 Arg2:T2	

@@ -1,0 +1,1 @@
+Les <taille>18 pieds</taille> australiens assurent le spectacle en <lieu>baie de Sydney</lieu> et c'est un <fonction>skipper</fonction> de <age>70 ans</age>, <personne>John Winning Senior</personne>, qui <rang>mène le bal</rang> !

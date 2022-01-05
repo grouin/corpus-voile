@@ -1,0 +1,1 @@
+Les <rang>honneurs de la ligne</rang> pour <bateau>Black Jack</bateau> sur la 76e <course>Sydney Hobart</course>, avec les félicitations de notre <fonction>consultant</fonction> pour cette course, <personne>Lionel Péan</personne>.

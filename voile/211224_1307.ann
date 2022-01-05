@@ -1,0 +1,7 @@
+T1	bateau 0 12	Persévérance
+T2	bateau 37 46	Polar Pod
+T3	personne 50 68	Jean-Louis Étienne
+T4	lieu 78 100	Cinquantièmes hurlants
+T5	voilier 14 33	voilier avitailleur
+R1	skipper Arg1:T3 Arg2:T2	
+R2	localisation Arg1:T2 Arg2:T4	

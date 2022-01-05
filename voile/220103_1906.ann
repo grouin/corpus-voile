@@ -1,0 +1,8 @@
+T1	fonction 5 17	plaisanciers
+T2	lieu 35 44	Cherbourg
+T3	categorie 52 59	voilier
+T4	incident 68 90	échoué sur les rochers
+T5	emotion 0 26	Deux plaisanciers secourus
+A1	emotion T5 Positif
+T6	emotion 68 90	échoué sur les rochers
+A2	emotion T6 Negatif

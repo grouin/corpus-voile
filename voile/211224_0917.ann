@@ -1,0 +1,7 @@
+T1	personne 0 17	Vincent Marsaudon
+T2	fonction 19 25	patron
+T3	organisation 29 35	Lorima
+T4	date 76 85	juin 2023
+T5	technique 62 66	mâts
+T6	emotion 40 85	On a des commandes de mâts jusqu’en juin 2023
+A1	emotion T6 Positif

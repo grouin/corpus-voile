@@ -1,0 +1,1 @@
+Clap de fin de la 15e transat <course>Jacques Vabre</course> avec son <fonction>directeur de course</fonction>,  <personne>Francis Le Goff</personne>, qui dresse le bilan de cette édition et évoque déjà la prochaine.

@@ -1,0 +1,7 @@
+T1	incident 0 8	Démâtage
+T2	equipage 12 26	Kostum-Lantana
+T3	personne 28 37	Louis Duc
+T4	emotion 0 8	Démâtage
+A1	emotion T4 Negatif
+T5	emotion 42 98	Il va falloir rebondir encore plus fort, j’y arriverai !
+A2	emotion T5 Positif

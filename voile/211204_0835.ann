@@ -1,0 +1,6 @@
+T1	course 0 12	VENDÉE GLOBE
+T2	course 98 109	VendeeGlobe
+T3	personne 15 28	yoannrichomme
+T4	organisation 38 50	Paprec Arkéa
+T5	emotion 33 94	Avec Paprec Arkéa, nous montons un projet qui se veut gagnant
+A1	emotion T5 Positif

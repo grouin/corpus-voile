@@ -1,0 +1,5 @@
+T1	course 30 43	Jacques Vabre
+T2	fonction 53 72	directeur de course
+T3	personne 75 90	Francis Le Goff
+T4	emotion 96 156	dresse le bilan de cette édition et évoque déjà la prochaine
+A1	emotion T4 Positif

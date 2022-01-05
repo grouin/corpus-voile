@@ -1,0 +1,1 @@
+<type>Tour du monde à l’envers</type>. <personne>Romain Pilliard</personne> et <personne>Alex Pella</personne> passent en code vert : départ possible <date>mardi</date> @<equipage>USEITAGAIN_SAIL</equipage>

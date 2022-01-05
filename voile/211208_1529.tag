@@ -1,0 +1,1 @@
+Pas de tentative de <course>Trophée Jules Verne</course> pour le <categorie>Maxi</categorie> <voilier>Edmond de Rothschild</voilier> victime d’une <incident>avarie</incident> @<course>TJV_officiel</course> @<equipage>GitanaTeam</equipage>

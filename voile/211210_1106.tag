@@ -1,0 +1,1 @@
+<course>Transat Jacques Vabre</course>. L’<voilier>IMOCA</voilier> <equipage>Kostum – Lantana Paysage</equipage> de <personne>Louis Duc</personne> <incident>démâte</incident> lors du <technique>convoyage retour</technique>

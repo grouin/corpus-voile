@@ -1,0 +1,4 @@
+T1	technique 40 45	gaffe
+T2	emotion 7 72	Astucieux pour la croisière : la gaffe qui se roule sur elle-même
+A1	emotion T2 Positif
+T3	type 25 34	croisière

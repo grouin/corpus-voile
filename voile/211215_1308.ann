@@ -1,0 +1,5 @@
+T1	fonction 16 26	navigateur
+T2	personne 27 39	Hervé Cléris
+T3	course 55 68	Route du Rhum
+T4	emotion 13 50	Le navigateur Hervé Cléris est décédé
+A1	emotion T4 Negatif

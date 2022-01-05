@@ -1,0 +1,5 @@
+T1	personne 0 16	Yannick Bestaven
+T2	distinction 21 42	Marin de l’année 2021
+R1	attribut Arg1:T1 Arg2:T2	
+T3	emotion 0 44	Yannick Bestaven élu Marin de l’année 2021 !
+A1	emotion T3 Positif

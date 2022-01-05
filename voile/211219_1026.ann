@@ -1,0 +1,6 @@
+T1	personne 15 28	James Wharram
+T2	categorie 39 62	catamarans minimalistes
+T3	emotion 0 28	Disparition de James Wharram
+A1	emotion T3 Negatif
+T4	emotion 35 98	les catamarans minimalistes ont fait rêver toute une génération
+A2	emotion T4 Positif

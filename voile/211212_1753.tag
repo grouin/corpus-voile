@@ -1,0 +1,1 @@
+<personne>Antoine Albeau</personne> s'est donné deux ans pour battre le record du monde de vitesse à la voile : <vitesse>65 nœuds</vitesse>. Comment il va faire ? Dans les allées du <evenement>Nautic</evenement>, il l'a expliqué à <personne>Loic Madeline</personne>.

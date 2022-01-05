@@ -1,0 +1,8 @@
+T1	taille 4 12	18 pieds
+T2	lieu 50 64	baie de Sydney
+T3	fonction 77 84	skipper
+T4	age 88 94	70 ans
+T5	personne 96 115	John Winning Senior
+T6	rang 121 132	mène le bal
+T7	emotion 0 134	Les 18 pieds australiens assurent le spectacle en baie de Sydney et c'est un skipper de 70 ans, John Winning Senior, qui mène le bal !
+A1	emotion T7 Positif

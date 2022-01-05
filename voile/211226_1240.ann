@@ -1,0 +1,8 @@
+T1	course 49 62	Sydney Hobart
+T2	equipage 37 40	SHK
+T3	personne 149 160	Lionel Péan
+T4	fonction 123 133	consultant
+T5	emotion 0 62	Réparation à hauts risques à bord de SHK dans la Sydney Hobart
+A1	emotion T5 Negatif
+T6	emotion 181 204	ça a du être très chaud
+A2	emotion T6 Uncertain

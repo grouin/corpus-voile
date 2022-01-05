@@ -1,0 +1,7 @@
+T1	lieu 64 79	Sables-d'Olonne
+T2	personne 82 92	Sam Davies
+T3	personne 126 143	Arnaud Boissières
+T4	voilier 117 122	Imoca
+T5	emotion 0 35	Passation de commandement émouvante
+A1	emotion T5 Uncertain
+T6	date 37 42	mardi

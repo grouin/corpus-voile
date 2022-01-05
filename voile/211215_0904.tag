@@ -1,0 +1,1 @@
+Passation de commandement émouvante, <date>mardi</date>, sur les pontons des <lieu>Sables-d'Olonne</lieu> : <personne>Sam Davies</personne> a donné les clés de son <voilier>Imoca</voilier>  à <personne>Arnaud Boissières</personne>.
