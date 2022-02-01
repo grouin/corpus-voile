@@ -1,0 +1,6 @@
+T1	voilier 0 13	Classe Figaro
+T2	course 19 31	Sardinha Cup
+T3	course 59 70	CupSardinha
+T4	date 46 57	cette année
+T5	emotion 16 57	La Sardinha Cup de retour dès cette année
+A1	emotion T5 Positif

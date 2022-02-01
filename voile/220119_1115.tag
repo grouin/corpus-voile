@@ -1,0 +1,1 @@
+Le <voilier>maxi voilier</voilier> <bateau>Comanche</bateau> <distinction>bat tous les records</distinction> : ses <fonction>architectes</fonction> de @<organisation>VPLPYachtDesign</organisation> expliquent pourquoi @<course>RORCRacing</course>

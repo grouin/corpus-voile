@@ -1,0 +1,7 @@
+T1	date 43 47	2021
+T2	date 79 83	1994
+T3	fonction 0 7	Pirates
+T4	emotion 17 47	beaucoup moins d’actes en 2021
+A1	emotion T4 Positif
+T5	emotion 0 14	Pirates en mer
+A2	emotion T5 Negatif

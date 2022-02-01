@@ -1,0 +1,6 @@
+T1	course 0 11	Transquadra
+T2	date 20 26	samedi
+T3	etape 33 41	2e étape
+T4	personne 43 52	Mico Bolo
+T5	emotion 57 96	Ça va être très ouvert et plutôt rapide
+A1	emotion T5 Positif

@@ -1,0 +1,7 @@
+T1	voilier 23 30	voilier
+T2	fonction 67 76	sauveteur
+T3	organisation 77 81	SNSM
+T4	meteo 39 46	tempête
+T5	pratique 7 17	Remorquage
+T6	emotion 7 46	Remorquage d’un voilier dans la tempête
+A1	emotion T6 Positif

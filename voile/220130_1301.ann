@@ -1,0 +1,5 @@
+T1	personne 0 15	Romain Pilliard
+T2	personne 19 29	Alex Pella
+T3	lieu 66 74	cap Horn
+T4	emotion 76 104	Ils vont se mettre à l'abri.
+A1	emotion T4 Positif

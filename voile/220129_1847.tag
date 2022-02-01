@@ -1,0 +1,1 @@
+Le <fonction>big boss</fonction> du <course>Vendée Globe</course>, <personne>Alain Leboeuf</personne>, va faire de la <course>Vendée-Arctique-Les Sables</course> un " autre tour du monde ou presque ", mais par le <lieu>Nord</lieu>. Tous les 4 ans aussi. Il explique pourquoi et comment à <organisation>Voiles et Voiliers</organisation>.

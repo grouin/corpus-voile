@@ -1,0 +1,13 @@
+T1	voilier 14 22	goélette
+T2	bateau 23 27	Tara
+T3	lieu 31 42	Antarctique
+T4	meteo 45 51	rafale
+T5	vitesse 54 62	75 nœuds
+T6	meteo 70 75	creux
+T7	taille 79 87	8 mètres
+T8	equipage 91 101	TaraOcean_
+T9	emotion 45 89	rafale à 75 nœuds et des creux de 8 mètres !
+A1	emotion T9 Negatif
+T10	emotion 11 42	La goélette Tara en Antarctique
+A2	emotion T10 Positif
+R1	localisation Arg1:T2 Arg2:T3	

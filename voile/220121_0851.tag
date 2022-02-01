@@ -1,0 +1,1 @@
+VIDÉO. Greffe inédite :  @<personne>FabriceAmedeo</personne> installe les immenses <technique>foils</technique> d’<equipage>Hugo Boss</equipage> sur son <voilier>IMOCA</voilier> @<organisation>ImocaGS</organisation>

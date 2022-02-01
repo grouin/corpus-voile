@@ -1,0 +1,7 @@
+T1	personne 0 18	Jean-Jacques Savin
+T2	age 20 26	75 ans
+T3	type 49 74	traversée de l’Atlantique
+T4	type 75 84	à la rame
+T5	incident 32 38	décédé
+T6	emotion 0 38	Jean-Jacques Savin, 75 ans, est décédé
+A1	emotion T6 Negatif

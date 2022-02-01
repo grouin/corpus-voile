@@ -1,0 +1,1 @@
+<taille>18 pieds</taille>. L’inusable <personne>John Winning Senior</personne>, <age>69 ans</age>, reste le <distinction>roi</distinction> des <categorie>engins volants</categorie> en <lieu>baie de Sydney</lieu>

@@ -1,0 +1,9 @@
+T1	course 7 11	RORC
+T2	incident 13 19	Avarie
+T3	technique 23 29	safran
+T4	equipage 34 42	Maserati
+T5	personne 44 60	Giovanni Soldini
+T6	emotion 65 91	On prend de gros risques !
+A1	emotion T6 Negatif
+T7	emotion 13 19	Avarie
+A2	emotion T7 Negatif

@@ -1,0 +1,1 @@
+<course>RORC Transtlantic</course> : les <rang>honneurs de la ligne</rang> <date>samedi matin</date> pour <personne>Giovani Soldini</personne>, <distinction>record en vue</distinction> pour <voilier>Comanche</voilier>.

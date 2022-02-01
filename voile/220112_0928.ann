@@ -1,0 +1,5 @@
+T1	categorie 87 94	bateaux
+T2	lieu 16 27	Côte d’Azur
+T3	pratique 0 10	Mouillages
+T4	emotion 0 94	Mouillages : la Côte d’Azur crée des zones réglementées plus écologiques et évacue des bateaux
+A1	emotion T4 Positif

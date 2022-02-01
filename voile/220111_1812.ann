@@ -1,0 +1,7 @@
+T1	personne 0 9	Louis Duc
+T2	lieu 46 56	Atlantique
+T3	technique 62 81	gréement de fortune
+T4	emotion 0 20	Louis Duc à bon port
+A1	emotion T4 Positif
+T5	emotion 57 83	sous gréement de fortune !
+A2	emotion T5 Negatif

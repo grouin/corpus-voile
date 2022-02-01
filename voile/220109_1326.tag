@@ -1,0 +1,1 @@
+EN IMAGES. La <voilier>goélette</voilier> <bateau>Tara</bateau> en <lieu>Antarctique</lieu> : <meteo>rafale</meteo> à <vitesse>75 nœuds</vitesse> et des <meteo>creux</meteo> de <taille>8 mètres</taille> ! @<equipage>TaraOcean_</equipage>

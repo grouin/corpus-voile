@@ -1,0 +1,5 @@
+T1	date 65 70	lundi
+T2	lieu 78 120	littoral de la mer du Nord et de la Manche
+T3	meteo 12 64	Gros risques de vagues déferlantes et de submersions
+T4	emotion 0 64	Attention ! Gros risques de vagues déferlantes et de submersions
+A1	emotion T4 Negatif

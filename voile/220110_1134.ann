@@ -1,0 +1,10 @@
+T1	bateau 2 17	Abeille Bourbon
+T2	categorie 34 39	cargo
+T3	taille 43 53	110 mètres
+T4	lieu 84 92	Bretagne
+T5	incident 54 67	en difficulté
+T6	emotion 54 67	en difficulté
+A1	emotion T6 Negatif
+T7	emotion 0 39	L’Abeille Bourbon au secours d’un cargo
+A2	emotion T7 Positif
+R1	localisation Arg1:T5 Arg2:T4	

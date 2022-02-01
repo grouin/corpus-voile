@@ -1,0 +1,7 @@
+T1	personne 11 27	Sophie Galvagnon
+T2	fonction 29 40	commandante
+T3	bateau 44 53	Polar Pod
+T4	bateau 60 72	Persévérance
+T5	personne 76 94	Jean-Louis Étienne
+T6	emotion 11 94	Sophie Galvagnon, commandante du Polar Pod et du Persévérance de Jean-Louis Étienne
+A1	emotion T6 Positif

@@ -1,0 +1,12 @@
+T1	lieu 3 11	cap Horn
+T2	personne 35 50	Romain Pilliard
+T3	personne 54 64	Alex Pella
+T4	fonction 75 83	skippers
+T5	date 100 114	dimanche matin
+T6	lieu 124 138	îles des Etats
+T7	personne 159 175	Christian Dumard
+T8	organisation 200 218	Voiles et Voiliers
+T9	emotion 66 175	Les deux skippers se sont abrités dimanche matin sous les îles des Etats sur les conseils de Christian Dumard
+A1	emotion T9 Positif
+T10	emotion 0 34	Le cap Horn attendra encore un peu
+A2	emotion T10 Neutre

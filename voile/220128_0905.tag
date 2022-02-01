@@ -1,0 +1,1 @@
+Un Chinois devrait lui-aussi participer au prochain <course>Vendée Globe</course>. <personne>Charles Caudrelier</personne> et <personne>Jacques Caraës</personne> applaudissent des deux mains mais le <fonction>skipper</fonction> de <lieu>Dongfeng</lieu> pense qu'"il leur faudrait un <personne>Eric Tabarly</personne> chinois pour créer des vocations là-bas".

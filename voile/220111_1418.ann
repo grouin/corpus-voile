@@ -1,0 +1,6 @@
+T1	categorie 37 45	trimaran
+T2	equipage 46 54	Maserati
+T3	emotion 59 89	Tenir assis est un challenge !
+A1	emotion T3 Negatif
+T4	emotion 7 26	Navigation violente
+A2	emotion T4 Negatif

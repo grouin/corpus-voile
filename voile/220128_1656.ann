@@ -1,0 +1,11 @@
+T1	taille 0 8	18 pieds
+T2	personne 21 40	John Winning Senior
+T3	age 42 48	69 ans
+T4	lieu 85 99	baie de Sydney
+T5	categorie 67 81	engins volants
+T6	distinction 59 62	roi
+R1	attribut Arg1:T2 Arg2:T6	
+R2	attribut Arg1:T2 Arg2:T3	
+R3	localisation Arg1:T2 Arg2:T4	
+T7	emotion 56 81	le roi des engins volants
+A1	emotion T7 Positif

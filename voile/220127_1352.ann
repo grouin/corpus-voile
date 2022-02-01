@@ -1,0 +1,7 @@
+T1	personne 7 18	Yann Quenet
+T2	lieu 28 42	Afrique du Sud
+T3	lieu 55 63	Bretagne
+T4	categorie 88 95	voilier
+R1	localisation Arg1:T1 Arg2:T2	
+T5	emotion 7 63	Yann Quenet quitte l’Afrique du Sud, cap sur la Bretagne
+A1	emotion T5 Positif

@@ -1,0 +1,1 @@
+Le <lieu>cap Horn</lieu> attendra encore un peu <personne>Romain Pilliard</personne> et <personne>Alex Pella</personne>. Les deux <fonction>skippers</fonction> se sont abrités <date>dimanche matin</date> sous les <lieu>îles des Etats</lieu> sur les conseils de <personne>Christian Dumard</personne> qui explique pourquoi à <organisation>Voiles et Voiliers</organisation>.

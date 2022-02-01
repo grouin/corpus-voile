@@ -1,0 +1,1 @@
+<personne>Kéni Piperol</personne> va courir la <course>Route du Rhum</course> avec un <voilier>voilier</voilier> recyclable : « C’est l’avenir » @<personne>kenipiperol</personne> @<course>routedurhum</course>

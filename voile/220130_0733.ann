@@ -1,0 +1,7 @@
+T1	lieu 11 19	Canaries
+T2	type 75 100	traversée de l'Atlantique
+T3	technique 0 6	Escale
+T4	emotion 0 19	Escale aux Canaries
+A1	emotion T4 Positif
+T5	emotion 52 100	réalise son rêve d'une traversée de l'Atlantique
+A2	emotion T5 Positif

@@ -1,0 +1,8 @@
+T1	bateau 16 24	Comanche
+T2	voilier 3 15	maxi voilier
+T3	distinction 25 45	bat tous les records
+T4	fonction 52 63	architectes
+T5	organisation 68 83	VPLPYachtDesign
+T6	course 105 115	RORCRacing
+T7	emotion 0 45	Le maxi voilier Comanche bat tous les records
+A1	emotion T7 Positif

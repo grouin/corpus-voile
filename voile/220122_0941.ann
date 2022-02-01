@@ -1,0 +1,7 @@
+T1	categorie 11 16	yacht
+T2	bateau 17 29	Reine d’Azur
+T3	incident 2 7	épave
+T4	lieu 80 92	Méditerranée
+T5	incident 52 69	pollution majeure
+T6	emotion 0 92	L’épave du yacht Reine d’Azur a été renflouée : une pollution majeure évitée en Méditerranée
+A1	emotion T6 Positif

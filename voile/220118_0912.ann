@@ -1,0 +1,6 @@
+T1	bateau 11 23	Reine d’Azur
+T2	voilier 25 30	yacht
+T3	incident 31 58	coulé par 55 mètres de fond
+T4	lieu 62 74	Méditerranée
+T5	emotion 0 58	L’épave du Reine d’Azur, yacht coulé par 55 mètres de fond
+A1	emotion T5 Negatif

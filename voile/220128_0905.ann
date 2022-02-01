@@ -1,0 +1,13 @@
+T1	course 52 64	Vendée Globe
+T2	personne 66 84	Charles Caudrelier
+T3	personne 88 102	Jacques Caraës
+T4	personne 190 202	Eric Tabarly
+T5	lieu 151 159	Dongfeng
+T6	emotion 66 131	Charles Caudrelier et Jacques Caraës applaudissent des deux mains
+A1	emotion T6 Positif
+T7	emotion 170 242	il leur faudrait un Eric Tabarly chinois pour créer des vocations là-bas
+A2	emotion T7 Neutre
+#1	AnnotatorNotes T7	factuel
+T8	fonction 140 147	skipper
+T9	emotion 0 64	Un Chinois devrait lui-aussi participer au prochain Vendée Globe
+A3	emotion T9 Positif

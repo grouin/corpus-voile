@@ -1,0 +1,6 @@
+T1	personne 12 21	AlanRoura
+T2	voilier 41 53	ex Hugo Boss
+T3	course 85 96	VendeeGlobe
+T4	emotion 58 98	Oui, je rêve de gagner le @VendeeGlobe !
+A1	emotion T4 Positif
+R1	skipper Arg1:T1 Arg2:T2	

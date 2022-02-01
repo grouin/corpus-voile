@@ -1,0 +1,1 @@
+Le <fonction>patron</fonction> du <organisation>CMB</organisation>, <personne>Philippe Rouxel</personne>, est un sponsor confiant qui préfère soutenir des talents que parier sur des teams de grandes courses. Il explique pourquoi à <organisation>Voiles et Voiliers</organisation>.

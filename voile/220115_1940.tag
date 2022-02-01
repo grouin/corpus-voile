@@ -1,0 +1,1 @@
+La vidéo de ce jeune <fonction>barreur</fonction> danois partant en surf sur son <categorie>Optimist</categorie> a épaté <personne>Violette Dorange</personne> : " Il est fort ! Ca me rappelle des super souvenirs"

@@ -1,0 +1,1 @@
+La <organisation>SNSM</organisation> de <lieu>Bandol</lieu> sauve « un voilier fantôme » <pratique>à la dérive</pratique> sans personne à bord @<organisation>SNSMBANDOL</organisation> @<organisation>SauveteursenMer</organisation>

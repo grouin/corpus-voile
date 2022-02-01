@@ -1,0 +1,5 @@
+T1	voilier 4 11	bateaux
+T2	lieu 39 52	Perros-Guirec
+T3	incident 12 22	s’échouent
+T4	emotion 0 92	Des bateaux s’échouent dans le port de Perros-Guirec : les portes n’avaient pas été fermées…
+A1	emotion T4 Negatif

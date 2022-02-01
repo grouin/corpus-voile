@@ -1,0 +1,1 @@
+Les routages de <personne>Christian Dumard</personne> pour les 75 <categorie>voiliers</categorie> qui prendront à 16h00 (heure française) le départ de la 10e <course>Transquadra</course> à <lieu>Funchal</lieu>.
